@@ -1,0 +1,90 @@
+2️⃣ COMANDO 2: Criação do Script/Roteiro Personalizado - Sua Mensagem, Nossa Narrativa
+Objetivo: Transformar o DNA comunicativo mapeado em um roteiro autêntico e envolvente, com múltiplas sugestões de temas ou conteúdo para máxima flexibilidade.
+PROMPT COMANDO 2:
+"Com base na análise aprofundada do DNA comunicativo do cliente/nicho (conforme CONFIGURAÇÃO INICIAL DO PROJETO), sua tarefa é criar um script de vídeo personalizado que não apenas informe, mas cative. A DURAÇÃO DESEJADA e a PLATAFORMA PRINCIPAL (da CONFIGURAÇÃO INICIAL DO PROJETO) serão seus guias para otimizar cada segundo e cada palavra."
+ESCOLHA UMA OPÇÃO:
+OPÇÃO A - TRANSFORMAR CONTEÚDO EXISTENTE: Dando Nova Vida à Sua Mensagem
+Instrução: Transforme o CONTEÚDO BASE fornecido em um script de vídeo dinâmico e impactante, otimizado para o formato visual.
+
+CONTEÚDO BASE: [Cole aqui o texto/conteúdo que será transformado em vídeo. Ex: postagem de Instagram, trecho de e-book, reflexão, artigo de blog, etc.]
+OPÇÃO B - CRIAR BASEADO EM MATERIAIS ANALISADOS: Expandindo Sua Autoridade
+Instrução:  "Com base nas informações e insights extraídos dos materiais analisados (do COMANDO 1), crie um novo conteúdo original sobre o TEMA/TÓPICO ESPECÍFICO. Este script deve ser uma extensão natural da sua voz e expertise."
+
+TEMA/TÓPICO ESPECÍFICO: [Defina o tema ou tópico]
+
+Mantenha os ensinamentos e metodologia do cliente: A essência da sua sabedoria.
+Use o conhecimento demonstrado nos materiais originais: Aprofunde o que já funciona.
+Seja coerente com o posicionamento dele: Reforce sua marca.
+Foque no público-alvo identificado: Fale diretamente com quem importa.
+OPÇÃO C - IA SUGERE TEMAS + VOCÊ ESCOLHE: Curadoria Inteligente de Conteúdo
+Instrução: "Primeiro, vou precisar de um brainstorming inteligente. Sugira múltiplos temas que ressoem com o seu público. Depois, com a sua escolha, criaremos um script completo e envolvente."
+
+PRIMEIRO: "Sugira 3 a 5 temas/tópicos relevantes e estratégicos que o cliente poderia abordar, baseando-se em:
+
+Conhecimento demonstrado nos materiais analisados: Onde sua expertise brilha.
+Dores do público-alvo identificado: Soluções para problemas reais.
+Metodologia/ensinamentos do cliente: Seu método único de transformação.
+Gaps de conteúdo que ele poderia explorar: Oportunidades de se destacar.
+
+DEPOIS: Após minha escolha, crie um script completo sobre o tema selecionado, mantendo:
+
+Os ensinamentos e metodologia do cliente: Sua voz autêntica.
+Conhecimento demonstrado nos materiais originais: A base da sua autoridade.
+Coerência com o posicionamento dele: Reforçando sua identidade.
+Foco no público-alvo identificado: Conectando com quem realmente importa.
+OPÇÃO D - ROTEIRO DE VALOR POR NICHO: Liderando a Conversa no Seu Segmento
+Instrução: "Crie um roteiro de conteúdo de valor que posicione o profissional do NICHO (conforme CONFIGURAÇÃO INICIAL DO PROJETO) como uma autoridade inquestionável. Você pode escolher o tipo de conteúdo que mais se alinha à estratégia: Educativo, Inspiracional/Motivacional, Entretenimento, Institucional, Comercial/Vendas ou Tendências/Atualidades."
+
+PRIMEIRO: Sugira 3 a 5 temas/tópicos relevantes e de alto impacto que um profissional desse nicho poderia abordar, baseando-se em uma análise profunda:
+
+Análise Automática do Nicho:
+
+Principais dores e desafios do público: Onde a solução se encontra.
+Linguagem e termos técnicos comuns: A linguagem que seu público entende.
+Tom de comunicação adequado: A voz que ressoa.
+Objetivos e desejos desse segmento: O que seu público almeja.
+Situações cotidianas relevantes: Conexão com a realidade.
+Erros comuns que esse público comete: Oportunidades de guiar.
+Mitos ou crenças equivocadas que precisam ser quebradas: Desmistificando para empoderar.
+Dicas práticas, hacks, atalhos ou métodos: Valor imediato.
+Tendências do mercado ou atualizações importantes: Mantendo-se à frente.
+Reflexões, mentalidade e visão de futuro: Inspirando e transformando.
+Perguntas frequentes que esse público geralmente faz: Respondendo às dúvidas cruciais.
+
+
+
+DEPOIS: "Após minha escolha, crie um script completo sobre o tema selecionado, com a profundidade e o impacto que seu público espera."
+
+ESPECIFICAÇÕES DO SCRIPT (PARA TODAS AS OPÇÕES):
+
+Duração: Precisamente alinhada à DURAÇÃO DESEJADA na CONFIGURAÇÃO INICIAL DO PROJETO.
+Autenticidade: 100% autêntico ao estilo comunicativo mapeado (do cliente ou do nicho), como se fosse criado por ele mesmo.
+Linguagem: Natural, fluida e otimizada para conversão em áudio/voz clonada, garantindo uma experiência auditiva impecável.
+Fluxo Narrativo: Impactante, envolvente e com um storytelling que prende a atenção do início ao fim.
+
+Estrutura Obrigatória: O Caminho para o Engajamento:
+
+Gancho Inicial (3-5 segundos): Uma conexão imediata com a dor, desejo, desafio, erro ou mito do público, seguida de uma frase de impacto. Deve despertar identificação instantânea e pode começar com uma pergunta provocativa, uma afirmação forte ou uma quebra de expectativa. O objetivo é parar o scroll!
+Desenvolvimento: O coração do seu conteúdo. Entregue valor inestimável (dica, insight, método ou reflexão) explicado de forma clara, objetiva e no tom natural do nicho. A linguagem deve ser próxima e alinhada ao DNA comunicativo. Use exemplos rápidos, metáforas ou mini histórias para ilustrar e fixar a mensagem.
+Fechamento/CTA (5-10 segundos): Um encerramento poderoso que reforça a ideia central, provoca reflexão ou inspira motivação – sem qualquer tom comercial agressivo. Feche com uma frase de efeito, uma reflexão profunda, uma validação da jornada do público ou uma chamada leve à ação interna (que incentive a mudança no próprio público, não uma venda direta). Deixe um legado, não uma oferta.
+
+Elementos Essenciais a Incluir:
+
+Expressões características identificadas: Para uma voz inconfundível.
+Tom e ritmo natural (do cliente ou do nicho): A cadência que seu público reconhece.
+Pausas estratégicas marcadas: Para ênfase e respiração da mensagem.
+Ênfases indicadas (ex: PALAVRA): Destaque o que realmente importa.
+Transições fluidas entre ideias: Uma narrativa sem interrupções.
+
+Entrega Esperada:
+
+Script completo formatado para narração: Pronto para ser transformado em áudio.
+Tempo estimado de cada seção: Para um controle preciso da duração.
+Sugestões de trilha sonora (3 opções com justificativa): A atmosfera sonora perfeita.
+Indicações de ritmo e ênfases: Para uma performance vocal impecável.
+(Para OPÇÃO D) Estilo visual: Sugestões de ambientes/imagens ultra-realistas adequadas ao nicho: O cenário ideal para sua mensagem.
+(Para OPÇÃO D) Palavras-chave: Termos técnicos/expressões do nicho para usar: O vocabulário que conecta.
+
+Resultado Esperado: "Um roteiro que não apenas informa, mas transforma. Que pareça ter sido criado por um especialista daquele nicho, entregando valor genuíno e construindo uma conexão profunda com o público-alvo."
+
+Aguardando Aprovação: Não prossiga para o próximo comando até receber confirmação de que o script está aprovado e o tema escolhido (se aplicável). Sua validação é crucial para a próxima etapa.
