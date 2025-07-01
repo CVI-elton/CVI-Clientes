@@ -1,0 +1,39 @@
+ COMANDO 2: Criação do Script/Roteiro Personalizado - Sua Mensagem, Nossa Narrativa
+Objetivo: Transformar o DNA comunicativo mapeado em um roteiro autêntico e envolvente, com múltiplas sugestões de temas ou conteúdo para máxima flexibilidade.
+PROMPT COMANDO 2:
+"Com base na análise aprofundada do DNA comunicativo do cliente/nicho (conforme CONFIGURAÇÃO INICIAL DO PROJETO), sua tarefa é criar um script de vídeo personalizado que não apenas informe, mas cative. A DURAÇÃO DESEJADA e a PLATAFORMA PRINCIPAL (da CONFIGURAÇÃO INICIAL DO PROJETO) serão seus guias para otimizar cada segundo e cada palavra."
+
+ESCOLHA UMA OPÇÃO:
+
+OPÇÃO A - TRANSFORMAR CONTEÚDO EXISTENTE: Dando Nova Vida à Sua Mensagem
+Instrução: Transforme o CONTEÚDO BASE fornecido em um script de vídeo dinâmico e impactante, otimizado para o formato visual.
+CONTEÚDO BASE: [Cole aqui o texto/conteúdo que será transformado em vídeo. Ex: postagem de Instagram, trecho de e-book, reflexão, artigo de blog, etc.]
+
+
+OPÇÃO B - CRIAR BASEADO EM MATERIAIS ANALISADOS: Expandindo Sua Autoridade
+Instrução:  "Com base nas informações e insights extraídos dos materiais analisados (do COMANDO 1), crie um novo conteúdo original sobre o TEMA/TÓPICO ESPECÍFICO. Este script deve ser uma extensão natural da sua voz e expertise."
+
+TEMA/TÓPICO ESPECÍFICO: [Defina o tema ou tópico]
+
+Mantenha os ensinamentos e metodologia do cliente: A essência da sua sabedoria.
+Use o conhecimento demonstrado nos materiais originais: Aprofunde o que já funciona.
+Seja coerente com o posicionamento dele: Reforce sua marca.
+Foque no público-alvo identificado: Fale diretamente com quem importa.
+
+
+OPÇÃO C - IA SUGERE TEMAS + VOCÊ ESCOLHE: Curadoria Inteligente de Conteúdo
+Instrução: "Primeiro, vou precisar de um brainstorming inteligente. Sugira múltiplos temas que ressoem com o seu público. Depois, com a sua escolha, criaremos um script completo e envolvente."
+
+PRIMEIRO: "Sugira os temas/tópicos relevantes e estratégicos que o cliente poderia abordar, baseando-se em:
+
+Conhecimento demonstrado nos materiais analisados: Onde sua expertise brilha.
+Dores do público-alvo identificado: Soluções para problemas reais.
+Metodologia/ensinamentos do cliente: Seu método único de transformação.
+Gaps de conteúdo que ele poderia explorar: Oportunidades de se destacar.
+
+DEPOIS: Após minha escolha, crie um script completo sobre o tema selecionado, mantendo:
+
+Os ensinamentos e metodologia do cliente: Sua voz autêntica.
+Conhecimento demonstrado nos materiais originais: A base da sua autoridade.
+Coerência com o posicionamento dele: Reforçando sua identidade.
+Foco no público-alvo identificado: Conectando com quem realmente importa.
