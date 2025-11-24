@@ -1,0 +1,1022 @@
+# COMANDO 3: Estrutura Visual e Takes - O Blueprint do Impacto Visual
+
+**Objetivo:** Traduzir o script aprovado em uma estrutura visual detalhada, com especificações técnicas precisas e múltiplas opções de conteúdo visual para cada take, garantindo um vídeo dinâmico e visualmente rico.
+
+---
+
+## PERGUNTAS INICIAIS (Alinhamento com COMANDO 2)
+
+**CONFIRME A ESTRUTURA DEFINIDA NO COMANDO 2:**
+
+Este vídeo é sobre:
+- [ ] **UMA EMPRESA** (foco narrativo individual)
+- [ ] **DUAS EMPRESAS** (narrativa de aliança/união)
+
+Este vídeo tem:
+- [ ] **NARRATIVA LINEAR** (história única contínua)
+- [ ] **NARRATIVA PARALELA CONVERGENTE** (duas linhas de tempo que se encontram)
+
+---
+
+## PROMPT COMANDO 3:
+
+"Script Cinematográfico Aprovado! Com o roteiro épico em mãos, é hora de dar vida visual à sua mensagem. A CONFIGURAÇÃO INICIAL DO PROJETO, a DURAÇÃO CONFIRMADA DO ÁUDIO, a PLATAFORMA PRINCIPAL e a ESTRUTURA CINEMATOGRÁFICA devem ser consideradas para criar um blueprint visual digno de cinema profissional."
+
+---
+
+## 🎭 CONFIGURAÇÃO PARA NARRATIVA PARALELA CONVERGENTE
+
+### QUANDO O VÍDEO FOR NARRATIVA PARALELA, ADICIONE ESTA SEÇÃO NO INÍCIO:
+
+```markdown
+## 🎬 CONFIGURAÇÃO DE NARRATIVA PARALELA CONVERGENTE
+
+### IDENTIDADE DAS LINHAS:
+
+**🔵 LINHA A - [Nome/Descrição da Realidade A]**
+- **Conceito:** [Descrição breve - ex: "Realidade do Produtor Rural"]
+- **Tom visual:** [Características visuais gerais]
+- **Color Grading:** 
+  - LUT/Preset: [Nome ou descrição]
+  - Temperatura: [Quente/Fria/Neutra]
+  - Saturação: [Alta/Média/Baixa]
+  - Tons dominantes: [Cores principais]
+  - Contraste: [Alto/Médio/Suave]
+  - Exemplos de referência: [Links ou descrições]
+
+**🔴 LINHA B - [Nome/Descrição da Realidade B]**
+- **Conceito:** [Descrição breve - ex: "Realidade do Mercado Global"]
+- **Tom visual:** [Características visuais gerais]
+- **Color Grading:**
+  - LUT/Preset: [Nome ou descrição]
+  - Temperatura: [Quente/Fria/Neutra]
+  - Saturação: [Alta/Média/Baixa]
+  - Tons dominantes: [Cores principais]
+  - Contraste: [Alto/Médio/Suave]
+  - Exemplos de referência: [Links ou descrições]
+
+**🟣 CONVERGÊNCIA - [Nome/Descrição da União]**
+- **Conceito:** [Descrição da fusão visual]
+- **Tom visual:** [Como as duas linhas se harmonizam]
+- **Color Grading:**
+  - LUT/Preset: [Nome ou descrição - fusão de A e B]
+  - Temperatura: [Equilíbrio entre A e B]
+  - Saturação: [Evolução para união]
+  - Tons dominantes: [Paleta unificada]
+  - Contraste: [Estilo épico final]
+  - Elementos visuais de união: [Split screens, fusões, animações]
+  - Exemplos de referência: [Links ou descrições]
+
+### PADRÃO DE INTERCALAÇÃO:
+
+**Sequência definida no COMANDO 2:**
+[Especificar padrão - ex: 🔵→🔵→🔴→🔵→🔴→🔴→🔵→🔴→🟣]
+
+**Lógica narrativa:**
+[Explicar por que esta intercalação específica foi escolhida]
+
+### TRANSIÇÕES ENTRE LINHAS:
+
+**🔵→🔴 (Linha A para Linha B):**
+- Tipo preferencial: [Corte direto, Dissolve, Match Cut específico]
+- Justificativa: [Por que este tipo]
+
+**🔴→🔵 (Linha B para Linha A):**
+- Tipo preferencial: [Corte direto, Dissolve, Match Cut específico]
+- Justificativa: [Por que este tipo]
+
+**🔵/🔴→🟣 (Para Convergência):**
+- Tipo preferencial: [Split screen, Fusão, Wipe digital, Morphing]
+- Justificativa: [Como marca o momento de união]
+
+---
+```
+
+*NOTA: Esta seção só deve aparecer quando o vídeo for NARRATIVA PARALELA. Para NARRATIVA LINEAR, pule direto para a próxima seção.*
+
+---
+
+## STORYTELLING CINEMATOGRÁFICO - APLICAÇÃO VISUAL
+
+### REGRAS DOS PLANOS (Base do Storytelling Visual):
+
+1. **Planos Abertos → "ONDE"** (estabelecem contexto, escala, ambiente épico)
+2. **Planos Médios → "O QUE"** (mostram ação, pessoas, desenvolvimento narrativo)
+3. **Planos Fechados → "COMO"** (revelam detalhes, técnica, impacto específico)
+
+### DISTRIBUIÇÃO ESTRATÉGICA:
+
+#### PARA NARRATIVA LINEAR:
+
+**Uma Empresa:**
+- **40% Planos Abertos:** Estabelecer autoridade e escala
+- **35% Planos Médios:** Demonstrar capacidades e ação
+- **25% Planos Fechados:** Revelar diferenciais únicos
+- **Progressão:** Apresentação → Credenciais → Diferenciais → Call-to-Action
+
+**Duas Empresas:**
+- **30% Planos Abertos:** Contexto épico e união final
+- **40% Planos Médios:** Apresentar ambas as empresas
+- **30% Planos Fechados:** Detalhes da aliança e impacto
+- **Progressão:** Empresa 1 → Empresa 2 → Convergência → União Épica
+
+#### PARA NARRATIVA PARALELA CONVERGENTE:
+
+**Distribuição:**
+- **30% Planos Abertos:** ONDE de cada linha + união épica
+- **40% Planos Médios:** O QUE em ambas as linhas + ações
+- **30% Planos Fechados:** COMO + emoções + detalhes decisivos
+
+**Progressão:**
+- **Fase 1 (Intercalação):** Estabelecer ambas as realidades alternadamente
+- **Fase 2 (Convergência):** Unir visualmente as duas linhas
+- **Fase 3 (Fechamento):** Consolidar união épica
+
+---
+
+## ESTRUTURA DE ORGANIZAÇÃO DO DOCUMENTO
+
+### HIERARQUIA ORGANIZACIONAL:
+
+```
+📂 SEÇÃO [Número]: [Nome da Seção]
+    ↓
+  🎬 TAKE [Número]: [LINHA A/B/CONVERGÊNCIA] [Título do Take]
+    ↓
+  CENA [Número][Letra]: [Descrição da Cena] (se take for subdividido)
+```
+
+### EXEMPLOS DE ESTRUTURA:
+
+**Para NARRATIVA LINEAR:**
+```
+📂 SEÇÃO 1: ABERTURA IMPACTANTE (0:00-0:25)
+  ↓
+🎬 TAKE 1: "O BRASIL É UM PAÍS DE OPORTUNIDADES" (0:00-0:04)
+  ↓
+CENA 1: Única (sem subdivisão)
+
+🎬 TAKE 2: "DE NORTE A SUL" (0:04-0:13)
+  ↓
+CENA 2A: Primeira parte da narração (0:04-0:09)
+CENA 2B: Segunda parte da narração (0:09-0:13)
+```
+
+**Para NARRATIVA PARALELA:**
+```
+📂 SEÇÃO 1: ESTABELECIMENTO DAS REALIDADES (0:00-0:30)
+  ↓
+🎬 TAKE 1: 🔵 [LINHA A] "MILHARES DE HECTARES" (0:00-0:03)
+CENA 1: Única
+
+🎬 TAKE 2: 🔵 [LINHA A] "TRABALHO ÁRDUO" (0:03-0:07)
+CENA 2: Única
+
+🎬 TAKE 3: 🔴 [LINHA B] "MERCADOS GLOBAIS" (0:07-0:10)
+CENA 3: Única
+
+📂 SEÇÃO 2: CONVERGÊNCIA ÉPICA (0:30-0:60)
+  ↓
+🎬 TAKE 9: 🟣 [CONVERGÊNCIA] "PORTO SAFRA CONECTA" (0:30-0:48)
+CENA 9A: Revelação da solução (0:30-0:37)
+CENA 9B: Explicação integrada (0:37-0:48)
+```
+
+---
+
+## SISTEMA DE CONTINUAÇÃO AUTOMÁTICA EM MÚLTIPLOS DOCUMENTOS
+
+### REGRA DE LIMITE DE CARACTERES:
+
+**QUANDO ATINGIR O LIMITE:**
+- O Claude deve pausar a criação do documento
+- Informar claramente: "⚠️ LIMITE DE CARACTERES ATINGIDO"
+- Indicar exatamente onde parou (Seção, Take, Cena)
+- Aguardar comando do usuário: "Continuar"
+
+**APÓS COMANDO "CONTINUAR":**
+- Criar novo documento com nome: "[PROJETO] - COMANDO 3.[Número da Parte]"
+- Exemplo: "Porto Safra - COMANDO 3.2", "Porto Safra - COMANDO 3.3"
+- Iniciar novo documento EXATAMENTE de onde parou
+- Incluir cabeçalho de continuação:
+
+```markdown
+# 🎬 COMANDO 3.[NÚMERO]: ESTRUTURA VISUAL E TAKES (CONTINUAÇÃO)
+## [NOME DO PROJETO]
+
+**Documento:** CONTINUAÇÃO do COMANDO 3.[Número Anterior]
+**Início desta parte:** [SEÇÃO X - TAKE Y]
+**Data:** [Data atual]
+```
+
+### TEMPLATE DE PAUSA (quando atingir limite):
+
+```markdown
+---
+
+## ⚠️ LIMITE DE CARACTERES ATINGIDO
+
+**Última seção completa:** [Nome da Seção]
+**Último take completo:** TAKE [Número] - [Título]
+**Última cena completa:** CENA [Número][Letra] (se aplicável)
+
+**Progresso do documento:**
+- ✅ Seções concluídas: [Lista]
+- ⏸️ Pausado em: [Localização exata]
+- ⏳ Faltam: [Seções restantes]
+
+---
+
+**💬 Para continuar, digite:** "Continuar"
+
+**O próximo documento será:** "[PROJETO] - COMANDO 3.[Número]"
+**Iniciará em:** [Seção/Take/Cena exata]
+```
+
+---
+
+## ESPECIFICAÇÕES VISUAIS: Detalhando Cada Cena
+
+### DIVISÃO EM TAKES E CENAS CINEMATOGRÁFICOS:
+
+"Divida o script em takes estratégicos seguindo a cronometragem do COMANDO 2.
+
+**ANÁLISE DE SUBDIVISÃO:**
+- Analise a quantidade de texto da narração em cada take
+- Se take tiver mais de 10 segundos E texto extenso: subdividir em CENAS
+- Objetivo: Evitar takes longos que desfoquem a atenção
+- Cada CENA deve ter propósito visual claro
+
+**NOMENCLATURA:**
+- Takes: TAKE 1, TAKE 2, TAKE 3...
+- Cenas (subdivisões): CENA 1A, CENA 1B, CENA 2A, CENA 2B...
+- Se take não precisar subdivisão: CENA [número] única
+
+**PARA NARRATIVA PARALELA:**
+- Identificar LINHA em cada take: 🔵 [LINHA A] ou 🔴 [LINHA B] ou 🟣 [CONVERGÊNCIA]
+- Exemplo: 🎬 TAKE 3: 🔴 [LINHA B] "MERCADOS GLOBAIS" (0:07-0:10)"
+
+---
+
+## TEMPLATE COMPLETO PARA CADA TAKE/CENA
+
+### 🎬 TAKE [NÚMERO]: [🔵/🔴/🟣] [LINHA] "[TÍTULO DO TAKE]"
+**Cronometragem:** [00:00 - 00:XX] ([X] segundos)  
+**Plano Cinematográfico:** [PLANO ABERTO / PLANO MÉDIO / PLANO FECHADO] ([ONDE/O QUE/COMO])  
+**Linha Narrativa:** [LINHA A / LINHA B / CONVERGÊNCIA] *(apenas para narrativa paralela)*
+
+#### A) MOVIMENTAÇÃO/TRANSIÇÃO CINEMATOGRÁFICA:
+- **Script:** "[Narração específica completa deste take]"
+- **Movimento:** [Descrição do movimento de câmera: Pan, Zoom, Dolly, Estático, etc]
+- **Velocidade:** [Lenta majestosa / Média fluida / Rápida dinâmica / Crescente dramática]
+- **Efeito de transição:** [Como conecta cinematograficamente à próxima cena]
+- **Justificativa:** [Por que este movimento/velocidade foi escolhido]
+
+#### A.1) SUBDIVISÃO DO TAKE (se aplicável):
+
+**CENA [Número][Letra]:** "[Parte específica da narração]" ([00:XX-00:XX] | [X]s)
+**CENA [Número][Letra]:** "[Parte específica da narração]" ([00:XX-00:XX] | [X]s)
+
+*(Repetir para cada subdivisão necessária)*
+
+#### B) MATCH CUT:
+
+**Técnica escolhida:** [Número e nome do Match Cut]
+
+**Opções disponíveis:**
+
+**TRANSIÇÕES PADRÃO (LINEAR E PARALELA):**
+
+- **[1] Graphic Match (Match on Action Visual)** - Transição baseada em formas, cores ou composições visuais similares
+  - Exemplo: Cortar de um prato redondo para a lua cheia
+  
+- **[2] Match on Action** - O movimento ou ação continua de um plano para outro
+  - Exemplo: Pessoa abre porta em um plano e completa movimento em outro local
+  
+- **[3] Sound Bridge Match** - O áudio de uma cena continua na próxima
+  - Exemplo: Narração ou música conectando visualmente cenas diferentes
+  
+- **[4] Eyeline Match** - Personagem olhando para algo + próximo plano revela o que vê
+  - Exemplo: Pessoa olha para cima + corte para céu/drone
+  
+- **[5] Color Match** - Transição baseada em cores dominantes similares
+  - Exemplo: Céu azul cortando para parede azul
+  
+- **[6] Conceptual Match (Metaphorical Match)** - Conecta planos através de conceito/metáfora
+  - Exemplo: Semente germinando cortando para empresa crescendo
+  
+- **[7] Temporal Match** - Elementos repetidos em diferentes momentos (passagem temporal)
+  - Exemplo: Mesma feira em diferentes estações/anos
+  
+- **[8] Scale Match** - Transição baseada em tamanhos/proporções similares
+  - Exemplo: Logo pequeno crescendo para logo grande
+  
+- **[9] Movement Match** - Movimento mantém mesma direção/velocidade/trajetória
+  - Exemplo: Câmera pan direita continua pan direita na próxima cena
+  
+- **[10] Nenhuma** - Corte simples/direto (quando transição técnica não é necessária)
+
+**TRANSIÇÕES ESPECÍFICAS PARA NARRATIVA PARALELA:**
+
+- **[11] Contrast Cut (Linha A → Linha B)** - Corte abrupto que enfatiza contraste entre realidades
+  - Exemplo: Campo brasileiro → Porto internacional (choque visual intencional)
+  - **Uso:** Transições 🔵→🔴 ou 🔴→🔵 para criar impacto
+  
+- **[12] Parallel Action Match** - Ações similares em contextos diferentes
+  - Exemplo: Mãos segurando produto agrícola 🔵 → Mãos analisando tablet 🔴
+  - **Uso:** Criar espelhamento entre Linha A e Linha B
+  
+- **[13] Split Screen Transition** - Divisão de tela mostrando ambas as linhas simultaneamente
+  - Exemplo: Campo (esquerda) + Escritório (direita) na mesma tela
+  - **Uso:** Momento de transição para convergência 🔵/🔴→🟣
+  
+- **[14] Morphing/Fusion Transition** - Fusão visual gradual entre as duas realidades
+  - Exemplo: Imagem de campo funde digitalmente com porto internacional
+  - **Uso:** Entrada na CONVERGÊNCIA 🟣
+  
+- **[15] Digital Wipe/Line Transition** - Linha digital "conectando" as duas realidades
+  - Exemplo: Linha luminosa atravessa tela unindo campo e mercado global
+  - **Uso:** Momento épico de união na CONVERGÊNCIA 🟣
+
+**Justificativa da escolha:** [Por que este Match Cut específico funciona aqui]
+
+**Exemplo de aplicação:** [Descrição visual concreta de como será executado]
+
+**Motivo cinematográfico:** [Como contribui para storytelling]
+
+**Tipo de transição:** [DENTRO DA MESMA LINHA / ENTRE LINHAS (🔵↔🔴) / PARA CONVERGÊNCIA (→🟣)] *(apenas para narrativa paralela)*
+
+#### C) CONTEÚDO VISUAL:
+
+**VÍDEO - [Número] Sugestões:**
+
+1. **[Título da sugestão visual]**
+   - Descrição detalhada do footage
+   - Elementos-chave a capturar
+   - Iluminação/momento do dia recomendado
+   - Movimento de câmera sugerido
+   - *[Para Narrativa Paralela] Color Grading: Linha A/B/Convergência*
+
+2. **[Título da sugestão visual]**
+   - [Mesmo formato acima]
+
+3. **[Título da sugestão visual]**
+   - [Mesmo formato acima]
+
+*(3-5 sugestões por take/cena)*
+
+**RECOMENDAÇÃO ESTRATÉGICA:**
+**PRIORIDADE: Opção [Número]** ou **Opções [Número] e [Número]**
+
+**Justificativa completa:**
+- **Impacto narrativo:** [Como contribui para história]
+- **Alinhamento:** [Como se encaixa no plano cinematográfico Aberto/Médio/Fechado]
+- **Build-up emocional:** [Como constrói emoção crescente]
+- **Efetividade:** [Por que funciona para o público-alvo específico]
+- *[Para Narrativa Paralela] **Identidade da Linha:** Como reforça visual de Linha A/B/Convergência*
+
+#### D) ELEMENTOS GRÁFICOS CINEMATOGRÁFICOS:
+
+- **Textos na tela:**
+  - "[Texto exato]"
+  - Timing: Aparece em [00:XX] | Desaparece em [00:XX]
+  - Tipografia: [Nome da fonte, tamanho]
+  - Cor: [Cor específica com código hex se possível]
+  - Posição: [Localização na tela]
+  - Animação entrada: [Tipo de animação]
+  - Animação saída: [Tipo de animação]
+  
+  *(Repetir para cada texto - SE HOUVER. Se não houver texto, deixar seção vazia ou escrever "Nenhum texto necessário")*
+
+- **Elementos visuais épicos:**
+  - [Descrição de motion graphics]
+  - [Overlays, partículas, glows]
+  - [Badges, ícones, símbolos]
+  - [Linhas, conexões, setas]
+  - *[Para Narrativa Paralela] Elementos de união visual (na convergência)*
+  
+- **Momentos de divisão de tela (se aplicável):**
+  - [Split screen, picture-in-picture]
+  - [Múltiplas informações simultâneas]
+  - *[Para Narrativa Paralela] Split screen 🔵+🔴 na convergência*
+
+**Observações especiais:**
+- [Qualquer detalhe técnico importante]
+- [Configurações de LUT ou color grading - referenciar configuração global para paralela]
+- [Sincronização com música]
+- [Momento de clímax ou atenção especial]
+
+---
+
+## 🟣 TEMPLATE ESPECIAL PARA TAKES DE CONVERGÊNCIA
+
+*(Use este template adicional quando o take for de CONVERGÊNCIA em narrativa paralela)*
+
+### 🎬 TAKE [NÚMERO]: 🟣 [CONVERGÊNCIA] "[TÍTULO DO TAKE]"
+
+**Cronometragem:** [00:00 - 00:XX] ([X] segundos)  
+**Plano Cinematográfico:** [PLANO ABERTO / PLANO MÉDIO / PLANO FECHADO]  
+**Tipo:** TAKE DE CONVERGÊNCIA - União das Linhas A e B
+
+#### ESPECIFICAÇÕES DA CONVERGÊNCIA:
+
+**Momento de União:**
+- **Timing exato:** [00:XX] - momento em que as linhas começam a se unir visualmente
+- **Duração da fusão:** [X segundos]
+- **Técnica visual primária:** [Split screen, Morphing, Fusão digital, Animação de mapa, etc.]
+
+**Como as Linhas se Unem:**
+- **Visual de Linha A (🔵):** [O que aparece da Linha A neste momento]
+- **Visual de Linha B (🔴):** [O que aparece da Linha B neste momento]
+- **Elemento de conexão:** [Linha digital, animação, fusão, etc. que une ambas]
+- **Progressão:** [Como a união evolui ao longo do take]
+
+**Elementos Visuais de Fusão:**
+- **Split Screen (se aplicável):**
+  - Layout: [Esquerda/Direita | Superior/Inferior | Diagonal | Outro]
+  - Proporção: [50/50 | 60/40 | Outro]
+  - Divisor: [Linha sólida | Gradiente | Animado | Invisível]
+  
+- **Fusões/Morphing:**
+  - Ponto de início: [00:XX]
+  - Duração: [X segundos]
+  - Estilo: [Dissolve | Alpha | Luma | Outro]
+  
+- **Animações:**
+  - [Linhas conectoras, mapas, gráficos que mostram união]
+  - [Ícones ou símbolos representando integração]
+  - [Partículas ou efeitos visuais de conexão]
+
+**Sincronização Narrativa:**
+- **Narração chave:** "[Frase específica que marca a união]"
+- **Timing da narração:** Sincroniza com [elemento visual específico]
+- **Música:** [Como trilha intensifica no momento de convergência]
+
+**Color Grading na Convergência:**
+- **Transição:** Como o grading evolui de A+B para Convergência
+- **Timing:** Em que momento exato o novo grading aparece
+- **Referência:** [Remeter à configuração global 🟣 definida no início]
+
+#### A) MOVIMENTAÇÃO/TRANSIÇÃO CINEMATOGRÁFICA:
+[Seguir template padrão acima]
+
+#### A.1) SUBDIVISÃO DO TAKE (se aplicável):
+[Seguir template padrão acima]
+
+#### B) MATCH CUT:
+[Seguir template padrão, priorizando opções 13-15 para convergência]
+
+#### C) CONTEÚDO VISUAL:
+[Seguir template padrão, com foco em visuais que mostram UNIÃO]
+
+**SUGESTÕES ESPECÍFICAS PARA CONVERGÊNCIA:**
+- Opções que mostrem ambas as realidades
+- Visuais de integração e conexão
+- Elementos tecnológicos/animações de união
+- Planos que transitam entre ambos os mundos
+
+#### D) ELEMENTOS GRÁFICOS CINEMATOGRÁFICOS:
+[Seguir template padrão, adicionar elementos de união]
+
+---
+
+*[ESTE TEMPLATE SE REPETE PARA CADA TAKE/CENA DO VÍDEO]*
+
+---
+
+## CRONOMETRAGEM E ESTRUTURA GLOBAL
+
+### TEMPLATE DE TABELA CRONOMÉTRICA:
+
+**PARA NARRATIVA LINEAR:**
+```
+| SEÇÃO | TEMPO | TAKES | PLANO DOMINANTE | FOCO NARRATIVO |
+|-------|-------|-------|-----------------|----------------|
+| 1. Abertura | 0:00-0:XX | Takes 1-X | Aberto | ONDE - Contexto |
+| 2. [Nome] | 0:XX-0:XX | Takes X-X | Médio | O QUE - Ação |
+| 3. [Nome] | 0:XX-0:XX | Takes X-X | Fechado | COMO - Detalhes |
+| 4. Fechamento | 0:XX-0:XX | Takes X-X | Aberto | ONDE - Épico Final |
+```
+
+**PARA NARRATIVA PARALELA CONVERGENTE:**
+```
+| SEÇÃO | TEMPO | TAKES | LINHA | PLANO DOMINANTE | FOCO NARRATIVO |
+|-------|-------|-------|-------|-----------------|----------------|
+| 1. Estabelecimento | 0:00-0:XX | Takes 1-X | 🔵 A + 🔴 B | Aberto/Médio | ONDE de cada realidade |
+| 2. Desenvolvimento | 0:XX-0:XX | Takes X-X | 🔵 A + 🔴 B | Médio/Fechado | Desafios paralelos |
+| 3. Convergência | 0:XX-0:XX | Takes X-X | 🟣 União | Médio/Fechado | Solução/União |
+| 4. Clímax Épico | 0:XX-0:XX | Takes X-X | 🟣 União | Aberto | Impacto global |
+```
+
+---
+
+### ANÁLISE DE DISTRIBUIÇÃO DE PLANOS:
+
+**PARA NARRATIVA LINEAR:**
+
+Após detalhar todos os takes, incluir tabela:
+
+```
+| Seção | Tempo Total | Planos Abertos | Planos Médios | Planos Fechados |
+|-------|-------------|----------------|---------------|-----------------|
+| 1. [Nome] | XXs | XXs (XX%) | XXs (XX%) | XXs (XX%) |
+| 2. [Nome] | XXs | XXs (XX%) | XXs (XX%) | XXs (XX%) |
+| 3. [Nome] | XXs | XXs (XX%) | XXs (XX%) | XXs (XX%) |
+| TOTAL | XXs | XXs (XX%) | XXs (XX%) | XXs (XX%) |
+```
+
+**Comparação com META:**
+- Meta Planos Abertos: XX% | Real: XX% | Diferença: [+/-]XX%
+- Meta Planos Médios: XX% | Real: XX% | Diferença: [+/-]XX%
+- Meta Planos Fechados: XX% | Real: XX% | Diferença: [+/-]XX%
+
+**Análise:** [Justificar se houve desvio da meta e por quê]
+
+---
+
+**PARA NARRATIVA PARALELA CONVERGENTE:**
+
+```
+| Fase Narrativa | Tempo | Linha A | Linha B | Convergência | Planos A | Planos M | Planos F |
+|----------------|-------|---------|---------|--------------|----------|----------|----------|
+| Intercalação | XXs | XXs | XXs | - | XXs (XX%) | XXs (XX%) | XXs (XX%) |
+| Convergência | XXs | - | - | XXs | XXs (XX%) | XXs (XX%) | XXs (XX%) |
+| TOTAL | XXs | XXs | XXs | XXs | XXs (XX%) | XXs (XX%) | XXs (XX%) |
+```
+
+**Análise por Linha:**
+
+**🔵 LINHA A:**
+- Tempo total: XXs (XX% do vídeo)
+- Planos dominantes: [Tipo de plano mais usado]
+- Função narrativa: [Descrever]
+
+**🔴 LINHA B:**
+- Tempo total: XXs (XX% do vídeo)
+- Planos dominantes: [Tipo de plano mais usado]
+- Função narrativa: [Descrever]
+
+**🟣 CONVERGÊNCIA:**
+- Tempo total: XXs (XX% do vídeo)
+- Planos dominantes: [Tipo de plano mais usado]
+- Função narrativa: [União épica das linhas]
+
+**Comparação com META:**
+- Meta Planos Abertos: 30% | Real: XX% | Diferença: [+/-]XX%
+- Meta Planos Médios: 40% | Real: XX% | Diferença: [+/-]XX%
+- Meta Planos Fechados: 30% | Real: XX% | Diferença: [+/-]XX%
+
+**Análise:** [Justificar distribuição e como suporta narrativa paralela]
+
+---
+
+### MAPA DE INTERCALAÇÃO (APENAS PARA NARRATIVA PARALELA):
+
+**Padrão de Intercalação Utilizado:**
+```
+Take 1: 🔵 A (Xs) → Take 2: 🔵 A (Xs) → Take 3: 🔴 B (Xs) → 
+Take 4: 🔵 A (Xs) → Take 5: 🔴 B (Xs) → Take 6: 🔴 B (Xs) → 
+Take 7: 🔵 A (Xs) → Take 8: 🔴 B (Xs) → Take 9: 🟣 CONVERGÊNCIA
+```
+
+**Justificativa do Padrão:**
+- [Por que esta intercalação específica foi escolhida]
+- [Como cria ritmo cinematográfico orgânico]
+- [Como prepara para convergência]
+
+**Momentos Críticos de Transição:**
+1. **A→B (Take X→X):** [Técnica usada e motivo]
+2. **B→A (Take X→X):** [Técnica usada e motivo]
+3. **Última transição antes da convergência (Take X→X):** [Técnica e importância]
+
+---
+
+## BUILDS CINEMATOGRÁFICOS E MOMENTOS DE CLÍMAX
+
+### MOMENTOS DE CLÍMAX IDENTIFICADOS:
+
+**NARRATIVA LINEAR:**
+
+**CLÍMAX 1 - [Nome/Momento] ([00:XX-00:XX]):**
+- **Take:** [Número]
+- **Elemento visual:** [Descrição]
+- **Música:** [Comportamento - volume, instrumentação]
+- **Impacto esperado:** [O que deve causar no espectador]
+- **Intensidade:** [XX%]
+
+**CLÍMAX 2 - [Nome/Momento] ([00:XX-00:XX]):**
+- [Mesmo formato]
+- **Intensidade:** [XX%]
+
+**CLÍMAX MÁXIMO - [Nome/Momento] ([00:XX-00:XX]):**
+- [Mesmo formato]
+- **Intensidade:** [100%]
+
+---
+
+**NARRATIVA PARALELA CONVERGENTE:**
+
+**CLÍMAX 1 - Tensão da Linha A ([00:XX-00:XX]):**
+- **Take:** [Número] 🔵
+- **Elemento visual:** [Descrição do desafio em A]
+- **Música:** [Crescimento de tensão]
+- **Impacto esperado:** [Identificação com desafio]
+- **Intensidade:** [40%]
+
+**CLÍMAX 2 - Tensão da Linha B ([00:XX-00:XX]):**
+- **Take:** [Número] 🔴
+- **Elemento visual:** [Espelhamento do desafio em B]
+- **Música:** [Mantém tensão]
+- **Impacto esperado:** [Empatia bilateral]
+- **Intensidade:** [60%]
+
+**CLÍMAX 3 - Descoberta/Transição ([00:XX-00:XX]):**
+- **Take:** [Número] 🔵/🔴
+- **Elemento visual:** [Momento de esperança]
+- **Música:** [Transição para épico]
+- **Impacto esperado:** [Antecipação da solução]
+- **Intensidade:** [75%]
+
+**CLÍMAX 4 - Revelação da Convergência ([00:XX-00:XX]):**
+- **Take:** [Número] 🟣
+- **Elemento visual:** [Primeiro momento de união visual]
+- **Música:** [Entrada de elementos épicos]
+- **Impacto esperado:** [Compreensão da solução]
+- **Intensidade:** [90%]
+
+**CLÍMAX MÁXIMO - União Épica ([00:XX-00:XX]):**
+- **Take:** [Número] 🟣
+- **Elemento visual:** [Visualização completa da união A+B]
+- **Música:** [Explosão musical total]
+- **Impacto esperado:** [Inspiração, empoderamento máximo]
+- **Intensidade:** [100%]
+
+---
+
+### SINCRONIZAÇÃO MÚSICA + NARRATIVA:
+
+**PARA NARRATIVA LINEAR:**
+
+```
+| Tempo | Volume | Instrumentação | Mood | Sincronização Crítica |
+|-------|--------|----------------|------|----------------------|
+| 0:00-0:XX | 40% | [Instrumentos iniciais] | Contemplativo | Abertura suave |
+| 0:XX-0:XX | 60% | [+ novos elementos] | Crescente | Desenvolvimento |
+| 0:XX-0:XX | 80% | [Orquestração completa] | Épico | Momento de clímax |
+| 0:XX-0:XX | 100% | [Todos elementos] | Máximo | Fechamento épico |
+| 0:XX-0:XX | 70% | [Redução gradual] | Resolução | Logo/marca |
+```
+
+---
+
+**PARA NARRATIVA PARALELA CONVERGENTE:**
+
+```
+| Tempo | Volume | Instrumentação | Mood | Linha | Sincronização Crítica |
+|-------|--------|----------------|------|-------|----------------------|
+| 0:00-0:XX | 30% | [Orgânico] | Estabelecimento | 🔵 A | Introdução Linha A |
+| 0:XX-0:XX | 40% | [+ Eletrônico] | Contraste | 🔴 B | Introdução Linha B |
+| 0:XX-0:XX | 50% | [Tensão crescente] | Desafio | 🔵🔴 | Intercalação dinâmica |
+| 0:XX-0:XX | 65% | [Build-up] | Esperança | 🔵🔴 | Transição pré-convergência |
+| 0:XX-0:XX | 85% | [Épico emergindo] | Revelação | 🟣 | Primeira união visual |
+| 0:XX-0:XX | 100% | [Orquestração total] | Clímax | 🟣 | União completa A+B |
+| 0:XX-0:XX | 80% | [Resolução épica] | Consolidação | 🟣 | Logo/marca |
+```
+
+**Momentos Musicais Críticos (Narrativa Paralela):**
+1. **Drop/Mudança em XX:XX:** [Quando Linha B entra pela primeira vez]
+2. **Crescendo em XX:XX:** [Momento de descoberta/esperança]
+3. **Clímax máximo em XX:XX:** [União visual completa]
+4. **Resolução em XX:XX:** [Fechamento com marca]
+
+---
+
+## PALETA VISUAL E ELEMENTOS DE CONTINUIDADE
+
+### PARA NARRATIVA LINEAR:
+
+**PALETA DE CORES DOMINANTE:**
+
+**Cores Principais:**
+- **[Nome da Cor] (#CÓDIGO):** [Uso/Significado/Quando aparece]
+- **[Nome da Cor] (#CÓDIGO):** [Uso/Significado/Quando aparece]
+- **[Nome da Cor] (#CÓDIGO):** [Uso/Significado/Quando aparece]
+
+**Aplicação por Seção:**
+- **Seção 1:** [Cores dominantes] - [Motivo]
+- **Seção 2:** [Cores dominantes] - [Motivo]
+- **Seção 3:** [Cores dominantes] - [Motivo]
+
+**Progressão de Cor:**
+[Como as cores evoluem do início ao fim do vídeo]
+
+---
+
+### PARA NARRATIVA PARALELA CONVERGENTE:
+
+**JÁ DEFINIDO EM "CONFIGURAÇÃO VISUAL GLOBAL" - Referenciar aqui:**
+
+✅ **Linha A:** Ver seção "Configuração Visual Global - Linha A"
+✅ **Linha B:** Ver seção "Configuração Visual Global - Linha B"  
+✅ **Convergência:** Ver seção "Configuração Visual Global - Convergência"
+
+**Evolução Cromática ao Longo do Vídeo:**
+
+```
+[Início] → [Meio] → [Convergência] → [Final]
+🔵 Linha A pura → 🔵🔴 Intercalação → 🟣 Fusão gradual → 🟣 União completa
+[Paleta A] → [A+B alternando] → [Transição A+B→União] → [Paleta União]
+```
+
+**Momentos de Transição de Color Grading:**
+1. **00:XX - Primeira aparição de B:** [Mudança súbita de grading A→B]
+2. **00:XX - Início da convergência:** [Transição gradual A+B→União]
+3. **00:XX - União completa:** [Color grading unificado estabelecido]
+
+---
+
+### ELEMENTOS DE CONTINUIDADE VISUAL:
+
+**NARRATIVA LINEAR:**
+
+**Conectores entre takes:**
+1. **[Elemento recorrente 1]:** [Onde aparece, como conecta]
+2. **[Elemento recorrente 2]:** [Onde aparece, como conecta]
+3. **[Elemento recorrente 3]:** [Onde aparece, como conecta]
+
+**Motifs visuais:**
+- **[Símbolo/elemento que se repete]:** [Significado desse motif, quando aparece]
+- **[Forma/padrão recorrente]:** [Como reforça narrativa]
+
+---
+
+**NARRATIVA PARALELA CONVERGENTE:**
+
+**Conectores entre linhas (espelhamento visual):**
+1. **[Elemento espelhado A↔B]:** 
+   - Em A: [Como aparece]
+   - Em B: [Como aparece de forma paralela]
+   - Função: [Como reforça conexão temática]
+
+2. **[Movimento/composição similar]:**
+   - Em A: [Descrição]
+   - Em B: [Descrição paralela]
+   - Função: [Como prepara convergência]
+
+**Motifs de união:**
+- **[Elemento que prefigura união]:** [Onde aparece antes da convergência]
+- **[Símbolo/ícone de conexão]:** [Como evolui do início à convergência]
+- **[Linha/forma conectiva]:** [Como sugere visualmente a união que virá]
+
+**Progressão Visual da União:**
+```
+Início: A e B completamente distintos
+↓
+Meio: Elementos sutis de espelhamento
+↓
+Pré-convergência: Sugestões visuais de conexão
+↓
+Convergência: União visual explícita
+↓
+Final: Identidade visual unificada
+```
+
+---
+
+## ENTREGA ESPERADA - ESTRUTURA COMPLETA
+
+### Componentes do Documento Final:
+
+**✅ PARTE 1 - CONFIGURAÇÃO (TODAS AS NARRATIVAS):**
+- [ ] Informações do Projeto (cabeçalho)
+- [ ] Tipo de narrativa confirmado
+- [ ] Storytelling cinematográfico (distribuição planos)
+
+**✅ PARTE 2 - CONFIGURAÇÃO ESPECIAL (APENAS NARRATIVA PARALELA):**
+- [ ] Configuração Visual Global (Color Grading por linha)
+- [ ] Identidade visual Linha A
+- [ ] Identidade visual Linha B
+- [ ] Identidade visual Convergência
+
+**✅ PARTE 3 - ESTRUTURA NARRATIVA:**
+- [ ] Timeline completa por seções
+- [ ] Detalhamento de TODOS os takes seguindo template apropriado
+- [ ] Subdivisão em cenas quando necessário
+- [ ] Match Cuts especificados para cada transição
+- [ ] Transições inter-linhas (se paralela)
+- [ ] Transições de convergência (se paralela)
+
+**✅ PARTE 4 - CONTEÚDO VISUAL:**
+- [ ] 3-5 opções visuais por take/cena
+- [ ] Recomendações prioritárias justificadas
+- [ ] Alinhamento com identidade de linha (se paralela)
+
+**✅ PARTE 5 - ELEMENTOS GRÁFICOS:**
+- [ ] Elementos gráficos completos (textos, motion graphics)
+- [ ] Elementos de união visual (se paralela)
+- [ ] Split screens e fusões (se paralela)
+
+**✅ PARTE 6 - ANÁLISES:**
+- [ ] Análise de distribuição de planos (tabela)
+- [ ] Mapa de intercalação (se paralela)
+- [ ] Momentos de clímax identificados
+- [ ] Sincronização música detalhada
+- [ ] Paleta visual e continuidade
+
+**✅ PARTE 7 - CHECKLIST (se couber no documento):**
+- [ ] Checklist de produção
+
+---
+
+### Elementos Técnicos Obrigatórios:
+
+**TODAS AS NARRATIVAS:**
+- ✅ Cronometragem precisa: Cada take com início/fim/duração
+- ✅ Nomenclatura consistente: SEÇÃO > TAKE > CENA
+- ✅ Planos identificados: Aberto/Médio/Fechado em cada take
+- ✅ Match Cuts justificados: Técnica escolhida + motivo
+- ✅ Múltiplas opções: 3-5 sugestões visuais sempre
+- ✅ Prioridades claras: Qual opção usar (com justificativa completa)
+- ✅ Elementos gráficos: Timing exato de textos e animações
+
+**ADICIONAL PARA NARRATIVA PARALELA:**
+- ✅ Identificação de linha: Ícone (🔵🔴🟣) + [LINHA X]
+- ✅ Color grading por linha: Especificado na configuração global
+- ✅ Transições inter-linhas: Técnicas [11-15] especificadas
+- ✅ Transições de convergência: Técnicas [16-22] especificadas
+- ✅ Elementos de união: Detalhados em takes de convergência
+- ✅ Mapa de intercalação: Padrão orgânico justificado
+- ✅ Análise por linha: Tempo e função de cada linha
+
+---
+
+## INSTRUÇÕES ESPECIAIS DE FORMATAÇÃO
+
+### ÍCONES E SÍMBOLOS PADRONIZADOS:
+
+Use sempre:
+- 📂 Para SEÇÃO
+- 🎬 Para TAKE
+- 🔵 Para LINHA A (narrativa paralela)
+- 🔴 Para LINHA B (narrativa paralela)
+- 🟣 Para CONVERGÊNCIA (narrativa paralela)
+- ⭐ Para momentos CRÍTICOS/prioritários
+- ⚠️ Para ATENÇÕES especiais
+- ✅ Para itens concluídos/aprovados
+- 🎵 Para momentos musicais sincronizados
+- 🎨 Para elementos visuais/gráficos
+- 🔗 Para elementos de conexão/união
+
+### HIERARQUIA DE TÍTULOS:
+
+```markdown
+# Título principal (COMANDO 3)
+## Seções maiores
+### Subseções (Takes)
+#### Detalhamentos (A, B, C, D)
+##### Sub-detalhamentos (se necessário)
+```
+
+### DESTAQUE DE INFORMAÇÕES CRÍTICAS:
+
+Use **negrito** para:
+- Nomes de takes/cenas
+- Identificação de linhas ([LINHA A], [LINHA B], [CONVERGÊNCIA])
+- Recomendações prioritárias
+- Momentos de clímax
+- Palavras-chave importantes
+- Técnicas de transição
+
+Use *itálico* para:
+- Justificativas
+- Observações
+- Notas técnicas
+- Comentários explicativos
+
+Use `código` para:
+- Códigos de cor (#FFFFFF)
+- Timing exato (00:15)
+- Nomenclaturas técnicas
+
+---
+
+## CHECKLIST ANTES DE FINALIZAR DOCUMENTO
+
+Antes de considerar concluído, verificar:
+
+**TODAS AS NARRATIVAS:**
+- [ ] Todos os takes do COMANDO 2 foram detalhados?
+- [ ] Cada take tem as 4 seções (A, B, C, D)?
+- [ ] Subdivisões em cenas foram feitas onde necessário?
+- [ ] Match Cuts foram especificados para cada transição?
+- [ ] 3-5 opções visuais por take/cena foram fornecidas?
+- [ ] Recomendações prioritárias estão justificadas?
+- [ ] Textos na tela têm timing exato?
+- [ ] Elementos gráficos estão detalhados?
+- [ ] Distribuição de planos foi analisada?
+- [ ] Momentos de clímax foram identificados?
+- [ ] Paleta visual está definida?
+- [ ] Documento está bem formatado e legível?
+
+**ADICIONAL PARA NARRATIVA PARALELA:**
+- [ ] Configuração Visual Global foi preenchida?
+- [ ] Cada linha (A, B) tem color grading especificado?
+- [ ] Convergência tem color grading de união especificado?
+- [ ] Todos os takes têm identificação de linha (🔵🔴🟣)?
+- [ ] Transições inter-linhas usam técnicas [11-15]?
+- [ ] Takes de convergência usam técnicas [16-22]?
+- [ ] Elementos de união estão detalhados?
+- [ ] Mapa de intercalação foi criado?
+- [ ] Padrão de intercalação está justificado?
+- [ ] Análise por linha foi feita (tempo, função)?
+- [ ] Sugestões visuais respeitam identidade de cada linha?
+
+---
+
+## RESULTADO ESPERADO FINAL
+
+### PARA NARRATIVA LINEAR:
+
+"Uma estrutura visual épica e cinematográfica COMPLETA, organizada de forma clara e profissional, com múltiplas opções visuais para cada momento, garantindo flexibilidade criativa e impacto máximo na audiência.
+
+O documento deve ser um BLUEPRINT COMPLETO que permite:
+- Qualquer editor entender exatamente o que fazer
+- Decisões visuais informadas e justificadas
+- Flexibilidade criativa com opções múltiplas
+- Storytelling cinematográfico profissional
+- Experiência visual memorável
+
+Formato: Documento markdown profissional, bem estruturado, com hierarquia clara (SEÇÃO > TAKE > CENA), fácil de navegar e implementar."
+
+---
+
+### PARA NARRATIVA PARALELA CONVERGENTE:
+
+"Uma estrutura visual épica DUPLA com convergência cinematográfica, organizada de forma clara com identidade visual distinta para cada linha, culminando em união visual impactante.
+
+O documento deve ser um BLUEPRINT COMPLETO que permite:
+- Editor entender claramente as DUAS linhas narrativas
+- Identificar imediatamente qual linha cada take pertence (🔵🔴🟣)
+- Aplicar color grading específico de cada linha
+- Executar transições inter-linhas de forma orgânica
+- Criar momento de convergência épico e memorável
+- Manter identidade visual consistente em cada linha
+- Flexibilidade criativa com múltiplas opções alinhadas
+
+Elementos críticos:
+✅ Color grading por linha (A, B, Convergência)
+✅ Intercalação orgânica não-mecânica
+✅ Transições específicas entre linhas
+✅ Técnicas de convergência visual (split screen, fusões, animações)
+✅ Sugestões visuais alinhadas à identidade de cada linha
+✅ Mapa de intercalação claro e justificado
+
+Formato: Documento markdown profissional, com identificação visual clara de linhas (ícones coloridos), hierarquia estruturada, fácil de navegar e implementar para narrativa paralela complexa."
+
+---
+
+## 📋 RESUMO DAS ATUALIZAÇÕES (VERSÃO 3.0)
+
+### ✅ NOVAS FUNCIONALIDADES ADICIONADAS:
+
+**1. Suporte Completo para Narrativa Paralela Convergente:**
+- Configuração Visual Global (color grading por linha)
+- Templates específicos para takes de Linha A, B e Convergência
+- Identificação visual com ícones (🔵🔴🟣)
+
+**2. Transições Expandidas:**
+- Técnicas [11-15]: Transições inter-linhas (A↔B)
+- Técnicas [16-22]: Transições de convergência (união visual)
+
+**3. Análises Específicas:**
+- Mapa de intercalação para narrativa paralela
+- Análise por linha (tempo, função narrativa)
+- Evolução cromática ao longo do vídeo
+
+**4. Templates Especializados:**
+- Template para takes de intercalação (Linha A/B)
+- Template para takes de convergência (União)
+- Elementos de união visual detalhados
+
+**5. Checklist Expandido:**
+- Itens específicos para narrativa paralela
+- Verificação de identidade visual por linha
+- Confirmação de técnicas de união
+
+---
+
+**📄 ESTE PROMPT REESTRUTURADO GARANTE:**
+✅ Organização clara para narrativas lineares E paralelas
+✅ Sistema de continuação em múltiplos documentos
+✅ Templates completos para cada tipo de take
+✅ Nomenclatura padronizada com identificação visual
+✅ Especificações técnicas detalhadas por linha
+✅ Flexibilidade criativa com múltiplas opções
+✅ Justificativas estratégicas sempre presentes
+✅ Suporte completo para convergência cinematográfica
+
+---
+
+**Versão:** 3.0 (Atualizada com Narrativa Paralela Convergente)  
+**Data:** Novembro 2025  
+**Compatível com:** COMANDO-02 v3.0 (Narrativa Linear + Paralela)
