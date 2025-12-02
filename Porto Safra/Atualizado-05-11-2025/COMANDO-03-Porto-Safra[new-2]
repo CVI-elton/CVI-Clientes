@@ -1,0 +1,457 @@
+# COMANDO 3: Estrutura Visual e Takes - O Blueprint do Impacto Visual
+
+**Objetivo:** Traduzir o script aprovado em uma estrutura visual detalhada, com especificações técnicas precisas e múltiplas opções de conteúdo visual para cada take, garantindo um vídeo dinâmico e visualmente rico.
+
+---
+
+## PERGUNTA INICIAL (Alinhamento com COMANDO 2)
+
+**CONFIRME A ESTRUTURA DEFINIDA NO COMANDO 2:**
+
+Este vídeo é sobre:
+- [ ] **UMA EMPRESA** (foco narrativo individual)
+- [ ] **DUAS EMPRESAS** (narrativa de aliança/união)
+
+---
+
+## PROMPT COMANDO 3:
+
+"Script Cinematográfico Aprovado! Com o roteiro épico em mãos, é hora de dar vida visual à sua mensagem. A CONFIGURAÇÃO INICIAL DO PROJETO, a DURAÇÃO CONFIRMADA DO ÁUDIO, a PLATAFORMA PRINCIPAL e a ESTRUTURA CINEMATOGRÁFICA devem ser consideradas para criar um blueprint visual digno de cinema profissional."
+
+---
+
+## STORYTELLING CINEMATOGRÁFICO - APLICAÇÃO VISUAL
+
+### REGRAS DOS PLANOS (Base do Storytelling Visual):
+
+1. **Planos Abertos → "ONDE"** (estabelecem contexto, escala, ambiente épico)
+2. **Planos Médios → "O QUE"** (mostram ação, pessoas, desenvolvimento narrativo)
+3. **Planos Fechados → "COMO"** (revelam detalhes, técnica, impacto específico)
+
+### DISTRIBUIÇÃO ESTRATÉGICA:
+
+#### PARA UMA EMPRESA:
+- **40% Planos Abertos:** Estabelecer autoridade e escala
+- **35% Planos Médios:** Demonstrar capacidades e ação
+- **25% Planos Fechados:** Revelar diferenciais únicos
+- **Progressão:** Apresentação → Credenciais → Diferenciais → Call-to-Action
+
+#### PARA DUAS EMPRESAS:
+- **30% Planos Abertos:** Contexto épico e união final
+- **40% Planos Médios:** Apresentar ambas as empresas
+- **30% Planos Fechados:** Detalhes da aliança e impacto
+- **Progressão:** Empresa 1 → Empresa 2 → Convergência → União Épica
+
+---
+
+## ESTRUTURA DE ORGANIZAÇÃO DO DOCUMENTO
+
+### HIERARQUIA ORGANIZACIONAL:
+
+```
+📍 SEÇÃO [Número]: [Nome da Seção]
+    ↓
+  🎬 TAKE [Número]: [Título do Take]
+    ↓
+  CENA [Número][Letra]: [Descrição da Cena] (se take for subdividido)
+```
+
+### EXEMPLO DE ESTRUTURA:
+```
+📍 SEÇÃO 1: ABERTURA IMPACTANTE (0:00-0:25)
+  ↓
+🎬 TAKE 1: "O BRASIL É UM PAÍS DE OPORTUNIDADES" (0:00-0:04)
+  ↓
+CENA 1: Única (sem subdivisão)
+
+🎬 TAKE 2: "DE NORTE A SUL" (0:04-0:13)
+  ↓
+CENA 2A: Primeira parte da narração (0:04-0:09)
+CENA 2B: Segunda parte da narração (0:09-0:13)
+```
+
+---
+
+## SISTEMA DE CONTINUAÇÃO AUTOMÁTICA EM MÚLTIPLOS DOCUMENTOS
+
+### REGRA DE LIMITE DE CARACTERES:
+
+**QUANDO ATINGIR O LIMITE:**
+- O Claude deve pausar a criação do documento
+- Informar claramente: "⚠️ LIMITE DE CARACTERES ATINGIDO"
+- Indicar exatamente onde parou (Seção, Take, Cena)
+- Aguardar comando do usuário: "Continuar"
+
+**APÓS COMANDO "CONTINUAR":**
+- Criar novo documento com nome: "[PROJETO] - COMANDO 3.[Número da Parte]"
+- Exemplo: "Porto Safra - COMANDO 3.2", "Porto Safra - COMANDO 3.3"
+- Iniciar novo documento EXATAMENTE de onde parou
+- Incluir cabeçalho de continuação:
+
+```markdown
+# 🎬 COMANDO 3.[NÚMERO]: ESTRUTURA VISUAL E TAKES (CONTINUAÇÃO)
+## [NOME DO PROJETO]
+
+**Documento:** CONTINUAÇÃO do COMANDO 3.[Número Anterior]
+**Início desta parte:** [SEÇÃO X - TAKE Y]
+**Data:** [Data atual]
+```
+
+### TEMPLATE DE PAUSA (quando atingir limite):
+
+```markdown
+---
+
+## ⚠️ LIMITE DE CARACTERES ATINGIDO
+
+**Última seção completa:** [Nome da Seção]
+**Último take completo:** TAKE [Número] - [Título]
+**Última cena completa:** CENA [Número][Letra] (se aplicável)
+
+**Progresso do documento:**
+- ✅ Seções concluídas: [Lista]
+- ⏸️ Pausado em: [Localização exata]
+- ⏳ Faltam: [Seções restantes]
+
+---
+
+**💬 Para continuar, digite:** "Continuar"
+
+**O próximo documento será:** "[PROJETO] - COMANDO 3.[Número]"
+**Iniciará em:** [Seção/Take/Cena exata]
+```
+
+---
+
+## ESPECIFICAÇÕES VISUAIS: Detalhando Cada Cena
+
+### DIVISÃO EM TAKES E CENAS CINEMATOGRÁFICOS:
+
+"Divida o script em takes estratégicos seguindo a cronometragem do COMANDO 2.
+
+**ANÁLISE DE SUBDIVISÃO:**
+- Analise a quantidade de texto da narração em cada take
+- Se take tiver mais de 10 segundos E texto extenso: subdividir em CENAS
+- Objetivo: Evitar takes longos que desfoquem a atenção
+- Cada CENA deve ter propósito visual claro
+
+**NOMENCLATURA:**
+- Takes: TAKE 1, TAKE 2, TAKE 3...
+- Cenas (subdivisões): CENA 1A, CENA 1B, CENA 2A, CENA 2B...
+- Se take não precisar subdivisão: CENA [número] única"
+
+---
+
+## TEMPLATE COMPLETO PARA CADA TAKE/CENA
+
+### 🎬 TAKE [NÚMERO]: "[TÍTULO DO TAKE]"
+**Cronometragem:** [00:00 - 00:XX] ([X] segundos)  
+**Plano Cinematográfico:** [PLANO ABERTO / PLANO MÉDIO / PLANO FECHADO] ([ONDE/O QUE/COMO])
+
+#### A) MOVIMENTAÇÃO/TRANSIÇÃO CINEMATOGRÁFICA:
+- **Script:** "[Narração específica completa deste take]"
+- **Efeito de transição:** [Como conecta cinematograficamente à próxima cena]
+- **Justificativa:** [Por que este movimento/velocidade foi escolhido]
+
+#### A.1) SUBDIVISÃO DO TAKE (se aplicável):
+
+**CENA [Número][Letra]:** "[Parte específica da narração]" ([00:XX-00:XX] | [X]s)
+**CENA [Número][Letra]:** "[Parte específica da narração]" ([00:XX-00:XX] | [X]s)
+
+*(Repetir para cada subdivisão necessária)*
+
+#### B) MATCH CUT:
+
+**Técnica escolhida:** [Número e nome do Match Cut]
+
+**Opções disponíveis:**
+- **[1] Graphic Match (Match on Action Visual)** - Transição baseada em formas, cores ou composições visuais similares
+  - Exemplo: Cortar de um prato redondo para a lua cheia
+  
+- **[2] Match on Action** - O movimento ou ação continua de um plano para outro
+  - Exemplo: Pessoa abre porta em um plano e completa movimento em outro local
+  
+- **[3] Sound Bridge Match** - O áudio de uma cena continua na próxima
+  - Exemplo: Narração ou música conectando visualmente cenas diferentes
+  
+- **[4] Eyeline Match** - Personagem olhando para algo + próximo plano revela o que vê
+  - Exemplo: Pessoa olha para cima + corte para céu/drone
+  
+- **[5] Color Match** - Transição baseada em cores dominantes similares
+  - Exemplo: Céu azul cortando para parede azul
+  
+- **[6] Conceptual Match (Metaphorical Match)** - Conecta planos através de conceito/metáfora
+  - Exemplo: Semente germinando cortando para empresa crescendo
+  
+- **[7] Temporal Match** - Elementos repetidos em diferentes momentos (passagem temporal)
+  - Exemplo: Mesma feira em diferentes estações/anos
+  
+- **[8] Scale Match** - Transição baseada em tamanhos/proporções similares
+  - Exemplo: Logo pequeno crescendo para logo grande
+  
+- **[9] Movement Match** - Movimento mantém mesma direção/velocidade/trajetória
+  - Exemplo: Câmera pan direita continua pan direita na próxima cena
+  
+- **[10] Nenhuma** - Corte simples/direto (quando transição técnica não é necessária)
+
+**Justificativa da escolha:** [Por que este Match Cut específico funciona aqui]
+
+**Exemplo de aplicação:** [Descrição visual concreta de como será executado]
+
+**Motivo cinematográfico:** [Como contribui para storytelling]
+
+#### C) CONTEÚDO VISUAL:
+
+**VÍDEO - [Número] Sugestões:**
+
+1. **[Título da sugestão visual]**
+   - Descrição detalhada do footage
+   - Elementos-chave a capturar
+   - Movimento de câmera sugerido
+
+2. **[Título da sugestão visual]**
+   - [Mesmo formato acima]
+
+3. **[Título da sugestão visual]**
+   - [Mesmo formato acima]
+
+*(3-5 sugestões por take/cena)*
+
+**RECOMENDAÇÃO ESTRATÉGICA:**
+**PRIORIDADE: Opção [Número]** ou **Opções [Número] e [Número]**
+
+**Justificativa completa:**
+- **Impacto narrativo:** [Como contribui para história]
+- **Alinhamento:** [Como se encaixa no plano cinematográfico Aberto/Médio/Fechado]
+- **Build-up emocional:** [Como constrói emoção crescente]
+- **Efetividade:** [Por que funciona para o público-alvo específico]
+
+#### D) ELEMENTOS GRÁFICOS CINEMATOGRÁFICOS:
+
+- **Textos na tela:**
+  - "[Texto exato]"
+  - Animação entrada: [Tipo de animação]
+  - Animação saída: [Tipo de animação]
+  
+  *(Repetir para cada texto - SE HOUVER. Se não houver texto, deixar seção vazia ou escrever "Nenhum texto necessário")*
+
+- **Elementos visuais épicos:**
+  - [Descrição de motion graphics]
+  - [Overlays, partículas, glows]
+  - [Badges, ícones, símbolos]
+  - [Linhas, conexões, setas]
+  
+- **Momentos de divisão de tela (se aplicável):**
+  - [Split screen, picture-in-picture]
+  - [Múltiplas informações simultâneas]
+
+**Observações especiais:**
+- [Qualquer detalhe técnico importante]
+- [Configurações de LUT ou color grading]
+- [Sincronização com música]
+- [Momento de clímax ou atenção especial]
+
+---
+
+*[ESTE TEMPLATE SE REPETE PARA CADA TAKE/CENA DO VÍDEO]*
+
+---
+
+## CRONOMETRAGEM E ESTRUTURA GLOBAL
+
+### TEMPLATE DE TABELA CRONOMÉTRICA:
+
+```
+| SEÇÃO | TEMPO | TAKES | PLANO DOMINANTE | FOCO NARRATIVO |
+|-------|-------|-------|-----------------|----------------|
+| 1. Abertura | 0:00-0:XX | Takes 1-X | Aberto | ONDE - Contexto |
+| 2. [Nome] | 0:XX-0:XX | Takes X-X | Médio | O QUE - Ação |
+| ... | ... | ... | ... | ... |
+```
+
+### ANÁLISE DE DISTRIBUIÇÃO DE PLANOS:
+
+Após detalhar todos os takes, incluir tabela:
+
+```
+| Seção | Tempo Total | Planos Abertos | Planos Médios | Planos Fechados |
+|-------|-------------|----------------|---------------|-----------------|
+| 1. [Nome] | XXs | XXs (XX%) | XXs (XX%) | XXs (XX%) |
+| TOTAL | XXs | XXs (XX%) | XXs (XX%) | XXs (XX%) |
+```
+
+**Comparação com META:**
+- Meta Planos Abertos: XX% | Real: XX%
+- Meta Planos Médios: XX% | Real: XX%
+- Meta Planos Fechados: XX% | Real: XX%
+
+**Análise:** [Justificar se houve desvio da meta e por quê]
+
+---
+
+## BUILDS CINEMATOGRÁFICOS E MOMENTOS DE CLÍMAX
+
+### MOMENTOS DE CLÍMAX IDENTIFICADOS:
+
+**CLÍMAX 1 - [Nome/Momento] ([00:XX-00:XX]):**
+- Take: [Número]
+- Elemento visual: [Descrição]
+- Música: [Comportamento]
+- Impacto: [O que deve causar]
+
+**CLÍMAX 2 - [Nome/Momento] ([00:XX-00:XX]):**
+- [Mesmo formato]
+
+**CLÍMAX 3 (MÁXIMO) - [Nome/Momento] ([00:XX-00:XX]):**
+- [Mesmo formato]
+
+### SINCRONIZAÇÃO MÚSICA + NARRATIVA:
+
+```
+Tempo | Volume Música | Instrumentação | Mood | Sincronização Crítica
+------|---------------|----------------|------|----------------------
+0:00-0:XX | XX% | [Instrumentos] | [Emoção] | [Momento específico]
+```
+
+---
+
+## PALETA VISUAL E ELEMENTOS DE CONTINUIDADE
+
+### PALETA DE CORES DOMINANTE:
+
+**Cores Principais:**
+- **[Nome da Cor] (#CÓDIGO):** [Uso/Significado]
+- **[Nome da Cor] (#CÓDIGO):** [Uso/Significado]
+
+**Aplicação por Seção:**
+- Seção 1: [Cores usadas]
+- Seção 2: [Cores usadas]
+
+### ELEMENTOS DE CONTINUIDADE VISUAL:
+
+**Conectores entre takes:**
+1. [Elemento recorrente 1]
+2. [Elemento recorrente 2]
+
+**Motifs visuais:**
+- [Símbolo/elemento que se repete]
+- [Significado desse motif]
+
+---
+
+## ENTREGA ESPERADA - ESTRUTURA COMPLETA
+
+### Componentes do Documento Final:
+
+✅ **Informações do Projeto** (cabeçalho)
+✅ **Storytelling cinematográfico** (distribuição planos)
+✅ **Timeline completa** por seções
+✅ **Detalhamento de TODOS os takes** seguindo template
+✅ **Subdivisão em cenas** quando necessário
+✅ **Match Cuts especificados** para cada transição
+✅ **3-5 opções visuais** por take/cena
+✅ **Recomendações prioritárias** justificadas
+✅ **Elementos gráficos completos** (textos, motion graphics)
+✅ **Análise de distribuição de planos** (tabela)
+✅ **Momentos de clímax** identificados
+✅ **Sincronização música** detalhada
+✅ **Paleta visual** e continuidade
+✅ **Checklist de produção** (se couber no documento)
+
+### Elementos Técnicos Obrigatórios:
+
+- **Cronometragem precisa:** Cada take com início/fim/duração
+- **Nomenclatura consistente:** SEÇÃO > TAKE > CENA
+- **Planos identificados:** Aberto/Médio/Fechado em cada take
+- **Match Cuts justificados:** Técnica escolhida + motivo
+- **Múltiplas opções:** 3-5 sugestões visuais sempre
+- **Prioridades claras:** Qual opção usar (com justificativa completa)
+- **Elementos gráficos:** Timing exato de textos e animações
+
+---
+
+## INSTRUÇÕES ESPECIAIS DE FORMATAÇÃO
+
+### ÍCONES E SÍMBOLOS PADRONIZADOS:
+
+Use sempre:
+- 📍 Para SEÇÃO
+- 🎬 Para TAKE
+- ⭐ Para momentos CRÍTICOS/prioritários
+- ⚠️ Para ATENÇÕES especiais
+- ✅ Para itens concluídos/aprovados
+- 🎵 Para momentos musicais sincronizados
+- 🎨 Para elementos visuais/gráficos
+
+### HIERARQUIA DE TÍTULOS:
+
+```markdown
+# Título principal (COMANDO 3)
+## Seções maiores
+### Subseções (Takes)
+#### Detalhamentos (A, B, C, D)
+```
+
+### DESTAQUE DE INFORMAÇÕES CRÍTICAS:
+
+Use **negrito** para:
+- Nomes de takes/cenas
+- Recomendações prioritárias
+- Momentos de clímax
+- Palavras-chave importantes
+
+Use *itálico* para:
+- Justificativas
+- Observações
+- Notas técnicas
+
+---
+
+## CHECKLIST ANTES DE FINALIZAR DOCUMENTO
+
+Antes de considerar concluído, verificar:
+
+- [ ] Todos os takes do COMANDO 2 foram detalhados?
+- [ ] Cada take tem as 4 seções (A, B, C, D)?
+- [ ] Subdivisões em cenas foram feitas onde necessário?
+- [ ] Match Cuts foram especificados para cada transição?
+- [ ] 3-5 opções visuais por take/cena foram fornecidas?
+- [ ] Recomendações prioritárias estão justificadas?
+- [ ] Textos na tela têm timing exato?
+- [ ] Elementos gráficos estão detalhados?
+- [ ] Distribuição de planos foi analisada?
+- [ ] Momentos de clímax foram identificados?
+- [ ] Paleta visual está definida?
+- [ ] Documento está bem formatado e legível?
+
+---
+
+## RESULTADO ESPERADO FINAL
+
+"Uma estrutura visual épica e cinematográfica COMPLETA, organizada de forma clara e profissional, com múltiplas opções visuais para cada momento, garantindo flexibilidade criativa e impacto máximo na audiência.
+
+O documento deve ser um BLUEPRINT COMPLETO que permite:
+- Qualquer editor entender exatamente o que fazer
+- Decisões visuais informadas e justificadas
+- Flexibilidade criativa com opções múltiplas
+- Storytelling cinematográfico profissional
+- Experiência visual memorável
+
+Formato: Documento markdown profissional, bem estruturado, com hierarquia clara (SEÇÃO > TAKE > CENA), fácil de navegar e implementar."
+
+---
+
+**📄 ESTE PROMPT REESTRUTURADO GARANTE:**
+✅ Organização clara e consistente
+✅ Sistema de continuação em múltiplos documentos
+✅ Template completo para cada take/cena
+✅ Nomenclatura padronizada
+✅ Especificações técnicas detalhadas
+✅ Flexibilidade criativa com múltiplas opções
+✅ Justificativas estratégicas sempre presentes
+
+---
+
+**Versão:** 2.0 (Reestruturada)  
+**Data:** Novembro 2025  
+**Baseado em:** Projeto Porto Safra - Estrutura de sucesso comprovada
