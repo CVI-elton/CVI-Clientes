@@ -1,0 +1,46 @@
+## 📋 CONFIGURAÇÃO INICIAL DO PROJETO
+
+
+🎯 DADOS DO CLIENTE:
+• Nome da Empresa: _______________________
+• Segmento/Nicho: ________________________
+• Faturamento Mensal (estimado): 
+  [ ] R$ 30-100k
+  [ ] R$ 100-300k
+  [ ] R$ 300k+
+  [ ] Não Tem essa informação
+• Localização: _______________, SP
+• Tempo de Mercado: _____ anos
+
+📱 CANAIS DIGITAIS DO CLIENTE:
+• Instagram: @_______________
+• LinkedIn: _______________
+• Facebook: _______________
+• Site: _______________
+• YouTube: _______________
+• TikTok: @_______________
+• Outros: _______________
+
+📄 MATERIAIS DISPONÍVEIS:
+[ ] Site institucional
+[ ] Redes sociais ativas (mínimo 20 posts)
+[ ] Materiais de marketing (folders, apresentações)
+[ ] Vídeos institucionais/comerciais
+[ ] Cases de clientes/portfólio
+[ ] Manual de marca (se houver)
+[ ] Comunicados/artigos publicados
+
+🎯 TIPO DE ANÁLISE DESEJADA:
+[ ] OPÇÃO A - Empresa específica (COM materiais do cliente)
+[ ] OPÇÃO B - Setor/nicho genérico (SEM materiais - novo negócio)
+
+🎯 OBJETIVO DO PROJETO:
+[ ] Reposicionamento estratégico
+[ ] Criação de presença digital consistente
+[ ] Diferenciação da concorrência
+[ ] Aumento de engajamento e conversão
+[ ] Lançamento de novo produto/serviço
+[ ] Outro: _______________
+
+
+🎯 OUTRAS INFORMAÇÕES (informações adicinais sobre o cliente):
