@@ -1,0 +1,295 @@
+Aqui está o prompt atualizado para trabalhar com apenas um arquivo `.srt`:
+
+---
+
+# Prompt: Correção de Legenda SRT gerada pelo CapCut — Cliente Renato (setor elétrico)
+
+> **Como usar:** Cole este prompt inteiro numa conversa nova no Claude, depois envie o arquivo `.srt`.
+
+---
+
+## Contexto da tarefa
+
+Vou te enviar um arquivo **`.srt`** — legenda gerada automaticamente pelo CapCut. Os **timestamps estão corretos e perfeitamente sincronizados com o áudio**, mas o texto tem erros típicos de transcrição automática: palavras escritas errado, números escritos por extenso, nomes próprios em minúsculo, siglas e termos técnicos deformados. Use o nome do arquivo exatamente como eu enviar.
+
+---
+
+## Contexto adicional do episódio (preencha antes de usar, se souber)
+
+- **Tema do episódio:** _______________
+- **Convidado(a) (se houver):** _______________
+- **Empresas/produtos/normas mencionados que você já sabe que vão aparecer:** _______________
+
+> Esse contexto ajuda a direcionar a pesquisa de termos técnicos específicos deste episódio. Pode deixar em branco se não souber — a IA vai identificar os termos analisando o próprio arquivo.
+
+---
+
+## O que precisa ser feito
+
+Gerar um novo arquivo chamado **`transcricao.srt`** que:
+
+- Mantém **100% dos timestamps do arquivo original** — nenhum valor de tempo deve ser alterado
+- Mantém a **estrutura exata do formato SRT**: número sequencial da entrada, timestamp, texto da legenda (preservando quebras de linha internas do bloco, quando existirem), linha em branco separando os blocos
+- Corrige **apenas o texto** de cada entrada, aplicando as regras descritas abaixo
+- **Não funde nem divide entradas** — cada bloco do SRT original vira exatamente um bloco no arquivo final
+
+---
+
+## Como a correção deve ser decidida
+
+**Importante:** as regras abaixo (números, datas, siglas, nomes) dependem de leitura de contexto — a mesma sequência de palavras pode ou não ser um número/sigla dependendo da frase ao redor. Por isso:
+
+1. **A decisão sobre o que corrigir e como é sempre feita por leitura e interpretação do contexto de cada entrada** (e das entradas vizinhas quando necessário) — nunca por substituição automática e cega de texto.
+2. **O script Python entra apenas na etapa mecânica**: depois que os termos e correções já foram decididos por contexto, o script aplica essas substituições já definidas e remonta o arquivo `.srt` preservando timestamps e estrutura. O dicionário de substituições do script deve ser o resultado da análise contextual, não uma lista genérica aplicada às cegas.
+
+---
+
+## Regras de correção do texto
+
+### 1. Preservar os timestamps sem qualquer alteração
+Os timestamps do CapCut são o ativo mais importante do arquivo. O formato é:
+```
+00:00:08,533 --> 00:00:09,933
+```
+**Não alterar horas, minutos, segundos nem milissegundos.** Mesmo que o texto de uma entrada pareça fora de sincronia, manter o tempo original.
+
+---
+
+### 2. Capitalização
+- A **primeira letra de cada entrada** deve ser maiúscula
+- Nomes próprios de pessoas, empresas, marcas e lugares devem ter inicial maiúscula
+- Siglas devem ser todas em maiúsculo (ex: `SENAI`, `IEC`, `REF`)
+
+---
+
+### 3. Números escritos por extenso → algarismos
+O reconhecimento de voz do CapCut sempre escreve números por extenso. Converter todos para algarismos:
+
+| Texto CapCut | Correto |
+|---|---|
+| trinta e três anos | 33 anos |
+| doze anos / treze anos | 12 anos / 13 anos |
+| vinte e quatro por sete | 24 por 7 |
+| anos setenta | anos 70 |
+| anos oitenta | anos 80 |
+| anos noventa | anos 90 |
+| década de noventa | década de 90 |
+| trinta pra quarenta | 30 a 40 |
+
+> **Atenção:** Nem toda ocorrência de uma palavra numérica é um número. Exemplos que **não** devem ser convertidos: "dois lados", "três opções", "uma vez". Usar o contexto para decidir.
+
+---
+
+### 4. Datas e anos
+Datas sempre aparecem por extenso na transcrição automática. Converter todas:
+
+| Texto CapCut | Correto |
+|---|---|
+| dois mil e vinte e três | 2023 |
+| dois mil e dezoito | 2018 |
+| dois mil e dezesseis | 2016 |
+| dois mil e treze quatorze | 2013/2014 |
+| dois mil e onze | 2011 |
+| dois mil e oito | 2008 |
+| dois mil e seis | 2006 |
+| dois mil e quatro | 2004 |
+| dois mil / ano dois mil | 2000 |
+| mil novecentos e noventa e dois | 1992 |
+| mil novecentos e oitenta e cinco | 1985 |
+| noventa e dois | 92 |
+| noventa e quatro | 94 |
+
+---
+
+### 5. Termos técnicos e siglas deformados
+
+O CapCut não reconhece siglas nem normas técnicas — ele transcreve o som das letras como palavras. A lista abaixo é uma **referência de padrão de erro, não uma lista fechada**: cada episódio pode trazer termos técnicos diferentes, dependendo do convidado e do assunto.
+
+**Padrão de identificação:** sequências de números por extenso que não fazem sentido como quantidade (ex: "oitocentos e cinquenta" num contexto de norma técnica), ou palavras que soam como siglas faladas letra por letra, são quase sempre siglas, códigos ou normas técnicas.
+
+Exemplos de referência do setor elétrico (o padrão se repete, mas os termos exatos variam por episódio):
+
+| Texto CapCut | Correto |
+|---|---|
+| sessenta hertz / sessenta hertz podcast | 60 Hz / 60 Hz Podcast |
+| mil oitocentos e cinquenta | IEC 61850 |
+| meia oitocentos e cinquenta | IEC 61850 |
+| oitocentos e cinquenta | 61850 |
+| ref seiscentos e cinquenta | REF 650 |
+| seiscentos e cinquenta | 650 |
+| seiscentos e setenta | 670 |
+| cento e cinquenta (em contexto de tensão) | 150 kV |
+| pt cinquenta e sete | PT57 |
+| meia dois quatro três nove | M2439 |
+| trinta e quatro e meio (tensão) | 34,5 kV |
+| treze ponto oito (tensão) | 13,8 kV |
+| ene erre dez / n r dez | NR-10 |
+| a b n t | ABNT |
+| n b r | NBR |
+| a nel / anel (contexto elétrico) | ANEEL |
+| e s p d a | SPDA |
+| t p / t c | TP / TC |
+
+> Essa tabela existe para ensinar o padrão, não para limitar a busca. Termos técnicos novos que não estejam na lista devem ser identificados e corrigidos do mesmo jeito.
+
+**Pesquisa ativa de termos técnicos:**
+- Antes de aplicar qualquer correção, varrer o arquivo `.srt` inteiro em busca de sequências estranhas: números por extenso fora de contexto de quantidade, palavras soltas que soam como siglas faladas, nomes próprios com grafia improvável
+- Usar o contexto do episódio (tema, convidado, empresas mencionadas, preenchido na seção "Contexto adicional" ou identificado no próprio áudio/texto) para embasar a correção
+- **Quando a ferramenta de busca na web estiver disponível na conversa, pesquisar para confirmar a grafia ou expansão correta de siglas, normas técnicas ou nomes próprios em caso de dúvida** (ex: confirmar se "IEC 61850" é a norma coerente com o contexto descrito, ou a grafia oficial de uma empresa/pessoa citada)
+- Se, mesmo após a pesquisa, restar incerteza sobre algum termo, **não arriscar uma correção errada silenciosamente** — listar esses casos numa seção separada ao final da entrega (fora do arquivo `.srt`), como "Termos com baixa confiança — revisar manualmente", indicando o trecho original e a entrada onde aparece
+
+---
+
+### 6. Nomes próprios
+Nomes de pessoas, empresas e marcas devem ter grafia correta e capitalização adequada:
+
+| Texto CapCut | Correto |
+|---|---|
+| itachi | Hitachi |
+| júlio oliveira | Júlio Oliveira |
+| renato barbosa | Renato Barbosa |
+| senai | SENAI |
+| light | Light |
+| abb | ABB |
+
+> Identificar os nomes presentes no vídeo analisando o próprio arquivo `.srt` antes de aplicar correções. Em caso de dúvida sobre grafia de nome próprio, aplicar a mesma regra de pesquisa ativa do item 5.
+
+---
+
+### 7. Palavras com grafia errada
+O reconhecimento de voz frequentemente troca palavras parecidas sonoramente. Verificar o contexto das entradas vizinhas para inferir a grafia correta. Exemplos comuns:
+
+- `substação` → `subestação`
+- `estação` (quando o contexto é elétrico) → `subestação`
+- `hertz` escrito como `red`, `ret`, `reto` → `Hz`
+- Palavras em inglês transcritas foneticamente em português
+- `cê` / `Cê` (quando usado como pronome, isolado) → `você` / `Você` — o CapCut frequentemente transcreve a fala coloquial "cê" como se fosse a palavra completa. Corrigir sempre para a forma escrita correta "você", mantendo a capitalização (maiúscula só se for início de frase). **Atenção:** verificar que é a palavra isolada "cê" (ex: "cê vai", "cê sabe"), e não uma sílaba dentro de outra palavra (ex: "aparecê-lo", "acontecê-lo") — usar limite de palavra (`\bcê\b` / `\bCê\b`) para evitar substituição incorreta
+
+---
+
+## Como executar (passo a passo)
+
+1. **Ler o arquivo completo** antes de começar
+2. **Mapear os termos técnicos** do vídeo: varrer todas as entradas para identificar siglas, normas, nomes e termos específicos do tema, usando os padrões de referência da seção 5 e o contexto preenchido no início do prompt
+3. **Pesquisar na web** os termos técnicos, siglas ou nomes próprios em que houver dúvida razoável, antes de decidir a correção final
+4. **Decidir, por leitura de contexto, cada correção necessária** (números, datas, siglas, nomes, grafia) — essa é a etapa de interpretação, feita antes de qualquer substituição mecânica
+5. **Montar o dicionário de substituições** já decidido, ordenado do mais específico/longo para o mais curto (evita substituições parciais incorretas)
+6. **Aplicar as correções via script Python**, usando `re.sub()` com flag `re.IGNORECASE`, na seguinte ordem:
+   - Expressões longas primeiro (ex: "mil oitocentos e cinquenta" antes de "oitocentos e cinquenta")
+   - Nomes compostos antes de nomes simples
+   - Capitalizar a primeira letra de cada entrada por último
+7. **Verificar antes de salvar:**
+   - O número de entradas do arquivo final é idêntico ao do arquivo original
+   - Os timestamps de cada entrada são idênticos aos do original
+   - As entradas mais críticas (com termos técnicos) foram corrigidas corretamente
+8. **Salvar como `transcricao.srt`** com encoding UTF-8
+9. **Listar, ao final da entrega, os termos de baixa confiança** (se houver) que precisam de revisão manual
+
+---
+
+## Script Python de referência
+
+```python
+import re
+
+def parse_srt(filepath):
+    # Tenta UTF-8 padrão; se falhar, tenta UTF-8 com BOM e depois latin-1 como último recurso
+    encodings_to_try = ['utf-8', 'utf-8-sig', 'latin-1']
+    content = None
+    for enc in encodings_to_try:
+        try:
+            with open(filepath, 'r', encoding=enc) as f:
+                content = f.read()
+            break
+        except (UnicodeDecodeError, UnicodeError):
+            continue
+    if content is None:
+        raise ValueError(f"Não foi possível decodificar o arquivo {filepath} com os encodings testados: {encodings_to_try}")
+
+    blocks = re.split(r'\r?\n\r?\n', content.strip())
+    entries = []
+    for block in blocks:
+        lines = [l.strip() for l in block.strip('\r\n').split('\n')]
+        lines = [l for l in lines if l != '']
+        if len(lines) >= 3:
+            entries.append({
+                'idx': lines[0],
+                'timing': lines[1],
+                # Preserva as quebras de linha originais do bloco de texto
+                'text_lines': lines[2:]
+            })
+    return entries
+
+# Dicionário de substituições — do mais longo ao mais curto
+# Preencher com os termos já decididos por análise de contexto + pesquisa (etapas 3 e 4 do passo a passo)
+replacements = [
+    (r'\bsessenta hertz podcast\b',          '60 Hz Podcast'),
+    (r'\bsessenta hertz\b',                  '60 Hz'),
+    (r'\bmil oitocentos e cinquenta\b',      'IEC 61850'),
+    (r'\boitocentos e cinquenta\b',          '61850'),
+    # ... continuar com os demais termos identificados neste episódio
+]
+
+def fix_ce_para_voce(text):
+    # Tratado separado do dicionário genérico (que usa IGNORECASE) para não perder a capitalização:
+    # "cê" -> "você" (minúsculo) | "Cê" -> "Você" (maiúsculo, só quando início de frase)
+    text = re.sub(r'\bCê\b', 'Você', text)   # preserva maiúscula
+    text = re.sub(r'\bcê\b', 'você', text)   # minúscula
+    return text
+
+def apply_corrections(text):
+    text = fix_ce_para_voce(text)
+    for pattern, replacement in replacements:
+        text = re.sub(pattern, replacement, text, flags=re.IGNORECASE)
+    return text
+
+def capitalize_first(text_lines):
+    # Capitaliza apenas a primeira letra da primeira linha do bloco
+    if text_lines and text_lines[0]:
+        text_lines[0] = text_lines[0][0].upper() + text_lines[0][1:]
+    return text_lines
+
+entries = parse_srt('legenda-capcut.srt')  # substituir pelo nome real do arquivo enviado
+
+output_lines = []
+for e in entries:
+    corrected_lines = [apply_corrections(line) for line in e['text_lines']]
+    corrected_lines = capitalize_first(corrected_lines)
+    output_lines.append(e['idx'])
+    output_lines.append(e['timing'])
+    output_lines.extend(corrected_lines)
+    output_lines.append('')
+
+# Verificação de integridade antes de salvar
+assert len(entries) > 0, "Nenhuma entrada foi lida do arquivo original."
+
+with open('transcricao.srt', 'w', encoding='utf-8') as f:
+    f.write('\n'.join(output_lines))
+
+print(f"Concluído: {len(entries)} entradas processadas.")
+```
+
+---
+
+## O que NÃO fazer
+
+- ❌ Não alterar nenhum timestamp
+- ❌ Não fundir entradas do SRT para "melhorar" o texto
+- ❌ Não dividir entradas do SRT em mais de uma
+- ❌ Não reescrever frases — apenas corrigir grafia e números
+- ❌ Não converter números que são parte natural de uma frase coloquial ("um de cada vez", "dois lados")
+- ❌ Não alterar pontuação existente além do necessário para a correção
+- ❌ Não aplicar substituições de termos técnicos "às cegas" sem antes confirmar por contexto (e pesquisa, quando necessário) que aquele é realmente o termo correto
+- ❌ Não inventar ou arriscar a expansão de uma sigla/norma técnica sem confiança razoável — nesse caso, listar como termo de baixa confiança
+
+---
+
+## Resultado esperado
+
+O arquivo final `transcricao.srt` deve:
+- Ter exatamente o mesmo número de entradas que o arquivo original
+- Ter timestamps idênticos ao arquivo original
+- Preservar a estrutura de linhas internas de cada bloco (sem fundir múltiplas linhas em uma só)
+- Ter texto limpo, com números em algarismos, nomes próprios corretos e termos técnicos legíveis
+- Ser importável no CapCut PC sem nenhum erro, com sincronização perfeita de áudio e legenda
+- Vir acompanhado, quando aplicável, de uma lista de "Termos com baixa confiança — revisar manualmente"
