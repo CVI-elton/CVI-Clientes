@@ -1,0 +1,2980 @@
+1
+00:00:04,566 --> 00:00:07,666
+o que que é o vinte vezes a maioria dos tcs de proteção
+
+2
+00:00:07,900 --> 00:00:09,566
+elas são dimensionadas pra
+
+3
+00:00:10,333 --> 00:00:13,000
+garantir um erro de dez por cento ou cinco por cento
+
+4
+00:00:13,333 --> 00:00:15,500
+depende do TC dez por cento é o padrão
+
+5
+00:00:15,800 --> 00:00:17,966
+então vamo lá um TC de cem pra cinco
+
+6
+00:00:18,600 --> 00:00:19,466
+pra vinte vezes
+
+7
+00:00:19,666 --> 00:00:20,300
+vinte vezes e n
+
+8
+00:00:20,933 --> 00:00:22,133
+ou seja vinte vezes cinco
+
+9
+00:00:22,266 --> 00:00:24,666
+amperes no secundário ou vinte vezes cem no primário
+
+10
+00:00:24,900 --> 00:00:27,533
+uma corrente de vinte vezes e n o t c ele ainda garante
+
+11
+00:00:28,266 --> 00:00:29,466
+dez por cento de erro
+
+12
+00:00:29,866 --> 00:00:31,433
+então se tiver 20 vezes em n 1
+
+13
+00:00:31,566 --> 00:00:33,666
+corrente curto que incida no stc
+
+14
+00:00:33,966 --> 00:00:36,466
+ele vai ter 1 erro lá que vai mandar pro relé de 10%
+
+15
+00:00:36,833 --> 00:00:39,233
+só que o que muita gente não sabe é que nesse vinte
+
+16
+00:00:39,433 --> 00:00:43,033
+vezes n por definição de norma o TC ele já tá saturado
+
+17
+00:00:43,333 --> 00:00:43,866
+esse erro
+
+18
+00:00:43,866 --> 00:00:46,333
+de dez por cento eu já tô na saturação do TC
+
+19
+00:00:46,433 --> 00:00:47,800
+só que o meu erro ainda é baixo
+
+20
+00:00:48,333 --> 00:00:51,366
+então isso tá dizendo pra gente que o TC vai saturar
+
+21
+00:00:51,533 --> 00:00:52,533
+mas o erro é baixo
+
+22
+00:00:53,000 --> 00:00:55,400
+provavelmente o relé vai atuar tá vai proteger
+
+23
+00:00:55,800 --> 00:00:57,100
+então saturação de TC
+
+24
+00:00:57,100 --> 00:00:58,000
+se ela é um estudo
+
+25
+00:00:58,466 --> 00:00:59,266
+muito importante
+
+26
+00:00:59,533 --> 00:01:00,766
+obrigatório você tem que fazer
+
+27
+00:01:01,266 --> 00:01:04,366
+pra enxergar o que quando ocorre curto circuito
+
+28
+00:01:04,766 --> 00:01:05,633
+o que o TC
+
+29
+00:01:05,766 --> 00:01:07,433
+vai tá mandando para o relé
+
+30
+00:01:07,566 --> 00:01:09,300
+é suficiente pra garantir a proteção
+
+31
+00:01:09,633 --> 00:01:10,200
+sim ou não
+
+32
+00:01:10,266 --> 00:01:10,900
+se ele saturar 1 estudo de proteção
+
+33
+00:01:10,900 --> 00:01:11,933
+se você saturar demais
+
+34
+00:01:12,233 --> 00:01:14,600
+e o teu pick up for por exemplo dois k a
+
+35
+00:01:14,833 --> 00:01:16,033
+mas ele tá entregando quinhentos
+
+36
+00:01:16,166 --> 00:01:17,566
+amperes ele saturou muito
+
+37
+00:01:18,033 --> 00:01:20,333
+o relé não vai enxergar o curto não vai sair
+
+38
+00:01:20,933 --> 00:01:23,000
+cê vai ter problema no sistema então
+
+39
+00:01:23,566 --> 00:01:25,733
+a ideia do TC é basicamente essa
+
+40
+00:01:25,933 --> 00:01:27,000
+sim é por isso que é bom ter um
+
+41
+00:01:28,933 --> 00:01:31,300
+é bem feito né é
+
+42
+00:01:31,433 --> 00:01:33,166
+porque às vezes EU vejo pessoas que põe
+
+43
+00:01:33,300 --> 00:01:35,300
+valores até aleatório no relé né
+
+44
+00:01:35,633 --> 00:01:36,433
+isso é perigoso
+
+45
+00:01:36,566 --> 00:01:39,033
+porque cê pode realmente ter 1 problema de saturação
+
+46
+00:01:39,566 --> 00:01:41,366
+né e as pessoas isso fica muito preso
+
+47
+00:01:41,633 --> 00:01:44,500
+só no 51 porque ah é sobrecarga se der
+
+48
+00:01:44,933 --> 00:01:46,766
+né EU quero que ainda passe 1 pouquinho
+
+49
+00:01:47,300 --> 00:01:49,166
+e Tal da nominal do transformador
+
+50
+00:01:49,366 --> 00:01:51,900
+EU quero jogar pelo -20% do transformador
+
+51
+00:01:52,600 --> 00:01:53,400
+acima né
+
+52
+00:01:53,833 --> 00:01:54,600
+e não leva
+
+53
+00:01:54,600 --> 00:01:55,400
+às vezes em consideração
+
+54
+00:01:55,500 --> 00:01:56,933
+o instantâneo que é o que vai garantir
+
+55
+00:01:57,033 --> 00:01:58,733
+a não às vezes a queima porque não curte
+
+56
+00:01:58,833 --> 00:02:00,600
+circuito o asimétrico sobe
+
+57
+00:02:01,033 --> 00:02:02,100
+instantaneamente ali
+
+58
+00:02:02,833 --> 00:02:04,933
+e se deixar muitos ciclos ali
+
+59
+00:02:05,333 --> 00:02:07,233
+acabou né o equipamento vai embora né
+
+60
+00:02:07,533 --> 00:02:09,733
+sim sim perfeito essa análise é muito importante
+
+61
+00:02:09,966 --> 00:02:11,000
+o estudo de curto
+
+62
+00:02:11,466 --> 00:02:14,000
+ele é imprestendível o teu curto tem que tá perfeito
+
+63
+00:02:14,166 --> 00:02:15,266
+ele tem que ser aquele valor
+
+64
+00:02:36,433 --> 00:02:37,100
+se você coloca
+
+65
+00:02:37,233 --> 00:02:39,200
+por ventura um um pickup muito alto
+
+66
+00:02:39,366 --> 00:02:41,166
+ele pode não enxergar a corrente curto
+
+67
+00:02:41,633 --> 00:02:44,000
+então esse estudo de curto tem que tá muito afetado
+
+68
+00:02:44,133 --> 00:02:46,800
+pra gente decidir o pickup certo da produção cinquenta
+
+69
+00:02:46,966 --> 00:02:48,333
+sobre a corrente instantânea
+
+70
+00:02:48,433 --> 00:02:50,933
+e a cinquenta e um sobre a corrente temporizado
+
+71
+00:02:51,533 --> 00:02:52,433
+tanto só
+
+72
+00:02:53,100 --> 00:02:54,933
+tá fazendo um parêntese aqui no assunto
+
+73
+00:02:55,766 --> 00:02:57,000
+quando a gente faz o estudo de arco
+
+74
+00:02:57,100 --> 00:02:58,933
+flash de arco elétrico né a norma
+
+75
+00:02:59,100 --> 00:02:59,600
+dezessete
+
+76
+00:02:59,600 --> 00:03:01,733
+dois dois sete ela é recente n r dez foi atualizada
+
+77
+00:03:01,966 --> 00:03:04,033
+recente então esse assunto de arco tá bombando
+
+78
+00:03:05,500 --> 00:03:07,200
+o cálculo da corrente de arco
+
+79
+00:03:07,333 --> 00:03:08,833
+ela é feita em cima da corrente de curto
+
+80
+00:03:09,100 --> 00:03:10,566
+se o teu estudo de curto não tá legal
+
+81
+00:03:10,800 --> 00:03:12,533
+o teu estudo de arco flash não tá legal
+
+82
+00:03:12,833 --> 00:03:13,533
+cê vai gerar uma
+
+83
+00:03:13,533 --> 00:03:14,333
+etiqueta errada
+
+84
+00:03:14,400 --> 00:03:16,633
+vai colocar errado no painel o operador vai tá com uma
+
+85
+00:03:16,766 --> 00:03:18,366
+vestimenta errada e pode sofrer
+
+86
+00:03:18,533 --> 00:03:19,966
+danos né enfim
+
+87
+00:03:20,700 --> 00:03:21,433
+então só
+
+88
+00:03:21,433 --> 00:03:22,233
+só pra fechar
+
+89
+00:03:22,400 --> 00:03:24,400
+é esse esse cálculo do culto é muito importante
+
+90
+00:03:25,200 --> 00:03:26,833
+e o programa de transitorios
+
+91
+00:03:27,233 --> 00:03:28,033
+ele também faz isso
+
+92
+00:03:28,033 --> 00:03:30,100
+obviamente assim como o programa de regime permanente
+
+93
+00:03:30,233 --> 00:03:31,733
+sim e lá a gente consegue fazer
+
+94
+00:03:31,833 --> 00:03:32,933
+a saturação de TC
+
+95
+00:03:33,033 --> 00:03:34,500
+e tudo mais é uma coisa que eu falo muito
+
+96
+00:03:34,500 --> 00:03:36,800
+muito às vezes explico pra alguns clientes
+
+97
+00:03:37,466 --> 00:03:39,866
+é até engenheiros né que como não tem essa
+
+98
+00:03:40,033 --> 00:03:41,133
+essa vivência todo dia
+
+99
+00:03:41,333 --> 00:03:43,433
+você pega um profissional de manutenção
+
+100
+00:03:43,700 --> 00:03:45,900
+ele vai dar tomada a substação né sim
+
+101
+00:03:46,166 --> 00:03:46,900
+e também
+
+102
+00:03:47,433 --> 00:03:50,333
+fora água esgoto o cara tem que tomar conta de tudo
+
+103
+00:03:50,666 --> 00:03:52,800
+e eu falo pra ele ó estudo de curto circuito
+
+104
+00:03:52,866 --> 00:03:53,500
+é o estudo
+
+105
+00:03:53,500 --> 00:03:54,300
+principal do
+
+106
+00:03:54,300 --> 00:03:56,400
+assim se você pegou um estudo de proteção não tem um
+
+107
+00:03:56,466 --> 00:03:57,400
+estudo de curto circuito
+
+108
+00:03:58,000 --> 00:03:58,800
+antes de dizer
+
+109
+00:03:59,066 --> 00:03:59,900
+o que vai proteger
+
+110
+00:04:00,233 --> 00:04:02,666
+já começou errado sim porque o curto circuito
+
+111
+00:04:03,400 --> 00:04:05,133
+ele vai dar dois caminho pra você
+
+112
+00:04:05,333 --> 00:04:06,133
+um é o estúdio
+
+113
+00:04:06,200 --> 00:04:08,000
+de proteção que vai proteger os equipamentos
+
+114
+00:04:08,333 --> 00:04:10,333
+e o energia incidente vai proteger as pessoas
+
+115
+00:04:11,066 --> 00:04:13,833
+então eu falo se começar errado o estúdio por circuito
+
+116
+00:04:14,200 --> 00:04:15,500
+tudo vai por água abaixo
+
+117
+00:04:15,733 --> 00:04:16,666
+cê perde as pessoas
+
+118
+00:04:16,866 --> 00:04:18,000
+cê perde os equipamentos
+
+119
+00:04:18,133 --> 00:04:19,633
+e às vezes eles não tem essa noção
+
+120
+00:04:45,200 --> 00:04:48,800
+o atpedró ele é uma programa computacional
+
+121
+00:04:49,500 --> 00:04:50,233
+que roda
+
+122
+00:04:50,233 --> 00:04:53,733
+transitorias eletromagnéticas basicamente é o seguinte
+
+123
+00:04:54,633 --> 00:04:56,266
+tudo começou com ATP
+
+124
+00:04:56,800 --> 00:04:59,866
+na verdade indo umas pra trás com emtp
+
+125
+00:05:00,500 --> 00:05:01,666
+lá na década de sessenta
+
+126
+00:05:01,833 --> 00:05:05,466
+setenta o programa de transitório era chamado de emtp
+
+127
+00:05:05,666 --> 00:05:08,033
+que é eletromagnético e transente programa
+
+128
+00:05:08,466 --> 00:05:11,633
+só que esse emtp ele começou gratuito tá tá
+
+129
+00:05:12,400 --> 00:05:13,800
+e após um tempo
+
+130
+00:05:15,100 --> 00:05:17,033
+começou a ter muito investimento no programa
+
+131
+00:05:17,200 --> 00:05:18,000
+porque o mercado
+
+132
+00:05:18,100 --> 00:05:19,433
+entendeu que era algo muito importante
+
+133
+00:05:20,333 --> 00:05:22,500
+e a ideia foi comercializar o programa
+
+134
+00:05:22,733 --> 00:05:25,033
+só que um grupo de pesquisadores lá fundadores do
+
+135
+00:05:25,133 --> 00:05:26,133
+criadores do TP
+
+136
+00:05:26,433 --> 00:05:27,533
+do mtp na época
+
+137
+00:05:27,700 --> 00:05:29,266
+ele queria que continuasse uma ferramenta
+
+138
+00:05:29,333 --> 00:05:30,433
+gratuita pra todos como era
+
+139
+00:05:30,900 --> 00:05:33,866
+e aí foi onde a gente bifurcou a gente teve o ATP
+
+140
+00:05:34,066 --> 00:05:35,200
+que é alternativa e
+
+141
+00:05:35,300 --> 00:05:37,500
+transindo o programa é o programa de transitorios
+
+142
+00:05:37,633 --> 00:05:39,233
+alternativo né o próprio nome indica
+
+143
+00:05:39,833 --> 00:05:42,066
+ATP e o e mtp continuou
+
+144
+00:05:42,600 --> 00:05:44,600
+e é o programa que existe até hoje comercial
+
+145
+00:05:45,233 --> 00:05:46,800
+então a gente tinha o ATP
+
+146
+00:05:47,100 --> 00:05:49,333
+que era um programa computacional que resolvia
+
+147
+00:05:49,533 --> 00:05:51,700
+transitório só que essa essa
+
+148
+00:05:51,800 --> 00:05:52,933
+resolução de transitório
+
+149
+00:05:53,033 --> 00:05:54,866
+o cálculo era na forma de cartões
+
+150
+00:05:55,000 --> 00:05:56,500
+né na linguagem fortran
+
+151
+00:05:56,800 --> 00:05:57,600
+então era tudo
+
+152
+00:05:57,800 --> 00:05:59,933
+por texto era programação era código
+
+153
+00:06:00,800 --> 00:06:03,066
+o ATP drone nada mais é do que
+
+154
+00:06:04,000 --> 00:06:05,266
+ele é uma interface
+
+155
+00:06:05,400 --> 00:06:06,200
+que você desenha
+
+156
+00:06:06,200 --> 00:06:08,300
+o seu circuito assim como os programas que a gente usa
+
+157
+00:06:08,433 --> 00:06:09,233
+cê pega o o
+
+158
+00:06:09,400 --> 00:06:11,266
+desenho do trafo coloca lá modela
+
+159
+00:06:11,433 --> 00:06:12,866
+então cê monta o teu diagrama
+
+160
+00:06:13,000 --> 00:06:14,133
+unifilar vamo dizer assim
+
+161
+00:06:14,600 --> 00:06:17,800
+e o ATP drone drone é de desenho ele cê desenha
+
+162
+00:06:18,500 --> 00:06:19,300
+internamente
+
+163
+00:06:19,800 --> 00:06:21,800
+ele vai converter pra um texto
+
+164
+00:06:22,100 --> 00:06:25,100
+pra um código computacional a gente consegue ver isso
+
+165
+00:06:25,533 --> 00:06:27,033
+pra o ATP que é o
+
+166
+00:06:27,300 --> 00:06:30,866
+motor de cálculo rodar o cálculo e devolver pra gente
+
+167
+00:06:31,466 --> 00:06:35,033
+então o ATP draw e ATP eles são diferentes
+
+168
+00:06:35,633 --> 00:06:36,733
+só que o ATP drop
+
+169
+00:06:36,933 --> 00:06:38,800
+programa que cê vai baixar que é gratuito
+
+170
+00:06:39,466 --> 00:06:41,533
+aqui no Brasil a gente tem o cbu e
+
+171
+00:06:41,800 --> 00:06:44,333
+que é o comitê de usuários do ATP
+
+172
+00:06:44,666 --> 00:06:45,533
+comitê brasileiro
+
+173
+00:06:45,900 --> 00:06:49,500
+né então você pode digitar aí no na internet cbu e ATP
+
+174
+00:06:49,933 --> 00:06:52,233
+cê vai mandar e mail pro pro comitê
+
+175
+00:06:52,833 --> 00:06:55,400
+e o coordenador ele vai devolver pra você um link
+
+176
+00:06:55,533 --> 00:06:56,633
+do drive que vai ter
+
+177
+00:06:57,033 --> 00:06:57,833
+como baixar
+
+178
+00:06:57,900 --> 00:07:00,866
+como acessar primeiros passos é totalmente gratuito
+
+179
+00:07:01,333 --> 00:07:02,900
+mas é importante que cê faça esse
+
+180
+00:07:03,533 --> 00:07:06,300
+pedido oficial pra você se licenciar pro comitê ter
+
+181
+00:07:06,433 --> 00:07:07,333
+controle de quem tá usando
+
+182
+00:07:07,500 --> 00:07:09,066
+que que o mercado tá querendo e etc
+
+183
+00:08:51,133 --> 00:08:52,733
+então vocês estão vendo minha tela
+
+184
+00:08:53,100 --> 00:08:54,266
+essa é a interface
+
+185
+00:08:54,333 --> 00:08:57,733
+aqui do da tpedró tá bom é uma interface bem amigável
+
+186
+00:08:57,900 --> 00:08:58,700
+melhorou bastante
+
+187
+00:08:58,833 --> 00:08:59,533
+com as últimas
+
+188
+00:08:59,533 --> 00:09:01,766
+atualizações e o que vocês estão
+
+189
+00:09:01,833 --> 00:09:03,166
+enxergando é o seguinte ó
+
+190
+00:09:03,933 --> 00:09:04,733
+basicamente aqui
+
+191
+00:09:05,133 --> 00:09:07,633
+a gente tem uma fonte de tensão senoidal
+
+192
+00:09:08,100 --> 00:09:09,966
+tá bom que é a concessionária
+
+193
+00:09:10,533 --> 00:09:11,233
+então a gente
+
+194
+00:09:11,233 --> 00:09:11,766
+observa
+
+195
+00:09:11,766 --> 00:09:14,500
+aqui dentro que é uma fonte de treze mil e oitocentos
+
+196
+00:09:14,700 --> 00:09:15,700
+volt tá
+
+197
+00:09:16,266 --> 00:09:18,866
+linha linha tá aqui ó RMS line to
+
+198
+00:09:19,033 --> 00:09:19,866
+line então treze ponto oito
+
+199
+00:09:20,033 --> 00:09:22,100
+que vem entre fases sistema de média tensão
+
+200
+00:09:22,700 --> 00:09:25,266
+a gente tem aqui uma impedância de curto circuito
+
+201
+00:09:25,433 --> 00:09:26,966
+que é uma impedância rl
+
+202
+00:09:27,433 --> 00:09:29,100
+composta por um resistor
+
+203
+00:09:29,666 --> 00:09:31,533
+aqui em homens e 1
+
+204
+00:09:32,100 --> 00:09:34,433
+indutância nesse caso aqui tem Mili r
+
+205
+00:09:34,833 --> 00:09:36,966
+né então é 1 elemento r l
+
+206
+00:09:37,433 --> 00:09:38,866
+que a tua impedância de curto
+
+207
+00:09:38,966 --> 00:09:41,500
+circuito quando você recebe o dado da concessionária
+
+208
+00:09:41,933 --> 00:09:42,733
+a gente tem lá
+
+209
+00:09:43,700 --> 00:09:45,100
+ela sempre informa o
+
+210
+00:09:45,233 --> 00:09:47,266
+z de sequência positiva e z de sequência zero
+
+211
+00:09:47,366 --> 00:09:48,166
+que é impedância
+
+212
+00:09:48,300 --> 00:09:50,666
+então ela vai te informar o valor seja em ohms
+
+213
+00:09:50,833 --> 00:09:53,700
+seja em pu se ela te der em ohms você já coloca aqui
+
+214
+00:09:54,500 --> 00:09:55,233
+direto
+
+215
+00:09:55,233 --> 00:09:58,566
+se ela te der em pu cê faz o cálculo lá para achar em
+
+216
+00:09:58,766 --> 00:09:59,566
+em homs
+
+217
+00:10:00,300 --> 00:10:02,833
+e coloca aqui no programa tá então isso aqui garante
+
+218
+00:10:03,100 --> 00:10:03,833
+o nosso curto
+
+219
+00:10:03,833 --> 00:10:06,300
+circuito no ponto de entrega da sua instalação
+
+220
+00:10:07,266 --> 00:10:09,666
+aqui nós temos o elemento que é um disjuntor
+
+221
+00:10:10,133 --> 00:10:12,933
+então se a gente entrar aqui o que eu tô fazendo é
+
+222
+00:10:14,033 --> 00:10:16,166
+t c l a time
+
+223
+00:10:16,433 --> 00:10:17,266
+to close
+
+224
+00:10:17,433 --> 00:10:20,566
+a fase a é o tempo de fechamento da fase a tá em zero
+
+225
+00:10:21,166 --> 00:10:23,700
+fechamento da fase b tá em zero fase c tá em zero
+
+226
+00:10:24,033 --> 00:10:25,633
+então eu tô fechando de juntor
+
+227
+00:10:25,833 --> 00:10:26,566
+se eu tô fechando
+
+228
+00:10:26,566 --> 00:10:29,300
+eu quero energizar esse meu transformador tá bom
+
+229
+00:10:30,100 --> 00:10:31,933
+então eu tô aqui com um transformador
+
+230
+00:10:32,633 --> 00:10:35,900
+de treze ponto oito k v pra dois ponto quatro k v
+
+231
+00:10:36,166 --> 00:10:37,366
+tá é um transformador
+
+232
+00:10:37,866 --> 00:10:39,900
+típico se eu não me engano é que eu considerei
+
+233
+00:10:40,033 --> 00:10:41,366
+de quinhentos k v a
+
+234
+00:10:41,700 --> 00:10:44,500
+tá com impedância de seis por cento então
+
+235
+00:10:45,233 --> 00:10:47,066
+cê vai ter o teu transformador um transformador
+
+236
+00:10:47,133 --> 00:10:48,566
+super comum de encontrar em qualquer cabine
+
+237
+00:10:48,766 --> 00:10:49,433
+primária
+
+238
+00:10:49,433 --> 00:10:50,433
+cê vai modelar aqui
+
+239
+00:10:50,966 --> 00:10:52,466
+basicamente colocar as resistências
+
+240
+00:10:52,700 --> 00:10:54,100
+em dutâncias dos enrolamentos
+
+241
+00:11:27,500 --> 00:11:29,500
+então aqui você observa o seguinte ó
+
+242
+00:11:30,133 --> 00:11:31,833
+eu energizei um transformador
+
+243
+00:11:32,233 --> 00:11:34,700
+mas eu cometi um erro de não modelar saturação
+
+244
+00:11:35,500 --> 00:11:36,200
+então aqui
+
+245
+00:11:36,200 --> 00:11:37,966
+a gente tá vendo a corrente trifásica
+
+246
+00:11:38,100 --> 00:11:39,566
+sendo ideal como eu falei com a TP
+
+247
+00:11:39,633 --> 00:11:40,800
+mostra domínio do tempo
+
+248
+00:11:41,100 --> 00:11:42,133
+mas olha a amplitude
+
+249
+00:11:42,566 --> 00:11:43,733
+trinta milhão em pé
+
+250
+00:11:44,200 --> 00:11:45,500
+essa corrente não vai existir
+
+251
+00:11:45,700 --> 00:11:48,233
+essa corrente é muito baixa 30.000 em pé porque
+
+252
+00:11:48,366 --> 00:11:49,100
+que ela não existe
+
+253
+00:11:49,100 --> 00:11:50,500
+porque EU não modelei saturação
+
+254
+00:11:50,600 --> 00:11:51,900
+então basicamente EU tô modelando
+
+255
+00:11:52,500 --> 00:11:53,600
+1 carga bem baixa
+
+256
+00:11:54,200 --> 00:11:55,233
+que é a carga
+
+257
+00:11:55,600 --> 00:11:56,100
+do próprio
+
+258
+00:11:56,100 --> 00:11:58,100
+núcleo a resistência e a indutância do trafo
+
+259
+00:11:58,300 --> 00:11:59,100
+tá então
+
+260
+00:11:59,300 --> 00:12:00,633
+pra você ver o cuidado eu
+
+261
+00:12:00,733 --> 00:12:02,733
+modelei mas eu não coloquei a saturação ó sem
+
+262
+00:12:02,800 --> 00:12:03,533
+saturação
+
+263
+00:12:03,533 --> 00:12:05,333
+então isso daqui é só pra mostrar pra gente
+
+264
+00:12:05,933 --> 00:12:07,566
+a importância de você modelar certo
+
+265
+00:12:07,966 --> 00:12:10,300
+vamo pro que interessa aqui eu
+
+266
+00:12:10,366 --> 00:12:10,966
+modelei a
+
+267
+00:12:10,966 --> 00:12:12,933
+saturação que é o que você vai fazer pra estudar
+
+268
+00:12:13,100 --> 00:12:14,433
+energização de transformador
+
+269
+00:12:15,033 --> 00:12:16,200
+a única coisa que mudou
+
+270
+00:12:17,166 --> 00:12:17,766
+foi que
+
+271
+00:12:17,766 --> 00:12:18,566
+ó aqui também tem o
+
+272
+00:12:18,633 --> 00:12:19,400
+disjuntor no primeiro
+
+273
+00:12:19,400 --> 00:12:20,966
+caso se ele se ele tivesse só encarga
+
+274
+00:12:21,333 --> 00:12:23,366
+isso só encarga aí o primeiro caso agora
+
+275
+00:12:23,600 --> 00:12:24,500
+esse caso é o caso
+
+276
+00:12:24,966 --> 00:12:25,733
+que eu vou bater
+
+277
+00:12:25,733 --> 00:12:28,433
+o disjuntor isso né nesse primeiro caso é
+
+278
+00:12:28,966 --> 00:12:30,366
+eu também bati o disjuntor
+
+279
+00:12:30,566 --> 00:12:31,100
+e no caso
+
+280
+00:12:31,100 --> 00:12:31,700
+eu não tô com
+
+281
+00:12:31,700 --> 00:12:33,500
+carga ou não tinha carga aqui no secundário
+
+282
+00:12:33,766 --> 00:12:36,033
+foi só pra identificar qual que seria uma corrente
+
+283
+00:12:36,900 --> 00:12:37,733
+é do
+
+284
+00:12:37,900 --> 00:12:40,400
+transformador caso ele não saturasse se fosse ideal
+
+285
+00:12:40,566 --> 00:12:43,200
+né foi é ilustrativo aqui
+
+286
+00:12:43,700 --> 00:12:45,133
+a gente modelou a saturação
+
+287
+00:12:45,433 --> 00:12:47,133
+então se a gente vim aqui ó eu tenho
+
+288
+00:12:47,400 --> 00:12:48,833
+os pontos da minha curva
+
+289
+00:12:49,200 --> 00:12:51,800
+o fabricante ele vai dar pra você a curva de saturação
+
+290
+00:12:52,366 --> 00:12:54,933
+essa curva geralmente ela é dada no eixo y
+
+291
+00:12:55,366 --> 00:12:57,500
+tensão e no eixo x corrente
+
+292
+00:12:58,700 --> 00:13:00,633
+é se ela não dá pra você a curva
+
+293
+00:13:00,933 --> 00:13:03,366
+a gente tem já com base na literatura curvas
+
+294
+00:13:03,500 --> 00:13:04,000
+típicas
+
+295
+00:13:04,000 --> 00:13:04,700
+e é plenamente
+
+296
+00:13:04,700 --> 00:13:06,400
+possível a gente sentir mais esses pontos
+
+297
+00:13:06,633 --> 00:13:08,600
+tá bom não tem problema não é
+
+298
+00:13:08,833 --> 00:13:11,500
+então você vai colocar aqui os pontos de corrente e de
+
+299
+00:13:11,966 --> 00:13:13,966
+e de fluxo nesse caso aqui é fluxo
+
+300
+00:13:14,633 --> 00:13:17,366
+ah mas EU tenho tensão em corrente como é que EU acho
+
+301
+00:13:17,600 --> 00:13:19,000
+tem corrente e fluxo
+
+302
+00:13:19,733 --> 00:13:22,566
+o atpedro ele tem uma rotina que a gente chama satura
+
+303
+00:13:22,966 --> 00:13:25,333
+então você pega os pontos que você teve do fabricante
+
+304
+00:13:25,833 --> 00:13:27,500
+você vai rodar nesse programinha
+
+305
+00:13:28,000 --> 00:13:29,633
+que é tem na internet é
+
+306
+00:13:30,300 --> 00:13:31,033
+super comum
+
+307
+00:13:31,033 --> 00:13:31,633
+cê roda
+
+308
+00:13:31,633 --> 00:13:33,800
+lá e ele vai te dar os pontos que você vai colocar
+
+309
+00:13:33,966 --> 00:13:36,033
+nessa janela tá bom então tem um passo antes
+
+310
+00:13:36,500 --> 00:13:37,300
+mas é tranquilo
+
+311
+00:13:37,600 --> 00:13:39,033
+é aqui a gente pode clicar em view
+
+312
+00:13:39,600 --> 00:13:41,100
+e vê a curva de saturação
+
+313
+00:13:41,600 --> 00:13:43,300
+então essa é a curva de saturação
+
+314
+00:13:43,700 --> 00:13:45,000
+a gente observa que uma região
+
+315
+00:13:45,200 --> 00:13:47,833
+linear onde o transformador ainda não saturou
+
+316
+00:13:48,333 --> 00:13:50,766
+e a parte que satura ele muda a inclinação
+
+317
+00:14:31,033 --> 00:14:32,833
+então a gente observa que essa
+
+318
+00:14:33,366 --> 00:14:36,400
+corrente em rancho aqui ela atingiu um pico
+
+319
+00:14:37,666 --> 00:14:40,633
+de trezentos e vinte e oito amperes
+
+320
+00:14:41,300 --> 00:14:44,600
+tá bom então trezentos e vinte e oito amperes
+
+321
+00:14:45,666 --> 00:14:47,166
+aqui é a nossa corrente em ranche
+
+322
+00:14:47,233 --> 00:14:48,566
+pra gente ter uma noção de
+
+323
+00:14:48,766 --> 00:14:50,700
+quantas vezes foi essa corrente em ranche
+
+324
+00:14:51,100 --> 00:14:52,700
+deixa eu só pegar aqui
+
+325
+00:14:52,833 --> 00:14:53,966
+no transformador de quinhentos
+
+326
+00:14:54,066 --> 00:14:55,066
+caviar no treze
+
+327
+00:14:55,200 --> 00:14:58,500
+ponto oito é seria vinte e uma PL ele subiu bastante né
+
+328
+00:14:58,766 --> 00:15:02,066
+sim eu vamos só ver aqui a corrente nominal
+
+329
+00:15:02,666 --> 00:15:05,566
+então ó esse transformador que eu
+
+330
+00:15:06,500 --> 00:15:07,300
+modelei
+
+331
+00:15:08,566 --> 00:15:10,766
+na verdade aqui ó esse aqui
+
+332
+00:15:14,100 --> 00:15:15,900
+esse é o cálculo que eu faço ó
+
+333
+00:15:16,200 --> 00:15:18,900
+foi um transformador de quinhentos kva de meio mva
+
+334
+00:15:19,233 --> 00:15:21,500
+em pedância de cinco por cento tá bom
+
+335
+00:15:21,766 --> 00:15:22,466
+treze ponto oito
+
+336
+00:15:22,466 --> 00:15:24,200
+kva no primário e nesse caso dois ponto
+
+337
+00:15:24,466 --> 00:15:26,166
+quatro ponto dezesseis kva no secundário
+
+338
+00:15:26,266 --> 00:15:27,066
+de auto estrela
+
+339
+00:15:27,400 --> 00:15:29,066
+então se a gente faz o cálculo rápido
+
+340
+00:15:29,300 --> 00:15:30,366
+eu tenho ponto cinco
+
+341
+00:15:30,633 --> 00:15:32,466
+mva dividido por treze ponto oito
+
+342
+00:15:33,166 --> 00:15:34,433
+dividido por raiz de três
+
+343
+00:15:34,566 --> 00:15:36,066
+a corrente nominal é vinte ponto nove
+
+344
+00:15:36,233 --> 00:15:37,033
+amperes
+
+345
+00:15:37,366 --> 00:15:38,833
+se a gente teve aqui um pico
+
+346
+00:15:39,166 --> 00:15:40,600
+de trezentos e vinte e oito
+
+347
+00:15:43,400 --> 00:15:44,766
+aqui tá quinze vezes
+
+348
+00:15:45,100 --> 00:15:45,800
+mas na verdade
+
+349
+00:15:45,800 --> 00:15:47,100
+ali a gente tem que pegar em valores de
+
+350
+00:15:47,200 --> 00:15:48,566
+pico né então deixa eu fazer um
+
+351
+00:15:48,766 --> 00:15:49,566
+voltar aqui
+
+352
+00:15:49,833 --> 00:15:50,900
+vinte mp RMS
+
+353
+00:15:51,100 --> 00:15:53,100
+uhum se você pensar em valor de pico
+
+354
+00:15:53,266 --> 00:15:55,366
+o cálculo aqui é feito na hora é
+
+355
+00:15:56,000 --> 00:15:57,000
+e dividir dá
+
+356
+00:15:57,100 --> 00:15:57,633
+onze vezes
+
+357
+00:15:57,633 --> 00:15:58,066
+pensando em
+
+358
+00:15:58,066 --> 00:16:00,366
+valor instantâneo que aqui o rush é instantâneo no RMS
+
+359
+00:16:00,566 --> 00:16:02,066
+sim então aqui tá umas onze vezes
+
+360
+00:16:02,233 --> 00:16:04,233
+a nominal tá que é um rush
+
+361
+00:16:04,666 --> 00:16:06,166
+típico típico tá bom
+
+362
+00:16:06,633 --> 00:16:08,066
+aqui é só para mostrar para vocês
+
+363
+00:16:08,166 --> 00:16:09,100
+que a gente tem um caso
+
+364
+00:16:09,200 --> 00:16:11,200
+real um trafo real que cê sabe a corrente
+
+365
+00:16:11,400 --> 00:16:13,300
+cê modelo e vai ter um enranche é isso
+
+366
+00:16:13,700 --> 00:16:17,266
+tá bom então o ATP permite te fazer essa análise
+
+367
+00:16:17,800 --> 00:16:20,566
+e a gente observa também o decaimento aqui da corrente
+
+368
+00:16:21,000 --> 00:16:22,300
+tá bom sim ao longo do tempo
+
+369
+00:16:22,466 --> 00:16:24,433
+né isso aqui a gente observa que
+
+370
+00:16:25,300 --> 00:16:28,666
+até mais ou menos zero ponto dois segundos duzentos mil
+
+371
+00:16:29,166 --> 00:16:31,066
+tá uma amplitude ainda um pouquinho alta
+
+372
+00:16:31,266 --> 00:16:32,700
+depois ela afunda bastante
+
+373
+00:17:08,800 --> 00:17:09,600
+muita gente
+
+374
+00:17:09,800 --> 00:17:11,966
+ignora as resistências dos transformadores
+
+375
+00:17:12,266 --> 00:17:13,800
+porque de fato quando é
+
+376
+00:17:14,166 --> 00:17:16,166
+professor Renato a gente pega um transformador real
+
+377
+00:17:16,366 --> 00:17:18,633
+a gente pega a impedância lá de seis por cento
+
+378
+00:17:19,266 --> 00:17:21,466
+isso a gente chama isso de z de impedância
+
+379
+00:17:21,633 --> 00:17:22,900
+mas é basicamente um x
+
+380
+00:17:23,100 --> 00:17:25,866
+uma indutância o r é muito pequenininho
+
+381
+00:17:26,500 --> 00:17:27,466
+então se você
+
+382
+00:17:28,266 --> 00:17:30,066
+modela aqui eu peguei o mesmo tráfico
+
+383
+00:17:30,266 --> 00:17:33,200
+tirei a resistência modelei só como reatância
+
+384
+00:17:34,100 --> 00:17:34,900
+isso é errado
+
+385
+00:17:35,400 --> 00:17:37,066
+principalmente nesse estudo de enranche
+
+386
+00:17:37,433 --> 00:17:39,000
+porque se a gente atualizar aqui
+
+387
+00:17:39,233 --> 00:17:40,566
+olha o que a gente teve tá
+
+388
+00:17:41,100 --> 00:17:42,300
+ainda é o enranche
+
+389
+00:17:42,633 --> 00:17:45,366
+só que eu não tenho o que que que o senhor não observa
+
+390
+00:17:46,100 --> 00:17:48,766
+decaimento decaimento ele já ficou contínuo perfeito
+
+391
+00:17:49,200 --> 00:17:50,300
+então se você despreza
+
+392
+00:17:50,466 --> 00:17:51,066
+resistências
+
+393
+00:17:51,066 --> 00:17:53,600
+na sua modelagem você não decai se não amortece
+
+394
+00:17:53,966 --> 00:17:54,766
+então isso é importante
+
+395
+00:17:54,833 --> 00:17:55,833
+esse enranche não é real
+
+396
+00:17:56,000 --> 00:17:57,100
+até pra entender que o resistor
+
+397
+00:17:57,200 --> 00:17:58,366
+é que faz o amortecimento
+
+398
+00:17:58,633 --> 00:18:00,166
+perfeito o resistor é muito importante
+
+399
+00:18:00,400 --> 00:18:01,266
+no estudo do ATP
+
+400
+00:18:01,633 --> 00:18:02,966
+de capacitor o pessoal tá
+
+401
+00:18:03,266 --> 00:18:03,966
+vendo aí
+
+402
+00:18:03,966 --> 00:18:06,300
+aquele contatorzinho pequenininho que tem o resistor
+
+403
+00:18:07,766 --> 00:18:10,700
+ele faz exatamente isso ele vai e amortece na hora
+
+404
+00:18:11,066 --> 00:18:12,633
+seu comentário foi cirúrgico na
+
+405
+00:18:12,766 --> 00:18:14,866
+baixa tensão a gente tem um resistor de precarga
+
+406
+00:18:15,000 --> 00:18:16,366
+e é isso que ele faz é isso
+
+407
+00:18:16,900 --> 00:18:18,566
+então tá todo mundo tá todo mundo entendendo
+
+408
+00:18:18,833 --> 00:18:20,066
+por qualquer resistor
+
+409
+00:18:20,266 --> 00:18:20,900
+né qualquer
+
+410
+00:18:20,900 --> 00:18:22,000
+contator tem gente que põe
+
+411
+00:18:22,100 --> 00:18:23,466
+qualquer um sem resistor sem nada
+
+412
+00:18:23,666 --> 00:18:23,966
+verdade
+
+413
+00:18:23,966 --> 00:18:25,300
+ah isso aqui lá não serve pra nada
+
+414
+00:18:25,400 --> 00:18:27,100
+né ele é que faz o amortecimento né
+
+415
+00:18:27,366 --> 00:18:29,166
+e ele acaba tirando da rede
+
+416
+00:18:29,600 --> 00:18:30,833
+que pode queimar uma placa
+
+417
+00:18:30,966 --> 00:18:32,566
+pode acontecer uma coisa do momento que entra
+
+418
+00:18:32,833 --> 00:18:34,900
+pode propagar no barramento e queimar outras coisas
+
+419
+00:18:35,166 --> 00:18:35,966
+queimar outras coisas
+
+420
+00:18:36,400 --> 00:18:37,766
+aqui eu quis exemplificar
+
+421
+00:18:38,366 --> 00:18:40,666
+se você faz uma modelagem inadequada ó
+
+422
+00:18:40,866 --> 00:18:41,766
+aqui eu peguei o último
+
+423
+00:18:41,833 --> 00:18:43,900
+ponto da curva e eu aumentei muito a corrente
+
+424
+00:18:44,433 --> 00:18:46,866
+então eu fiz uma modelagem errada não modelei muito bem
+
+425
+00:18:47,200 --> 00:18:49,266
+eu aumentei muita saturação mas eu não sei disso
+
+426
+00:18:49,966 --> 00:18:51,400
+quando a gente roda
+
+427
+00:18:52,200 --> 00:18:54,800
+a simulação e atualiza olha
+
+428
+00:18:55,700 --> 00:18:56,300
+aqui
+
+429
+00:18:56,300 --> 00:18:58,266
+se você modela inadequadamente
+
+430
+00:18:58,766 --> 00:19:01,600
+você vai ter um enracha maior então aqui por exemplo
+
+431
+00:19:02,200 --> 00:19:04,400
+foi aqui eu aumentei o ponto de saturação
+
+432
+00:19:04,466 --> 00:19:05,400
+forçadamente só pra
+
+433
+00:19:05,500 --> 00:19:06,300
+exemplificar
+
+434
+00:19:06,766 --> 00:19:08,033
+é esse pico aqui deu
+
+435
+00:19:08,666 --> 00:19:09,566
+cento e quarenta e quatro
+
+436
+00:19:10,033 --> 00:19:10,866
+mas no que é real
+
+437
+00:19:11,066 --> 00:19:12,300
+vamos dizer assim é cento e vinte
+
+438
+00:19:12,466 --> 00:19:14,633
+ah você observa bem aqui ó o vermelho e o azul
+
+439
+00:19:15,600 --> 00:19:18,300
+isso é pra exemplificar que cê tem que saber modelar
+
+440
+00:19:18,566 --> 00:19:19,366
+tá bom é é é
+
+441
+00:19:19,600 --> 00:19:20,600
+modelar é uma arte
+
+442
+00:19:20,700 --> 00:19:21,866
+cê tem que saber modelar assim como
+
+443
+00:19:22,000 --> 00:19:23,000
+em qualquer programa tá
+
+444
+00:19:54,800 --> 00:19:55,600
+em que momento
+
+445
+00:19:55,666 --> 00:19:58,600
+é o ideal de eu chavear pensão na senóide
+
+446
+00:19:59,066 --> 00:19:59,866
+depende
+
+447
+00:20:00,200 --> 00:20:02,033
+quando você vai energizar um transformador
+
+448
+00:20:02,233 --> 00:20:05,000
+a gente sabe que um circuito típico ele é indutivo
+
+449
+00:20:05,566 --> 00:20:06,566
+fortemente indutivo
+
+450
+00:20:07,400 --> 00:20:09,766
+então quando a corrente tá passando pelo zero
+
+451
+00:20:09,933 --> 00:20:10,733
+da senóide
+
+452
+00:20:11,333 --> 00:20:12,733
+a tensão tá passando pelo pico
+
+453
+00:20:12,933 --> 00:20:14,533
+quando a tensão tá passando pelo pico
+
+454
+00:20:14,733 --> 00:20:15,166
+no caso
+
+455
+00:20:15,166 --> 00:20:15,666
+vamo lá
+
+456
+00:20:15,666 --> 00:20:17,966
+quando a tensão tá pelo pico a corrente tá pelo zero
+
+457
+00:20:18,533 --> 00:20:19,666
+se a tensão tá pelo zero
+
+458
+00:20:19,800 --> 00:20:21,600
+a corrente tá no pico é noventa graus
+
+459
+00:20:21,766 --> 00:20:22,566
+mais ou menos
+
+460
+00:20:22,800 --> 00:20:24,733
+quando a gente vai analisar um transformador o ideal
+
+461
+00:20:24,800 --> 00:20:25,466
+é a corrente
+
+462
+00:20:25,466 --> 00:20:26,333
+tá passando pelo zero
+
+463
+00:20:26,800 --> 00:20:29,800
+tá ou seja o ideal é tá no pico de tensão
+
+464
+00:20:30,333 --> 00:20:31,633
+e aqui a gente consegue
+
+465
+00:20:32,366 --> 00:20:33,066
+modelar
+
+466
+00:20:33,066 --> 00:20:33,600
+aqui no
+
+467
+00:20:33,600 --> 00:20:34,366
+disjuntor
+
+468
+00:20:34,366 --> 00:20:35,400
+eu coloquei ó eu tô
+
+469
+00:20:35,533 --> 00:20:37,233
+chaveando a fase a quando tá no zero
+
+470
+00:20:37,400 --> 00:20:40,066
+de tensão eu chaveio a b quando ela passa pelo
+
+471
+00:20:40,666 --> 00:20:43,133
+perdão pelo pico de tensão pelo pico de tensão
+
+472
+00:20:43,366 --> 00:20:46,733
+e tô chaviando a c quando ela passa no pico de tensão
+
+473
+00:20:47,000 --> 00:20:49,666
+tá então fazendo esse chaviamento que a gente chama de
+
+474
+00:20:49,800 --> 00:20:50,666
+sincronismo
+
+475
+00:20:51,633 --> 00:20:53,766
+e em alta tensão a gente tem os sincronizadores
+
+476
+00:20:53,866 --> 00:20:54,666
+que fazem isso
+
+477
+00:20:55,466 --> 00:20:56,800
+a gente reduz o enrancho
+
+478
+00:20:57,166 --> 00:20:58,966
+então o nosso enrancho que era de trezentos
+
+479
+00:20:59,066 --> 00:21:00,466
+amperes trezentos e vinte e oito
+
+480
+00:21:00,666 --> 00:21:01,600
+agora tá em cento e vinte
+
+481
+00:21:01,766 --> 00:21:03,333
+cento e quinze fica próximo do zero
+
+482
+00:21:03,666 --> 00:21:04,533
+isso isso é uma
+
+483
+00:21:04,733 --> 00:21:07,800
+uma das soluções que é muito usado na alta tensão
+
+484
+00:21:08,033 --> 00:21:08,533
+principalmente
+
+485
+00:21:08,533 --> 00:21:10,566
+né porque na média a gente não tem muito esse controle
+
+486
+00:21:11,066 --> 00:21:14,566
+mas se você sincroniza e chaveia no PICO de tensão
+
+487
+00:21:15,166 --> 00:21:18,633
+0 de corrente é melhor tá e
+
+488
+00:21:19,333 --> 00:21:20,133
+por fim
+
+489
+00:21:20,933 --> 00:21:22,200
+aqui eu coloquei um caso
+
+490
+00:21:22,566 --> 00:21:23,533
+onde você coloca também
+
+491
+00:21:23,600 --> 00:21:26,466
+uma solução que é usada é um resistor de pra inserção
+
+492
+00:21:26,833 --> 00:21:28,066
+então quando você vai energizar
+
+493
+00:21:28,266 --> 00:21:31,066
+você entra o resistor que amortece igual a gente viu
+
+494
+00:21:31,666 --> 00:21:32,333
+e depois que
+
+495
+00:21:32,333 --> 00:21:34,200
+energiza a gente tira o resistor que ele não é pra
+
+496
+00:21:34,333 --> 00:21:35,566
+tá lá tá então
+
+497
+00:21:36,666 --> 00:21:38,866
+isso ele vira uma carga ele causa queda de tensão
+
+498
+00:21:39,600 --> 00:21:40,733
+então pra finalizar aqui
+
+499
+00:21:40,833 --> 00:21:41,800
+pra deixar bem completinho
+
+500
+00:21:41,933 --> 00:21:43,000
+pra todo mundo que tá assistindo
+
+501
+00:21:43,533 --> 00:21:46,466
+é esse exemplo aqui então onde eu vou pegar uma fase
+
+502
+00:21:46,933 --> 00:21:50,333
+por exemplo do caso original né sem resistor
+
+503
+00:21:50,733 --> 00:21:53,033
+e um aqui que tem o resistor
+
+504
+00:21:55,933 --> 00:21:59,266
+ó é mesmo efeito mesmo efeito o azul no caso
+
+505
+00:22:00,033 --> 00:22:01,933
+é o real sem nenhuma técnica
+
+506
+00:22:02,233 --> 00:22:03,466
+e aqui o outro já é
+
+507
+00:22:03,600 --> 00:22:05,266
+o vermelho com resistor com resistor
+
+508
+00:22:05,533 --> 00:22:06,933
+então tanto que diminui
+
+509
+00:22:07,333 --> 00:22:07,766
+perfeito
+
+510
+00:22:07,766 --> 00:22:09,133
+para fechar o raciocínio
+
+511
+00:22:09,233 --> 00:22:10,400
+eu tô mostrando um caso de
+
+512
+00:22:10,533 --> 00:22:12,566
+energização de trafo corrente de magnetização
+
+513
+00:22:12,733 --> 00:22:13,966
+modelado no ATP
+
+514
+00:22:14,833 --> 00:22:15,533
+e também
+
+515
+00:22:15,533 --> 00:22:18,166
+técnicas que são utilizadas pra você reduzir isso
+
+516
+00:23:10,233 --> 00:23:11,233
+o i três é
+
+517
+00:23:11,433 --> 00:23:13,300
+quem já atua na área pode ter utilizado
+
+518
+00:23:13,433 --> 00:23:14,300
+tem uma planilha
+
+519
+00:23:14,400 --> 00:23:15,600
+já de saturação de TC
+
+520
+00:23:15,733 --> 00:23:17,133
+muito antiga da década de dois mil
+
+521
+00:23:17,800 --> 00:23:18,700
+e ela é utilizada
+
+522
+00:23:18,733 --> 00:23:20,166
+para fazer esse estudo e ela é muito boa
+
+523
+00:23:20,233 --> 00:23:21,033
+ela é muito boa
+
+524
+00:23:21,700 --> 00:23:24,133
+mas ela simplifica muito a saturação do TC
+
+525
+00:23:24,333 --> 00:23:26,166
+a curva de saturação é só um ponto
+
+526
+00:23:27,133 --> 00:23:27,933
+é excelente
+
+527
+00:23:28,500 --> 00:23:29,600
+é uso ela diariamente
+
+528
+00:23:31,333 --> 00:23:32,133
+não sabe
+
+529
+00:23:32,733 --> 00:23:33,833
+não mas ela é incrível
+
+530
+00:23:34,900 --> 00:23:36,000
+é ela é muito boa
+
+531
+00:23:36,600 --> 00:23:37,766
+só que aqui no ATP
+
+532
+00:23:37,900 --> 00:23:38,800
+no ATP drop
+
+533
+00:23:38,933 --> 00:23:41,333
+a gente modela a curva inteira de saturação
+
+534
+00:23:41,566 --> 00:23:43,400
+então aqui a gente enxerga perfeitamente
+
+535
+00:23:43,766 --> 00:23:46,400
+o que ocorre de modo melhor e mais claro então
+
+536
+00:23:46,500 --> 00:23:48,433
+dependendo da análise de ocorrência da análise de
+
+537
+00:23:48,533 --> 00:23:50,033
+oscilografia que você esteja fazendo
+
+538
+00:23:50,300 --> 00:23:52,733
+aquela planilha não é suficiente cê tem que IR pra cá
+
+539
+00:23:52,966 --> 00:23:53,766
+depende do caso
+
+540
+00:23:54,133 --> 00:23:56,366
+então aqui EU separei 1 caso que é
+
+541
+00:23:56,900 --> 00:23:58,700
+1 fonte 13 ponto 8 KV
+
+542
+00:23:59,100 --> 00:23:59,900
+tá bom com
+
+543
+00:24:00,000 --> 00:24:02,166
+mva de curto circuito de duzentos e cinquenta
+
+544
+00:24:02,500 --> 00:24:04,000
+duzentos e cinquenta mva de curto circuito
+
+545
+00:24:04,366 --> 00:24:06,766
+x sobre r de quinze x sobre r é importante
+
+546
+00:24:07,300 --> 00:24:10,300
+porque causa simetria e contribui na saturação do TC
+
+547
+00:24:11,033 --> 00:24:13,733
+aqui a gente tem uma impedância de curto circuito tá um
+
+548
+00:24:13,900 --> 00:24:16,933
+z s que tá aqui o valor em homens que eu usei
+
+549
+00:24:17,366 --> 00:24:19,566
+a gente tem um cabo é é pr
+
+550
+00:24:19,700 --> 00:24:21,200
+de cem metros que é o cabo da fase
+
+551
+00:24:21,333 --> 00:24:22,433
+ali que tá passando tá bom
+
+552
+00:24:22,966 --> 00:24:24,700
+tá aqui os dados dele também
+
+553
+00:24:25,300 --> 00:24:26,733
+cento e vinte milímetros quadrados
+
+554
+00:24:27,500 --> 00:24:29,500
+aqui a gente sabe que TC fica em série
+
+555
+00:24:29,700 --> 00:24:31,533
+então a gente tem aqui um circuito em série
+
+556
+00:24:31,700 --> 00:24:33,933
+passando por esse TC que é um transformador
+
+557
+00:24:34,733 --> 00:24:36,900
+e eu coloquei aqui também uma impedância de carga
+
+558
+00:24:37,133 --> 00:24:37,733
+pra que a gente
+
+559
+00:24:37,733 --> 00:24:38,900
+veja uma corrente de carga
+
+560
+00:24:38,966 --> 00:24:40,333
+antes da ocorrência do curto
+
+561
+00:24:40,633 --> 00:24:41,800
+tá bom uma carga de dois
+
+562
+00:24:41,966 --> 00:24:44,566
+mva com fator de potência de zero e noventa e cinco
+
+563
+00:24:45,166 --> 00:24:47,733
+e aqui eu tô fazendo curto circuito essa chave
+
+564
+00:24:47,966 --> 00:24:49,366
+tá curto circuitando
+
+565
+00:24:49,833 --> 00:24:50,733
+é o sistema
+
+566
+00:24:51,233 --> 00:24:52,033
+tá e eu tô
+
+567
+00:24:52,500 --> 00:24:53,100
+causando
+
+568
+00:24:53,100 --> 00:24:54,133
+curto em um ciclo
+
+569
+00:24:54,233 --> 00:24:56,300
+tá dezesseis milissegundos dezesseis mil um ciclo
+
+570
+00:24:56,533 --> 00:24:59,700
+um ciclo um ciclo da onde eu pá chaveei legal
+
+571
+00:25:00,600 --> 00:25:01,333
+esse TC
+
+572
+00:25:01,333 --> 00:25:01,833
+ele é de
+
+573
+00:25:01,833 --> 00:25:03,800
+100 pra 5 com péres 1 TC super comum
+
+574
+00:25:03,933 --> 00:25:05,900
+sistema de média atenção cabine primária
+
+575
+00:25:06,033 --> 00:25:06,833
+relação 20
+
+576
+00:25:07,600 --> 00:25:08,600
+e aqui no secundário
+
+577
+00:25:08,900 --> 00:25:12,100
+a gente modelou a fiação do TC lá no secundário né
+
+578
+00:25:12,533 --> 00:25:14,766
+um cabo de se não me engano aqui é dois e meio
+
+579
+00:25:14,900 --> 00:25:15,800
+milímetros quadrados
+
+580
+00:25:15,966 --> 00:25:17,500
+um cabo comum é
+
+581
+00:25:17,766 --> 00:25:18,800
+é melhor a gente usar quatro
+
+582
+00:25:19,000 --> 00:25:20,133
+quatro milímetros né mas isso
+
+583
+00:25:20,433 --> 00:25:22,133
+a gente avalia aqui é dois e meio
+
+584
+00:25:22,566 --> 00:25:24,200
+dois e meio milímetros cinco metros
+
+585
+00:25:24,433 --> 00:25:26,133
+aqui é a resistência do TC
+
+586
+00:25:27,133 --> 00:25:28,900
+ah mas eu não tenho essa informação
+
+587
+00:25:29,833 --> 00:25:31,500
+existe várias maneiras de você estimar
+
+588
+00:25:31,733 --> 00:25:33,800
+nesse caso aqui eu usei uma que é bem famosa
+
+589
+00:25:34,033 --> 00:25:35,433
+que você faz cê multiplica
+
+590
+00:25:35,533 --> 00:25:36,733
+zero vírgula zero cinco vezes o
+
+591
+00:25:36,833 --> 00:25:37,700
+n do TC
+
+592
+00:25:37,933 --> 00:25:39,766
+o TC nesse caso tem relação pra vinte
+
+593
+00:25:40,233 --> 00:25:41,733
+então zero ponto zero cinco vezes vinte
+
+594
+00:25:41,933 --> 00:25:42,833
+dá zero ponto um onze
+
+595
+00:25:43,366 --> 00:25:45,133
+é um valor que fica bem coerente com a realidade
+
+596
+00:25:45,400 --> 00:25:47,000
+então essa é a resistência do TC
+
+597
+00:26:34,433 --> 00:26:37,433
+vamo ver a corrente que circula aqui no primário do TC
+
+598
+00:26:37,766 --> 00:26:39,300
+tá então vamo plotar
+
+599
+00:26:39,666 --> 00:26:40,833
+e ver essa corrente aqui no
+
+600
+00:26:41,000 --> 00:26:42,966
+no PCC que é o ponto de de acoplamento
+
+601
+00:26:44,100 --> 00:26:47,500
+essa é a corrente de curto circuito tá a gente observa
+
+602
+00:26:48,166 --> 00:26:50,066
+a bem a assimetria aqui no início
+
+603
+00:26:50,466 --> 00:26:51,800
+o zero ele tá aqui no meio
+
+604
+00:26:52,966 --> 00:26:54,366
+então a gente simétrico
+
+605
+00:26:54,766 --> 00:26:55,566
+perfeito começa
+
+606
+00:26:55,700 --> 00:26:56,966
+simétrico e depois ele vai né
+
+607
+00:26:57,100 --> 00:26:59,433
+decaindo quando chegar um ciclo ele já começa
+
+608
+00:26:59,666 --> 00:27:01,866
+a ficar em estado simétrico mais regime
+
+609
+00:27:02,566 --> 00:27:02,966
+perfeito
+
+610
+00:27:02,966 --> 00:27:03,900
+então essa é a corrente
+
+611
+00:27:04,000 --> 00:27:05,700
+curta que tá no primário tem um pico
+
+612
+00:27:05,833 --> 00:27:09,433
+aqui de quase vinte e seis k aham bacana
+
+613
+00:27:09,900 --> 00:27:10,966
+no secundário essa
+
+614
+00:27:11,100 --> 00:27:11,600
+relação
+
+615
+00:27:11,600 --> 00:27:12,366
+a gente tem a relação
+
+616
+00:27:12,366 --> 00:27:13,700
+terceiro vai ser dividido por vinte
+
+617
+00:27:14,100 --> 00:27:16,700
+então quando a gente observa a corrente no secundário
+
+618
+00:27:17,433 --> 00:27:19,700
+que é essa aqui
+
+619
+00:27:20,633 --> 00:27:21,500
+vamos ver o Mag
+
+620
+00:27:23,166 --> 00:27:23,800
+ó
+
+621
+00:27:23,800 --> 00:27:26,200
+é aquela mesma corrente do primário dividido por vinte
+
+622
+00:27:26,666 --> 00:27:29,233
+a gente observa o pico lá que era de vinte e poucos k
+
+623
+00:27:29,500 --> 00:27:31,066
+aqui tá mil duzentos e poucos amperes
+
+624
+00:27:31,400 --> 00:27:31,900
+tá bom então
+
+625
+00:27:31,900 --> 00:27:34,300
+nosso TC tá funcionando cê tem que aferir o modelo
+
+626
+00:27:34,500 --> 00:27:35,433
+cê modela e testa
+
+627
+00:27:35,900 --> 00:27:36,400
+antes de fazer
+
+628
+00:27:36,400 --> 00:27:38,600
+estudo cê verifica se tá tudo nos conformes
+
+629
+00:27:39,366 --> 00:27:43,766
+então essa é a corrente que o TC enxerga bacana só que
+
+630
+00:27:43,833 --> 00:27:45,300
+aqui a gente tem a saturação
+
+631
+00:27:45,400 --> 00:27:47,500
+a gente modelou a saturação então
+
+632
+00:27:48,300 --> 00:27:50,100
+pra gente ver se o testessatura
+
+633
+00:27:50,233 --> 00:27:51,300
+vamo plotar essa corrente
+
+634
+00:27:51,400 --> 00:27:53,800
+bem aqui ó que é a corrente que vai pro relé
+
+635
+00:27:54,100 --> 00:27:55,233
+tá então vamo lá
+
+636
+00:27:55,366 --> 00:27:57,200
+eu vou plotar eu vou manter essa corrente
+
+637
+00:27:57,433 --> 00:27:59,433
+a gente vai enxergar o que o relé vai enxergar
+
+638
+00:27:59,833 --> 00:28:00,666
+isso exatamente
+
+639
+00:28:02,300 --> 00:28:03,400
+olha como fica legal
+
+640
+00:28:04,500 --> 00:28:07,300
+a gente observa claramente a saturação
+
+641
+00:28:07,833 --> 00:28:10,600
+como o TC satura ele vai saturar
+
+642
+00:28:11,433 --> 00:28:13,433
+ele deveria ler essa correntinha azul
+
+643
+00:28:14,233 --> 00:28:16,300
+tá bom mas a gente lê a vermelha
+
+644
+00:28:16,900 --> 00:28:19,866
+que é uma corrente saturada se a gente plantar só ela
+
+645
+00:28:21,100 --> 00:28:22,833
+ó é a corrente de saturação
+
+646
+00:28:23,033 --> 00:28:23,833
+bem semelhante
+
+647
+00:28:23,833 --> 00:28:24,900
+é quando cê roda a planilha
+
+648
+00:28:25,000 --> 00:28:27,600
+a gente observa esses cortes na forma de onda sim
+
+649
+00:28:28,166 --> 00:28:29,600
+bacana se eu
+
+650
+00:28:30,066 --> 00:28:31,900
+aumentar aqui um pouco o tempo de simulação
+
+651
+00:28:32,033 --> 00:28:33,366
+só pra gente ver como que essa
+
+652
+00:28:33,433 --> 00:28:35,400
+saturação ela vai diminuindo ao longo do tempo
+
+653
+00:28:36,433 --> 00:28:38,866
+é o TC vai desaturando vamos dizer assim
+
+654
+00:28:39,366 --> 00:28:41,800
+eu vou plotar de novo aqui e esse daqui
+
+655
+00:28:43,966 --> 00:28:46,500
+ó a gente tem o aqui mais na frente
+
+656
+00:28:46,866 --> 00:28:49,300
+o vermelho com azul lá na frente tava diferente
+
+657
+00:28:49,500 --> 00:28:50,500
+depois ele veio e
+
+658
+00:28:50,766 --> 00:28:51,866
+isso aqui já tá melhor
+
+659
+00:28:52,466 --> 00:28:56,266
+aqui no início tá péssima péssima perfeito bacana
+
+660
+00:28:57,100 --> 00:28:59,800
+e também o valor RMS a gente trata de valor RMS
+
+661
+00:28:59,966 --> 00:29:00,900
+nossa proteção a gente já
+
+662
+00:29:01,033 --> 00:29:02,633
+tá enxergando o valor ali RMS
+
+663
+00:29:03,400 --> 00:29:04,200
+então aqui a gente pode
+
+664
+00:29:04,200 --> 00:29:06,100
+plotar igual na planilha do i três e
+
+665
+00:29:06,366 --> 00:29:10,666
+o valor é RMS ó sim então a gente observa claramente o
+
+666
+00:29:10,900 --> 00:29:11,433
+o real
+
+667
+00:29:11,433 --> 00:29:13,766
+vamo dizer assim se não saturasse que é o vermelho
+
+668
+00:29:14,166 --> 00:29:15,433
+a leitura seria maior
+
+669
+00:29:15,833 --> 00:29:16,500
+como ter
+
+670
+00:29:16,500 --> 00:29:20,000
+cê satura ele lê menos que é o azul lê um valor menor
+
+671
+00:29:20,566 --> 00:29:23,266
+e a gente observa aqui que houve saturação o que a c
+
+672
+00:29:23,666 --> 00:29:25,633
+houve uma saturação a c do TC
+
+673
+00:29:25,966 --> 00:29:28,400
+porque aqui em regime as ondas não se encontraram
+
+674
+00:31:14,300 --> 00:31:15,533
+estamos chegando ao final
+
+675
+00:31:16,600 --> 00:31:20,766
+eu você que nos acompanha compartilhe curte esse
+
+676
+00:31:21,333 --> 00:31:22,500
+deixa o seu comentário
+
+677
+00:31:23,366 --> 00:31:26,066
+e Wendy eu quero agradecer sua presença
+
+678
+00:31:26,266 --> 00:31:29,133
+quero deixar pra você suas palavras finais aí
+
+679
+00:31:30,066 --> 00:31:32,500
+onde a pessoa te encontra o seu LinkedIn
+
+680
+00:31:32,700 --> 00:31:33,666
+se você tem um Instagram
+
+681
+00:31:34,600 --> 00:31:38,200
+como é que as pessoas pode te encontrar aí né no
+
+682
+00:31:38,400 --> 00:31:39,300
+pra falar com você
+
+683
+00:31:39,500 --> 00:31:41,666
+de repente tirar uma dúvida aí alguma coisa
+
+684
+00:31:42,733 --> 00:31:43,766
+ou algum comentário
+
+685
+00:31:44,100 --> 00:31:45,800
+alguma coisa que você não entendeu
+
+686
+00:31:46,000 --> 00:31:47,733
+e a gente pode tá te ajudando
+
+687
+00:31:48,000 --> 00:31:48,700
+ah legal
+
+688
+00:31:49,033 --> 00:31:51,400
+bom pessoal então pra quem tiver mais interesse
+
+689
+00:31:51,500 --> 00:31:53,800
+nessa área de transitorios eletromagnéticos
+
+690
+00:31:53,900 --> 00:31:54,866
+quiser tirar dúvidas
+
+691
+00:31:55,266 --> 00:31:56,466
+de de qualquer natureza
+
+692
+00:31:57,100 --> 00:32:00,800
+é EU tenho 1 LinkedIn né wendler Matos então
+
+693
+00:32:00,900 --> 00:32:02,766
+você pode me acompanhar lá no LinkedIn
+
+694
+00:32:02,866 --> 00:32:04,066
+EU tento postar bastante coisa
+
+695
+00:32:05,433 --> 00:32:05,866
+legal
+
+696
+00:32:06,033 --> 00:32:09,066
+agradeço então você pode me encontrar lá pelo LinkedIn
+
+697
+00:32:09,766 --> 00:32:12,200
+é a gente também tem um eu criei um grupo de proteção
+
+698
+00:32:12,466 --> 00:32:14,766
+que tem bastante gente lá no WhatsApp também
+
+699
+00:32:15,200 --> 00:32:17,200
+então a gente discute muitos assuntos por lá
+
+700
+00:32:17,500 --> 00:32:19,900
+é um grupo de proteção e substações sim
+
+701
+00:32:20,066 --> 00:32:23,466
+é no início era só um grupo aí encheu né deu mil e
+
+702
+00:32:23,833 --> 00:32:25,433
+vinte e cinco pessoas se eu não me engano
+
+703
+00:32:25,433 --> 00:32:27,633
+admite o senhor entrou recentemente
+
+704
+00:32:27,966 --> 00:32:30,066
+muito bom grande prazer e como
+
+705
+00:32:30,233 --> 00:32:31,500
+encheu a gente criou uma comunidade
+
+706
+00:32:31,633 --> 00:32:32,833
+então agora a gente tem vários grupos
+
+707
+00:32:33,500 --> 00:32:35,166
+então em algum deles cê vai conseguir entrar
+
+708
+00:32:35,400 --> 00:32:38,033
+que qualidade de energia tem tem de gerador
+
+709
+00:32:39,600 --> 00:32:40,533
+tem pra todo gosto
+
+710
+00:32:41,066 --> 00:32:41,666
+então você
+
+711
+00:32:41,666 --> 00:32:43,833
+também pode entrar no grupo se for do seu interesse
+
+712
+00:32:44,666 --> 00:32:48,200
+e estamos por aí a disposição foi um imenso prazer
+
+713
+00:32:48,466 --> 00:32:50,100
+participar aqui então
+
+714
+00:32:50,433 --> 00:32:52,033
+se você quiser aprender junto a gente
+
+715
+00:32:52,233 --> 00:32:53,666
+você pode entrar em contato que a gente
+
+716
+00:32:53,900 --> 00:32:56,033
+a gente cresce junto no setor legal
+
+717
+00:32:56,600 --> 00:32:57,733
+pessoal quero
+
+718
+00:32:57,766 --> 00:32:59,200
+agradecer a sua audiência
+
+719
+00:33:00,166 --> 00:33:02,400
+e você que quer nos conhecer melhor
+
+720
+00:33:02,966 --> 00:33:05,133
+tem o meu site aí o w w w
+
+721
+00:33:05,333 --> 00:33:08,200
+estudo de proteção ponto com ponto b r que tá na tela
+
+722
+00:33:08,766 --> 00:33:09,566
+você pode tá
+
+723
+00:33:09,900 --> 00:33:13,066
+falando comigo e solicitando seu estudo né
+
+724
+00:33:13,700 --> 00:33:17,166
+é nós podemos mostrar aqui como que é o processo né
+
+725
+00:33:17,933 --> 00:33:20,800
+de parte do estudo eu vou trazer um outro especialista
+
+726
+00:33:21,400 --> 00:33:23,933
+num próximo evento que nós vamos tá falando só sobre
+
+727
+00:33:24,066 --> 00:33:24,766
+proteção
+
+728
+00:33:24,766 --> 00:33:25,466
+né sobre
+
+729
+00:33:25,466 --> 00:33:27,533
+vai também fazer uma demonstração com soft
+
+730
+00:33:27,766 --> 00:33:28,900
+pra você entender melhor
+
+731
+00:33:29,566 --> 00:33:32,000
+eu agradeço então não deixe de
+
+732
+00:33:32,666 --> 00:33:33,933
+curtir compartilhar
+
+733
+00:33:34,766 --> 00:33:37,366
+fazer parte dessa comunidade se inscreve no nosso canal
+
+734
+00:33:37,933 --> 00:33:38,866
+pra você fazer parte
+
+735
+00:33:39,066 --> 00:33:41,466
+dessa comunidade aí do setor elétrico
+
+736
+00:33:41,733 --> 00:33:44,866
+é engenharia pro dia a dia esse é
+
+737
+00:33:45,300 --> 00:33:46,133
+a nossa intenção
+
+738
+00:33:46,333 --> 00:33:48,866
+trouxemos aqui algo que está no seu dia a dia
+
+739
+00:33:49,366 --> 00:33:50,266
+algo prático
+
+740
+00:33:50,533 --> 00:33:53,300
+algo aonde você vai ter uma solução uma resposta
+
+741
+00:33:53,933 --> 00:33:57,900
+a nossa intenção é dar uma resposta aos seus problemas
+
+742
+00:33:58,700 --> 00:33:59,500
+valeu
+
+743
+00:33:59,900 --> 00:34:00,900
+fique conosco
+
+744
+00:34:01,666 --> 00:34:04,066
+vamos continuar junto eu agradeço
+
+745
+00:34:04,766 --> 00:34:07,333
+e até a próxima e que Deus te abençoe
+
