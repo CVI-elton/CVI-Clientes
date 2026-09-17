@@ -1,0 +1,8 @@
+Agora vamos trabalhar nas correções de otografia de legenda.
+Analise cada etapa abaixo:
+- Você já tem todo o roteiro no arquivo "transcricao.txt", onde você analisou e gerou os cortes, utilize ele para analisar e ajudar nas correções da legenda enviada pelo arquivo .srt
+- Agora estou enviando link com novos comandos sobre Correção de Legenda SRT gerada pelo CapCut, analise o prompt para execulta o comando dela  - https://raw.githubusercontent.com/CVI-elton/CVI-Clientes/refs/heads/main/Renato-60Hertz-Podcast/Corre%C3%A7%C3%A3o%20de%20Legenda
+- No link que estou enviando no prompt tem uma parte com o seguinte comando "## Contexto adicional do episódio (preencha antes de usar, se souber)", essa parte não foi preenchida pois você já tem as informações, são as que foram usadas para fazer os cortes.
+- Estou enviando um arquivo "legenda-01-05.srt" ele foi gerado, após ter feito os cortes do roteiro/video do Renato.
+- Vou está enviando arquivos ".srt", que são as legenda do podcast do Renato, dividi o 20 cortes em 4 partes de legendas: "01 a 05", "06 a 10", "11 a 15" e "16 a 20" , vou envia as poucos.
+- Salvei como transcricao-[a parte da lengeda que enviei].srt - exemplo: Salvei como transcricao-01-05.srt , Salvei como transcricao-06-10.srt, Salvei como transcricao-11-15.srt e Salvei como transcricao-16-20.srt
