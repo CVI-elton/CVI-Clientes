@@ -1,0 +1,4620 @@
+1
+00:14:35,900 --> 00:14:38,433
+você trata bem da parte de proteção antes
+
+2
+00:14:38,933 --> 00:14:40,900
+de chegar na energia incidente
+
+3
+00:14:41,866 --> 00:14:44,466
+e porque o estudo de proteção
+
+4
+00:14:45,300 --> 00:14:49,700
+é a base pro estudo de energia incidente confiável
+
+5
+00:14:50,900 --> 00:14:52,533
+porque eu já tô vendo gente
+
+6
+00:14:52,666 --> 00:14:55,633
+fazer estudo de incêndio sem ter estudo de proteção
+
+7
+00:14:56,466 --> 00:14:57,933
+falei como é que cê tirou isso
+
+8
+00:14:59,100 --> 00:14:59,333
+é
+
+9
+00:15:00,533 --> 00:15:02,033
+vou além tá
+
+10
+00:15:02,266 --> 00:15:02,866
+o que que é o curso elétrico né
+
+11
+00:15:02,900 --> 00:15:04,633
+quero dizer hoje tem
+
+12
+00:15:05,000 --> 00:15:07,800
+departamento suprimento desculpa as pessoas
+
+13
+00:15:08,633 --> 00:15:13,666
+não é isso não é uma crítica mas é o status quo
+
+14
+00:15:14,533 --> 00:15:15,600
+da ignorância
+
+15
+00:15:15,933 --> 00:15:17,300
+ignorância não é burrice
+
+16
+00:15:17,466 --> 00:15:19,300
+gente ignorância é desconhecimento
+
+17
+00:15:19,666 --> 00:15:21,800
+então o pessoal que tá em suplementos
+
+18
+00:15:21,933 --> 00:15:22,866
+tem desconhecimento
+
+19
+00:15:23,400 --> 00:15:24,633
+e aí o que que acontece
+
+20
+00:15:24,933 --> 00:15:28,400
+ele compra o painel e já quer que venha com a etiqueta
+
+21
+00:15:28,833 --> 00:15:29,866
+como se a etiqueta
+
+22
+00:15:30,500 --> 00:15:31,633
+fosse o resultado
+
+23
+00:15:32,700 --> 00:15:36,666
+daquele equipamento e isso já é um erro crasso
+
+24
+00:15:37,333 --> 00:15:41,333
+porque a energia incidente tá trelada a cada sistema
+
+25
+00:15:42,866 --> 00:15:47,400
+né é sistêmico não é equipamentos depende do sistema
+
+26
+00:15:48,133 --> 00:15:49,400
+e dentro do sistema
+
+27
+00:15:50,200 --> 00:15:51,700
+no próprio conceito né
+
+28
+00:15:52,433 --> 00:15:55,100
+de energia é potência vezes tempo
+
+29
+00:15:56,000 --> 00:15:56,800
+potência
+
+30
+00:15:57,100 --> 00:15:59,833
+é atenção vez a corrente vez o tempo
+
+31
+00:16:00,433 --> 00:16:01,600
+então nós precisamos
+
+32
+00:16:02,333 --> 00:16:03,133
+da corrente
+
+33
+00:16:04,700 --> 00:16:06,033
+então não é só
+
+34
+00:16:06,866 --> 00:16:09,733
+da seletividade é do corte circuito também
+
+35
+00:16:11,433 --> 00:16:12,733
+nós precisamos do tempo
+
+36
+00:16:13,600 --> 00:16:15,733
+que aí entra a seletividade
+
+37
+00:16:16,933 --> 00:16:19,633
+e normalmente é relés
+
+38
+00:16:20,233 --> 00:16:21,300
+eles tem o tempo
+
+39
+00:16:21,900 --> 00:16:25,900
+de operação deles mas para a energia incidente
+
+40
+00:16:26,433 --> 00:16:29,133
+é o tempo total que é o tempo de operação
+
+41
+00:16:29,500 --> 00:16:32,833
+mais de interrupção do dispositivo de manobra
+
+42
+00:16:33,333 --> 00:16:34,133
+né então
+
+43
+00:16:34,500 --> 00:16:35,666
+com esse conjunto
+
+44
+00:16:36,233 --> 00:16:37,033
+a gente consegue
+
+45
+00:16:37,900 --> 00:16:38,700
+ter
+
+46
+00:16:39,200 --> 00:16:40,000
+a corrente
+
+47
+00:16:40,800 --> 00:16:41,600
+e o tempo
+
+48
+00:16:56,633 --> 00:16:58,066
+quem trabalha em projeto
+
+49
+00:16:58,733 --> 00:17:01,400
+quando calcula a corrente de curto busca
+
+50
+00:17:02,100 --> 00:17:02,633
+o maior
+
+51
+00:17:02,633 --> 00:17:05,066
+valor da corrente de curto para poder dimensionar
+
+52
+00:17:05,200 --> 00:17:06,000
+adequadamente
+
+53
+00:17:06,600 --> 00:17:08,433
+os painéis o assimétrico
+
+54
+00:17:09,666 --> 00:17:10,900
+ou depende
+
+55
+00:17:11,333 --> 00:17:12,933
+depende é se fosse
+
+56
+00:17:13,000 --> 00:17:14,100
+se você tiver avaliando
+
+57
+00:17:14,833 --> 00:17:16,666
+é efeito térmico é pra um segundo
+
+58
+00:17:16,900 --> 00:17:18,233
+o assimétrico já passou
+
+59
+00:17:18,366 --> 00:17:21,266
+que passou efeito a componente DC sim né
+
+60
+00:17:22,233 --> 00:17:24,266
+é e o assimétrico pra verificar
+
+61
+00:17:24,666 --> 00:17:28,366
+os esforços mecânicos de barramientos de juntores de
+
+62
+00:17:28,733 --> 00:17:30,500
+é PCs e enfim
+
+63
+00:17:31,133 --> 00:17:33,500
+é todos os equipamentos que precisam ter
+
+64
+00:17:33,633 --> 00:17:35,300
+essa dinâmica até os relés
+
+65
+00:17:35,633 --> 00:17:37,733
+né os relés também tem uma suportabilidade
+
+66
+00:17:37,933 --> 00:17:39,433
+térmica e dinâmica né então
+
+67
+00:17:39,866 --> 00:17:40,666
+se a gente
+
+68
+00:17:40,866 --> 00:17:41,566
+a maior parte
+
+69
+00:17:41,566 --> 00:17:43,666
+das pessoas nem sabe disso e nem verifica isso
+
+70
+00:17:43,966 --> 00:17:45,533
+exato né mas tem que fazer
+
+71
+00:17:46,533 --> 00:17:48,100
+o que eu tô querendo dizer
+
+72
+00:17:48,300 --> 00:17:50,533
+é que então quando fazemos projeto
+
+73
+00:17:50,833 --> 00:17:52,633
+maior valor da corrente curta
+
+74
+00:17:53,033 --> 00:17:55,466
+quando nós fazemos um estudo de seletividade
+
+75
+00:17:56,566 --> 00:18:00,100
+ou quando nós fazemos um estudo de energia incidente
+
+76
+00:18:01,066 --> 00:18:01,900
+eu não quero
+
+77
+00:18:03,633 --> 00:18:04,433
+é
+
+78
+00:18:05,300 --> 00:18:07,166
+o maior valor possível
+
+79
+00:18:07,466 --> 00:18:10,033
+que a corrente pode atingir presumida
+
+80
+00:18:10,633 --> 00:18:11,433
+não quero
+
+81
+00:18:11,766 --> 00:18:13,300
+eu quero a corrente real
+
+82
+00:18:13,566 --> 00:18:16,133
+que vai acontecer o dia que vai dar um curto
+
+83
+00:18:16,566 --> 00:18:19,933
+certo então a o método que você
+
+84
+00:18:20,633 --> 00:18:22,033
+vai selecionar para
+
+85
+00:18:22,933 --> 00:18:25,133
+para simular um curto circuito
+
+86
+00:18:26,333 --> 00:18:27,900
+faz total diferença
+
+87
+00:18:28,666 --> 00:18:30,466
+no cálculo da energia incidente
+
+88
+00:18:31,233 --> 00:18:33,133
+tá porque que a gente fala isso
+
+89
+00:18:33,966 --> 00:18:37,366
+imagina que cê tem um elemento de tempo inverso uhum
+
+90
+00:18:37,666 --> 00:18:41,166
+cê não eu calculei pelo método do IC que tem muita
+
+91
+00:18:41,666 --> 00:18:42,266
+muitos meninos
+
+92
+00:18:42,266 --> 00:18:43,933
+nos novos que ainda precisam
+
+93
+00:18:44,833 --> 00:18:46,300
+é ficar com cabelo branco
+
+94
+00:18:46,300 --> 00:18:47,100
+pra entender
+
+95
+00:18:47,633 --> 00:18:48,433
+OU sem cabelo
+
+96
+00:18:50,500 --> 00:18:51,300
+é
+
+97
+00:18:51,400 --> 00:18:53,200
+ele quer o maior valor da corrente
+
+98
+00:18:54,200 --> 00:18:56,633
+aí o dia que dá um curto
+
+99
+00:18:57,000 --> 00:18:59,200
+não vai ser aquele valor vai ser menor
+
+100
+00:19:00,200 --> 00:19:03,600
+em sendo menor se o dispositivo é de tempo inverso
+
+101
+00:19:04,033 --> 00:19:05,000
+o que que vai acontecer
+
+102
+00:19:05,633 --> 00:19:07,533
+ele leva mais tempo pra operar
+
+103
+00:19:08,200 --> 00:19:09,600
+se ele leva mais tempo pra operar
+
+104
+00:19:09,733 --> 00:19:11,233
+energia incidente pode ser maior
+
+105
+00:19:51,033 --> 00:19:53,033
+mudou o valor da energia incidente
+
+106
+00:19:53,766 --> 00:19:55,333
+o que que a gente recomenda
+
+107
+00:19:56,033 --> 00:19:59,033
+que todas as plantas tem um padrão mínimo
+
+108
+00:20:00,000 --> 00:20:00,800
+de
+
+109
+00:20:01,533 --> 00:20:03,133
+energia pras vestimentas
+
+110
+00:20:04,033 --> 00:20:05,733
+vestimentas que protejam
+
+111
+00:20:06,466 --> 00:20:09,400
+oito calorias de energia pelo menos ou doze
+
+112
+00:20:09,933 --> 00:20:12,433
+como prescreve nfpa setenta e
+
+113
+00:20:13,200 --> 00:20:17,133
+né obviamente pra proteger 8 OU 12 vai ter que ter 1 TV
+
+114
+00:20:17,733 --> 00:20:20,333
+maior OU 1 Elin é
+
+115
+00:20:21,866 --> 00:20:23,133
+um determinado valor
+
+116
+00:20:23,233 --> 00:20:26,433
+aí mas tem que proteger a energia que tá na etiqueta
+
+117
+00:20:26,966 --> 00:20:28,033
+tá certo
+
+118
+00:20:28,366 --> 00:20:28,633
+então
+
+119
+00:20:28,633 --> 00:20:29,700
+então é essa
+
+120
+00:20:30,733 --> 00:20:34,666
+quando isso dá acima desse valor mínimo padrão
+
+121
+00:20:36,133 --> 00:20:38,366
+nós aqui que elaboramos os estudos
+
+122
+00:20:38,533 --> 00:20:39,500
+e depois ele vai falar
+
+123
+00:20:39,700 --> 00:20:40,866
+as metodologias
+
+124
+00:20:42,700 --> 00:20:43,366
+é 9 10 não não é questão de multiplicação
+
+125
+00:20:43,366 --> 00:20:45,000
+nós temos que usar
+
+126
+00:20:45,600 --> 00:20:47,300
+dispositivos de proteção
+
+127
+00:20:48,800 --> 00:20:53,200
+para ou mudar a justiça né na norma
+
+128
+00:20:53,833 --> 00:20:55,900
+nbr dezessete dois dois sete
+
+129
+00:20:56,633 --> 00:20:59,000
+nós citamos lá é
+
+130
+00:21:00,200 --> 00:21:01,400
+métodos de
+
+131
+00:21:02,133 --> 00:21:05,433
+diminuir energia incidente OU mitigar energia incidente
+
+132
+00:21:05,666 --> 00:21:07,066
+sim tudo com base
+
+133
+00:21:08,300 --> 00:21:09,100
+em
+
+134
+00:21:10,833 --> 00:21:12,866
+em tudo que a gente fez pra trás porque
+
+135
+00:21:13,433 --> 00:21:15,933
+a gepar foi a empresa pioneira de estudos no Brasil
+
+136
+00:21:16,333 --> 00:21:19,233
+então grande parte que tá nesse capítulo aí nessa
+
+137
+00:21:19,466 --> 00:21:20,033
+é coisa
+
+138
+00:21:20,033 --> 00:21:20,833
+que a gente já tinha
+
+139
+00:21:20,866 --> 00:21:22,833
+escrito e que tá no nosso livro também
+
+140
+00:21:23,800 --> 00:21:27,333
+e que nós levamos pra norma tá tá então
+
+141
+00:21:28,000 --> 00:21:29,100
+aí você vai ter a
+
+142
+00:21:30,633 --> 00:21:31,433
+vamos dizer assim
+
+143
+00:21:32,800 --> 00:21:33,600
+se você
+
+144
+00:21:33,900 --> 00:21:35,066
+muda o ajuste
+
+145
+00:21:36,233 --> 00:21:39,133
+por exemplo se o teu picape lá do do
+
+146
+00:21:39,866 --> 00:21:42,800
+segundo elemento a tempo definido tiver acima
+
+147
+00:21:43,500 --> 00:21:46,633
+abaixo acima da corrente de arco tá pode abaixar
+
+148
+00:21:47,033 --> 00:21:49,033
+aí cê diminui energia incidente
+
+149
+00:21:49,466 --> 00:21:50,466
+com tempo definido
+
+150
+00:21:51,000 --> 00:21:53,000
+com um segundo elemento a tempo um segundo
+
+151
+00:21:53,033 --> 00:21:55,100
+elemento em tempo definido isso tá
+
+152
+00:21:55,500 --> 00:21:58,133
+é um um um uma das técnicas
+
+153
+00:21:58,700 --> 00:22:01,566
+que a gente usa mas ela não ela pode não ser
+
+154
+00:22:02,566 --> 00:22:04,400
+é eficaz o suficiente
+
+155
+00:22:05,233 --> 00:22:07,900
+pra baixar a energia incidente para um determinado
+
+156
+00:22:08,000 --> 00:22:08,800
+valor que
+
+157
+00:22:08,933 --> 00:22:10,366
+com a sua com a vestimenta
+
+158
+00:22:10,600 --> 00:22:12,766
+padrão você consiga proteger todo mundo
+
+159
+00:22:25,966 --> 00:22:26,766
+você pode partir
+
+160
+00:22:27,000 --> 00:22:28,766
+eventualmente para 1 relé de arco
+
+161
+00:22:29,033 --> 00:22:30,533
+mas o relé de arco dá triplo no
+
+162
+00:22:30,633 --> 00:22:32,266
+disjuntor então quando ele dá triplo no
+
+163
+00:22:32,433 --> 00:22:33,866
+disjuntor cê vai ter que somar
+
+164
+00:22:34,366 --> 00:22:36,433
+em torno aí de cinco ciclos no tempo
+
+165
+00:22:36,766 --> 00:22:38,200
+do relé de arco que
+
+166
+00:22:38,733 --> 00:22:41,400
+em geral é menor que cinco milissegundos então
+
+167
+00:22:41,866 --> 00:22:44,233
+cê vai ter um tempo de atuação menor que noventa
+
+168
+00:22:44,400 --> 00:22:45,866
+milissegundos mas esse noventa
+
+169
+00:22:46,833 --> 00:22:47,633
+dependendo
+
+170
+00:22:48,400 --> 00:22:49,866
+da corrente de curto
+
+171
+00:22:51,166 --> 00:22:51,966
+ainda
+
+172
+00:22:53,233 --> 00:22:56,733
+a corrente de curto vai afetar a corrente de arco né
+
+173
+00:22:57,733 --> 00:22:58,533
+então
+
+174
+00:22:59,400 --> 00:23:01,600
+você pode ainda não ser suficiente
+
+175
+00:23:02,366 --> 00:23:04,333
+pra ter 1 proteção adequada
+
+176
+00:23:05,166 --> 00:23:07,000
+e aí tem 1/3
+
+177
+00:23:07,866 --> 00:23:09,366
+elemento né
+
+178
+00:23:10,166 --> 00:23:12,366
+que é o arque quentin device
+
+179
+00:23:13,233 --> 00:23:14,833
+muita gente não sabe o que é isso
+
+180
+00:23:16,666 --> 00:23:18,133
+o arque quentin device
+
+181
+00:23:18,733 --> 00:23:19,866
+é um dispositivo
+
+182
+00:23:20,433 --> 00:23:21,233
+que ele
+
+183
+00:23:22,166 --> 00:23:24,666
+ele elimina o arco em
+
+184
+00:23:25,633 --> 00:23:28,533
+tempos aí menores que seis milissegundos
+
+185
+00:23:29,266 --> 00:23:30,066
+rápido hein
+
+186
+00:23:31,200 --> 00:23:33,266
+mas ele ele elimina o arco
+
+187
+00:23:34,266 --> 00:23:37,033
+o que que ele faz ele curte circuito as três fases
+
+188
+00:23:37,166 --> 00:23:37,766
+pra terra
+
+189
+00:23:37,766 --> 00:23:39,000
+vira um curto Franco
+
+190
+00:23:39,600 --> 00:23:42,333
+e quando vira um curto Franco eu tô campeando
+
+191
+00:23:42,566 --> 00:23:45,866
+a resistência do arco então a energia que o
+
+192
+00:23:46,300 --> 00:23:50,133
+era dissipada na resistência do arco fica vai passada
+
+193
+00:23:50,966 --> 00:23:52,866
+pelo curto circuito e aí
+
+194
+00:23:53,300 --> 00:23:53,900
+o curto
+
+195
+00:23:53,900 --> 00:23:56,933
+circuito os equipamentos foram projetados fabricados
+
+196
+00:23:57,100 --> 00:23:58,233
+testados certificados
+
+197
+00:23:59,133 --> 00:24:00,700
+comissionados instalados
+
+198
+00:24:01,500 --> 00:24:04,400
+e vão operar conforme a seletividade
+
+199
+00:24:04,800 --> 00:24:06,600
+como se o curto fosse Franco
+
+200
+00:24:07,666 --> 00:24:09,600
+entendeu então aí sim
+
+201
+00:24:10,233 --> 00:24:11,466
+você consegue ter
+
+202
+00:24:13,833 --> 00:24:15,900
+uma maneira né de
+
+203
+00:24:16,800 --> 00:24:19,200
+reduzir em geral fica
+
+204
+00:24:19,700 --> 00:24:22,500
+abaixo até de uma caloria por centímetro quadrado
+
+205
+00:24:22,933 --> 00:24:23,800
+né a energia
+
+206
+00:24:24,466 --> 00:24:27,033
+com 1 instalação desse dispositivo
+
+207
+00:25:03,533 --> 00:25:06,966
+como a própria n r dez hoje
+
+208
+00:25:08,966 --> 00:25:09,866
+introduziu
+
+209
+00:25:10,666 --> 00:25:13,333
+o conceito do ar que temos que proteger
+
+210
+00:25:13,733 --> 00:25:15,500
+e ali aliás agora
+
+211
+00:25:16,366 --> 00:25:18,100
+quem não tem pode
+
+212
+00:25:19,333 --> 00:25:20,133
+pode até
+
+213
+00:25:20,366 --> 00:25:22,400
+paralisar a fábrica do cara porque
+
+214
+00:25:23,100 --> 00:25:24,766
+na palestra que a gente teve com bisa
+
+215
+00:25:25,466 --> 00:25:26,533
+inclusive ele falou isso
+
+216
+00:25:27,333 --> 00:25:30,966
+quem não tem nada sobre o arco pode entrar como grave
+
+217
+00:25:31,300 --> 00:25:32,466
+iminente risco
+
+218
+00:25:34,133 --> 00:25:35,066
+então Martinho
+
+219
+00:25:35,266 --> 00:25:36,933
+porque ele comentou isso então
+
+220
+00:25:37,200 --> 00:25:38,366
+pode gerar interdição
+
+221
+00:25:38,800 --> 00:25:39,300
+pode gerar
+
+222
+00:25:39,766 --> 00:25:42,733
+tanto multa quanto interdição então
+
+223
+00:25:43,466 --> 00:25:45,033
+agora todo mundo quer fazer
+
+224
+00:25:45,666 --> 00:25:46,833
+mas pô tem cara
+
+225
+00:25:46,933 --> 00:25:49,666
+querendo fazer na planilhinha um sistema gigante
+
+226
+00:25:50,466 --> 00:25:53,166
+a possibilidade de a gente tem que ser profissional
+
+227
+00:25:53,466 --> 00:25:54,266
+gente
+
+228
+00:25:55,066 --> 00:25:56,066
+é EU falo
+
+229
+00:25:56,333 --> 00:25:58,900
+estudo de energia incidente estudo de seletividade
+
+230
+00:25:59,500 --> 00:26:00,466
+não é por 1 número
+
+231
+00:26:01,633 --> 00:26:04,500
+no papel dizendo ó o ajuste é esse não
+
+232
+00:26:09,166 --> 00:26:10,533
+aquele número que cê tá pondo
+
+233
+00:26:10,533 --> 00:26:12,933
+Ali pode salvar OU pode matar alguém
+
+234
+00:26:13,500 --> 00:26:14,600
+entende OU não sim
+
+235
+00:26:14,866 --> 00:26:15,300
+simplesmente que o cara
+
+236
+00:26:15,533 --> 00:26:16,333
+assim
+
+237
+00:26:16,700 --> 00:26:20,600
+aí cê vê a responsabilidade de quem faz estudo
+
+238
+00:26:21,400 --> 00:26:23,966
+todo mundo que tem software e a maior parte
+
+239
+00:26:24,200 --> 00:26:27,233
+tem muita gente que ainda usa software pirata né
+
+240
+00:26:28,933 --> 00:26:30,033
+o que que vai acontecer
+
+241
+00:26:31,333 --> 00:26:33,766
+ainda acha que é
+
+242
+00:26:34,333 --> 00:26:35,966
+tá fazendo certo né
+
+243
+00:26:36,600 --> 00:26:40,300
+e aí o dia enquanto acontece um acidente fatal
+
+244
+00:26:40,633 --> 00:26:42,433
+tá tudo certo mas o dia que
+
+245
+00:26:42,800 --> 00:26:44,700
+aconteceu um acidente fatal
+
+246
+00:26:45,566 --> 00:26:48,433
+o cara vai perder o creia dele né
+
+247
+00:26:49,200 --> 00:26:51,766
+e a empresa que contratou ele
+
+248
+00:26:52,533 --> 00:26:54,133
+né que vai ficar responsável
+
+249
+00:26:54,400 --> 00:26:58,000
+perante o ministério do trabalho vai acioná lo também
+
+250
+00:26:58,966 --> 00:27:01,933
+sim então é cê vê o tamanho
+
+251
+00:27:02,900 --> 00:27:04,133
+do problema crente vai se meter então gente
+
+252
+00:27:07,933 --> 00:27:11,266
+não é por 1 número não é gerar 1 etiqueta
+
+253
+00:27:12,233 --> 00:27:13,666
+é salvar vidas
+
+254
+00:27:14,333 --> 00:27:16,366
+então salvar vidas é coisa séria
+
+255
+00:27:16,666 --> 00:27:18,066
+é coisa pra profissional
+
+256
+00:27:18,766 --> 00:27:20,966
+quando o médico tá fazendo uma cirurgia lá
+
+257
+00:27:21,466 --> 00:27:23,033
+cê confia em qualquer médico
+
+258
+00:27:23,166 --> 00:27:25,566
+não não cê tem que confiar num profissional
+
+259
+00:27:26,566 --> 00:27:27,433
+num profissional
+
+260
+00:27:27,933 --> 00:27:29,566
+não é em meninos
+
+261
+00:27:30,500 --> 00:27:31,933
+é em homens
+
+262
+00:27:32,900 --> 00:27:33,700
+profissionais
+
+263
+00:27:34,366 --> 00:27:35,533
+exatamente é o meu recado
+
+264
+00:27:36,566 --> 00:27:40,133
+inclusive o madrinha aproveitando né assim
+
+265
+00:27:40,866 --> 00:27:42,333
+falando um pouco com aquele público
+
+266
+00:27:42,433 --> 00:27:44,666
+que a gente tem um público aí de manutenção
+
+267
+00:27:45,333 --> 00:27:47,666
+são gerentes de manutenção é
+
+268
+00:27:48,533 --> 00:27:50,866
+ele olhando um coordenograma
+
+269
+00:27:51,933 --> 00:27:52,733
+e
+
+270
+00:27:53,400 --> 00:27:55,200
+como que ele pode fazer 1 olhar
+
+271
+00:27:55,366 --> 00:27:57,033
+dizendo assim ó isso vai me tirar
+
+272
+00:27:58,000 --> 00:27:59,133
+OU não vai me tirar
+
+273
+00:27:59,733 --> 00:28:00,466
+a energia
+
+274
+00:28:00,466 --> 00:28:01,066
+incidente
+
+275
+00:28:01,066 --> 00:28:02,333
+pra ele conciliar isso que
+
+276
+00:28:02,433 --> 00:28:05,133
+é entregue pra ele ele falava me entregaram isso aqui
+
+277
+00:28:05,566 --> 00:28:07,333
+eu já fui em locais que entregou
+
+278
+00:28:07,833 --> 00:28:10,400
+mas eu falei assim mas tá mas cadê o cronograma
+
+279
+00:28:10,466 --> 00:28:11,266
+pra gente dar uma olhada
+
+280
+00:28:11,400 --> 00:28:12,200
+ver como é que
+
+281
+00:28:12,233 --> 00:28:13,666
+não ele escreveu aqui que o
+
+282
+00:28:13,833 --> 00:28:14,866
+EPI é esse esse
+
+283
+00:28:15,000 --> 00:28:16,166
+esse e falou que isso aqui é o estudo
+
+284
+00:28:16,233 --> 00:28:18,166
+de energia incidente é
+
+285
+00:28:18,333 --> 00:28:19,133
+até tive um caso
+
+286
+00:28:19,233 --> 00:28:21,266
+de uma empresa até grande que falou assim
+
+287
+00:28:21,533 --> 00:28:24,666
+mas cê falou muito de curto circuito no estudo
+
+288
+00:28:25,366 --> 00:28:27,833
+eu queria só o estudo de energia incidente
+
+289
+00:28:28,533 --> 00:28:29,266
+porque ele acha
+
+290
+00:28:29,266 --> 00:28:31,566
+que o curto circuito não tinha que falar nada
+
+291
+00:29:06,700 --> 00:29:07,500
+hoje em dia
+
+292
+00:29:07,666 --> 00:29:12,100
+eu canso de ver e canso de arrumar painéis e estudos
+
+293
+00:29:12,533 --> 00:29:13,333
+e e e
+
+294
+00:29:14,300 --> 00:29:15,633
+problemas em empresas
+
+295
+00:29:16,033 --> 00:29:17,133
+os caras não lançam
+
+296
+00:29:17,233 --> 00:29:19,633
+nem a corrente de curto no coordenograma
+
+297
+00:29:19,733 --> 00:29:21,500
+quanto mais a corrente de arco
+
+298
+00:29:21,766 --> 00:29:22,900
+porque como é que ele sabe
+
+299
+00:29:23,300 --> 00:29:25,266
+pra quanto tempo vai tirar o elemento
+
+300
+00:29:26,466 --> 00:29:27,966
+de proteção para
+
+301
+00:29:28,166 --> 00:29:30,966
+corrente de arco se ele não calculou a corrente arco
+
+302
+00:29:31,233 --> 00:29:33,266
+é eu respondo pra você desse jeito
+
+303
+00:29:33,533 --> 00:29:34,333
+tem jeito
+
+304
+00:29:34,633 --> 00:29:36,100
+não tem não tem não tem
+
+305
+00:29:36,766 --> 00:29:37,666
+não tem como
+
+306
+00:29:38,533 --> 00:29:41,133
+por isso que eu falo vai usar planejinha qual a
+
+307
+00:29:41,533 --> 00:29:43,566
+o software pega com precisão
+
+308
+00:29:45,066 --> 00:29:46,733
+tem tem elementos de proteção
+
+309
+00:29:47,100 --> 00:29:48,366
+que a curva não é que nem um
+
+310
+00:29:48,466 --> 00:29:51,266
+releque é uma linha ele é uma faixa sim um
+
+311
+00:29:51,266 --> 00:29:52,233
+você pega um fusível
+
+312
+00:29:52,633 --> 00:29:55,600
+você pega um elemento termomagnético você pega
+
+313
+00:29:58,233 --> 00:30:01,600
+disparador eletrônico é tudo faixa
+
+314
+00:30:01,600 --> 00:30:05,033
+não lança nenhuma impedância só
+
+315
+00:30:05,400 --> 00:30:07,400
+no ponto mesmo acabou e tudo igual
+
+316
+00:30:12,066 --> 00:30:13,466
+não tem milagre
+
+317
+00:30:14,066 --> 00:30:16,433
+né tem que modelar tudo
+
+318
+00:30:17,466 --> 00:30:20,433
+software é o seguinte lixo in lixo out
+
+319
+00:30:21,100 --> 00:30:23,600
+você pôs besteira dentro dele ele vai te devolver
+
+320
+00:30:23,700 --> 00:30:24,500
+besteira
+
+321
+00:30:25,366 --> 00:30:26,700
+e pra quem é leigo
+
+322
+00:30:27,433 --> 00:30:29,033
+não o que fez não sabe
+
+323
+00:30:29,866 --> 00:30:31,300
+então o que que a gente vê
+
+324
+00:30:32,100 --> 00:30:34,900
+é muito nisso e eu queria alertar vocês
+
+325
+00:30:35,633 --> 00:30:38,633
+muitos finge que sabem fazer é
+
+326
+00:30:39,300 --> 00:30:42,100
+estudo de energia incidente e os que recebem
+
+327
+00:30:42,666 --> 00:30:43,700
+fingem que entendem
+
+328
+00:31:23,333 --> 00:31:24,700
+você entendeu então porque
+
+329
+00:31:24,866 --> 00:31:27,666
+os fabricantes de painéis não devem entregar
+
+330
+00:31:27,933 --> 00:31:28,733
+etiqueta
+
+331
+00:31:29,166 --> 00:31:30,333
+exatamente porque ele não tem vida
+
+332
+00:31:30,333 --> 00:31:31,100
+não conhece
+
+333
+00:31:31,433 --> 00:31:32,366
+o sistema inteiro
+
+334
+00:31:32,633 --> 00:31:34,666
+como é que ele vai determinar a corrente de arco
+
+335
+00:31:35,366 --> 00:31:38,700
+a corrente de curto total a corrente de arco então
+
+336
+00:31:39,233 --> 00:31:40,466
+isso tem que ser um estudo
+
+337
+00:31:41,300 --> 00:31:42,100
+outra coisa importante
+
+338
+00:31:43,133 --> 00:31:44,900
+nós estamos falando aqui sim coisa séria
+
+339
+00:31:45,100 --> 00:31:45,800
+nós estamos falando de vida
+
+340
+00:31:47,000 --> 00:31:47,800
+primeiro
+
+341
+00:31:49,433 --> 00:31:51,033
+preferencialmente contrate
+
+342
+00:31:51,266 --> 00:31:53,833
+a mesma empresa pra fazer o estudo de curto
+
+343
+00:31:54,200 --> 00:31:55,900
+pra fazer o estudo de seletividade
+
+344
+00:31:56,266 --> 00:31:59,466
+e pra fazer o estudo de energia incidente porque
+
+345
+00:32:00,000 --> 00:32:02,066
+o dia que acontecer um acidente
+
+346
+00:32:02,800 --> 00:32:05,233
+se você deu pra três empresas diferentes
+
+347
+00:32:06,400 --> 00:32:09,166
+quem que é o responsável pelo erro já vi isso
+
+348
+00:32:09,233 --> 00:32:12,833
+já sim de ter 3 cadernos diferente e aí
+
+349
+00:32:13,000 --> 00:32:13,766
+entendeu
+
+350
+00:32:14,200 --> 00:32:15,166
+quem que é o responsável
+
+351
+00:32:15,833 --> 00:32:18,166
+quando morreu alguém isso quem errou
+
+352
+00:32:19,433 --> 00:32:20,733
+eu fiz essa pergunta
+
+353
+00:32:21,366 --> 00:32:24,533
+segunda feira pro cara do ministério do trabalho
+
+354
+00:32:26,333 --> 00:32:27,566
+ele falou o seguinte
+
+355
+00:32:28,766 --> 00:32:30,533
+a culpa de quem contratou
+
+356
+00:32:31,900 --> 00:32:33,733
+perante o ministério do trabalho
+
+357
+00:32:34,433 --> 00:32:39,133
+mas o confeia também vai em cima do engenheiro sim
+
+358
+00:32:39,366 --> 00:32:40,166
+olha vai ter
+
+359
+00:32:41,333 --> 00:32:43,900
+e a empresa também vai em cima do engenheiro
+
+360
+00:32:44,833 --> 00:32:46,800
+mas a culpa é de quem contratou
+
+361
+00:32:47,333 --> 00:32:48,133
+então gente
+
+362
+00:32:48,900 --> 00:32:49,700
+contratem
+
+363
+00:32:50,233 --> 00:32:51,033
+profissionais
+
+364
+00:32:51,566 --> 00:32:53,633
+sim contratem profissionais
+
+365
+00:32:54,700 --> 00:32:56,733
+ver qual a bagagem que o cara tem
+
+366
+00:32:57,733 --> 00:32:58,533
+isso é importante
+
+367
+00:32:59,033 --> 00:33:00,166
+né porque
+
+368
+00:33:00,866 --> 00:33:01,666
+não é
+
+369
+00:33:02,833 --> 00:33:04,400
+nós não estamos aqui energizando
+
+370
+00:33:04,500 --> 00:33:06,300
+um quadrinho de luz numa casa
+
+371
+00:33:09,033 --> 00:33:10,866
+vamos além além das pessoas
+
+372
+00:33:12,066 --> 00:33:12,866
+vocês que são
+
+373
+00:33:12,900 --> 00:33:13,700
+contratantes
+
+374
+00:33:13,766 --> 00:33:16,266
+aí a energia elétrica tá no caminho crítico
+
+375
+00:33:18,233 --> 00:33:19,600
+1 arco pode
+
+376
+00:33:20,100 --> 00:33:24,100
+acabar com seu painel e aí você vai perder produção
+
+377
+00:33:24,566 --> 00:33:25,866
+também então nós estamos
+
+378
+00:33:26,400 --> 00:33:29,433
+é mexendo em 2 coisas sensíveis vida
+
+379
+00:33:30,166 --> 00:33:30,966
+e dinheiro
+
+380
+00:35:52,666 --> 00:35:55,866
+em cima do que do que você comentou precisamente né
+
+381
+00:35:56,433 --> 00:35:57,466
+é por volta
+
+382
+00:35:57,633 --> 00:35:58,600
+da década de cinquenta
+
+383
+00:35:58,733 --> 00:36:00,666
+só se falava de choque elétrico né
+
+384
+00:36:00,800 --> 00:36:02,566
+e aí veio o Ralf li Ralf li
+
+385
+00:36:02,766 --> 00:36:04,133
+comecinho da década de oitenta
+
+386
+00:36:04,600 --> 00:36:07,166
+fez o primeiro artigo falando de de de
+
+387
+00:36:07,233 --> 00:36:10,000
+arco elétrico né e das lesões das mortes que ocorriam
+
+388
+00:36:10,166 --> 00:36:11,266
+por é
+
+389
+00:36:11,400 --> 00:36:13,733
+em função do arco elétrico da energia térmica que
+
+390
+00:36:13,833 --> 00:36:14,633
+que era liberada
+
+391
+00:36:14,766 --> 00:36:16,733
+né então a gente passou a ter dois bichos né
+
+392
+00:36:17,233 --> 00:36:20,966
+o arco elétrico e o e o choque elétrico bacana
+
+393
+00:36:21,466 --> 00:36:24,066
+bom é ao longo desses quarenta anos
+
+394
+00:36:24,533 --> 00:36:27,400
+estudando o arco elétrico a gente foi percebeu que
+
+395
+00:36:27,866 --> 00:36:30,366
+o arco elétrico também pode ser separado em mais bichos
+
+396
+00:36:30,600 --> 00:36:33,566
+uhum falar de um arco elétrico em em baixa tensão
+
+397
+00:36:34,433 --> 00:36:35,633
+de pequenas dimensões
+
+398
+00:36:35,933 --> 00:36:38,366
+num curto circuito trifásico dentro do painel
+
+399
+00:36:38,533 --> 00:36:39,633
+né é um cenário
+
+400
+00:36:39,933 --> 00:36:41,800
+um arco elétrico envolvendo só uma fase
+
+401
+00:36:41,933 --> 00:36:42,966
+um comprimento longo
+
+402
+00:36:43,333 --> 00:36:45,633
+né uma rede por exemplo é um cenário
+
+403
+00:36:46,133 --> 00:36:48,200
+muito diferente né então é hoje
+
+404
+00:36:48,766 --> 00:36:50,566
+a a coisa caminhou pra que
+
+405
+00:36:51,333 --> 00:36:52,133
+você tenha
+
+406
+00:36:52,166 --> 00:36:54,766
+né se tem né diferentes métodos de cálculo pra
+
+407
+00:36:54,866 --> 00:36:57,433
+esses cenários né difícil um método que abraça e tudo
+
+408
+00:36:57,600 --> 00:36:59,933
+uhum ao Filipe foi isso no passado mas depois
+
+409
+00:37:00,633 --> 00:37:02,333
+percebeu as limitações que ele tinha
+
+410
+00:37:02,466 --> 00:37:05,066
+pra média e pra alta tensão né é
+
+411
+00:37:05,433 --> 00:37:06,800
+pra arcos longos também
+
+412
+00:37:07,600 --> 00:37:08,733
+é então hoje a gente tem
+
+413
+00:37:09,566 --> 00:37:11,600
+aí treze é quinze oitenta e quatro que performa
+
+414
+00:37:12,333 --> 00:37:12,866
+muito bem
+
+415
+00:37:12,866 --> 00:37:16,766
+pra baixa e média tensão em aberto e fechado até
+
+416
+00:37:17,133 --> 00:37:20,200
+quinze KV que já não é fácil né o modelo ele é muito
+
+417
+00:37:21,033 --> 00:37:24,133
+muito complexo né pra conseguir fazer isso né dar bons
+
+418
+00:37:24,466 --> 00:37:26,800
+resultados dentro dessa faixa de tensão
+
+419
+00:37:27,533 --> 00:37:28,533
+e de corrente
+
+420
+00:37:29,033 --> 00:37:30,066
+né e quando a gente vai
+
+421
+00:37:30,400 --> 00:37:33,033
+pra pra alta e extra alta tensão né aqui
+
+422
+00:37:33,933 --> 00:37:35,833
+já não dá conta mais né então a gente tem
+
+423
+00:37:36,166 --> 00:37:36,966
+tem outros modelos
+
+424
+00:37:37,066 --> 00:37:39,400
+tem o modelo do Apple tem o próprio modelo do
+
+425
+00:37:40,200 --> 00:37:42,800
+do do Arc pro também né que tá
+
+426
+00:37:43,566 --> 00:37:44,833
+performa melhor nessa
+
+427
+00:37:45,400 --> 00:37:47,200
+nesse cenário e pra corrente continua
+
+428
+00:37:47,333 --> 00:37:48,133
+a gente tem outros
+
+429
+00:37:48,800 --> 00:37:50,166
+é outro método ainda
+
+430
+00:37:50,233 --> 00:37:51,733
+né e aí você tem quando cê tem uma
+
+431
+00:37:51,800 --> 00:37:52,866
+norma é tudo muito bom
+
+432
+00:38:48,600 --> 00:38:49,433
+tem que calcular
+
+433
+00:38:49,666 --> 00:38:51,633
+energia dente com a gente continua a partir de qual
+
+434
+00:38:51,800 --> 00:38:52,600
+tensão né
+
+435
+00:38:52,966 --> 00:38:54,566
+a gente tem fonte de vinte e quatro volts
+
+436
+00:38:54,700 --> 00:38:56,200
+quarenta e oito volts essa turma entra
+
+437
+00:38:56,400 --> 00:38:58,600
+não entra né sim é
+
+438
+00:38:59,166 --> 00:39:00,966
+e e tá surgindo novidades agora
+
+439
+00:39:01,100 --> 00:39:03,100
+artigos suficientes de três anos pra cá
+
+440
+00:39:03,866 --> 00:39:06,600
+né mostrando que o cálculo em corrente continua
+
+441
+00:39:07,066 --> 00:39:10,366
+pra cento e cinquenta volts né tem se mostrado
+
+442
+00:39:11,400 --> 00:39:12,633
+os ensaios né
+
+443
+00:39:13,033 --> 00:39:14,433
+é difícil de sustentar
+
+444
+00:39:14,666 --> 00:39:17,600
+1 arco elétrico né isso não tá não tem 1 ponto final
+
+445
+00:39:17,833 --> 00:39:18,633
+nisso ainda né
+
+446
+00:39:18,900 --> 00:39:19,666
+mas é 1
+
+447
+00:39:19,666 --> 00:39:21,033
+é 1 tendência se isso
+
+448
+00:39:21,200 --> 00:39:23,066
+entrar pra dentro da nova vai ajudar
+
+449
+00:39:23,600 --> 00:39:27,033
+vai ajudar demais não sei se EU te respondi exatamente
+
+450
+00:39:27,866 --> 00:39:29,366
+não a gente tá tá vendo aqui
+
+451
+00:39:29,700 --> 00:39:31,633
+cê tava falando de corrente contínua hoje nós temos
+
+452
+00:39:31,766 --> 00:39:32,666
+sistema solar aí
+
+453
+00:39:33,000 --> 00:39:34,266
+é aos usinas
+
+454
+00:39:35,100 --> 00:39:35,900
+o best
+
+455
+00:39:35,966 --> 00:39:38,666
+né também injetando na rede com uma série de coisa
+
+456
+00:39:39,033 --> 00:39:40,600
+em corrente contínua né
+
+457
+00:39:41,100 --> 00:39:42,766
+e eu acho que isso aí já
+
+458
+00:39:43,466 --> 00:39:46,166
+as pessoas não tem nem noção de arco num sistema desse
+
+459
+00:39:46,666 --> 00:39:48,366
+eu já vi gente falar assim não aí não tem o
+
+460
+00:39:48,433 --> 00:39:49,666
+arco que aí é bem pouquinho
+
+461
+00:39:49,900 --> 00:39:53,433
+aí é corrente continua eu falei não não é assim né
+
+462
+00:39:53,800 --> 00:39:55,033
+a gente tem um caso eu tenho
+
+463
+00:39:55,400 --> 00:39:58,100
+um caso de de uma planta solar né porque é
+
+464
+00:39:59,000 --> 00:39:59,866
+o que o que o que
+
+465
+00:39:59,966 --> 00:40:00,466
+determina
+
+466
+00:40:00,466 --> 00:40:02,300
+isso é a quantidade de fontes que vai contribuir
+
+467
+00:40:02,466 --> 00:40:04,400
+pra aquele ponto onde o arco ocorreu né
+
+468
+00:40:04,833 --> 00:40:08,000
+então muitas você tem as string box lá né exatamente é
+
+469
+00:40:08,566 --> 00:40:11,366
+pra pra fonte que alimenta aquela string tudo bem né
+
+470
+00:40:11,600 --> 00:40:14,266
+é corrente curta é próxima da corrente de carga né pra
+
+471
+00:40:14,466 --> 00:40:16,166
+pra uma planta solar porque ela já tá entregando
+
+472
+00:40:16,566 --> 00:40:17,900
+praticamente o que ela dá conta né
+
+473
+00:40:18,266 --> 00:40:20,666
+mas na hora que cê tem o curto as outras fontes também
+
+474
+00:40:21,066 --> 00:40:23,266
+contribui então a gente já viu ali vinte trinta k
+
+475
+00:40:23,866 --> 00:40:24,900
+de um circuito na na
+
+476
+00:40:25,233 --> 00:40:26,966
+planta solar em função das
+
+477
+00:40:27,066 --> 00:40:28,800
+demais contribuições o desafio
+
+478
+00:40:29,033 --> 00:40:30,033
+é eliminar a falta
+
+479
+00:40:30,400 --> 00:40:31,966
+tá eu já vi string box
+
+480
+00:40:32,666 --> 00:40:34,600
+que ele tem a chave na string né
+
+481
+00:40:34,766 --> 00:40:37,066
+então ele foi seccionar pra poder trocar o modo
+
+482
+00:40:37,266 --> 00:40:38,600
+na hora que ele virou a chave a chave
+
+483
+00:40:38,666 --> 00:40:39,566
+desmontou inteira
+
+484
+00:40:41,033 --> 00:40:42,500
+falou nossa tava ruim né
+
+485
+00:40:42,833 --> 00:40:45,366
+ele nem associou ao arco a nada disso ele falou
+
+486
+00:40:45,500 --> 00:40:46,100
+nossa cê
+
+487
+00:40:46,100 --> 00:40:47,766
+até fumaça né
+
+488
+00:40:48,300 --> 00:40:49,800
+porque na hora que ele virou a chave
+
+489
+00:40:50,000 --> 00:40:52,166
+devia tá em alta produção e aí
+
+490
+00:40:52,666 --> 00:40:55,400
+a chave ela desmontou ela desmontou inteira
+
+491
+00:41:02,533 --> 00:41:05,966
+nós estamos montando 1 treinamento sobre arco DC tá
+
+492
+00:41:06,633 --> 00:41:08,433
+não tem importante hein importante
+
+493
+00:41:09,733 --> 00:41:11,533
+2ª coisa que EU esqueci de falar
+
+494
+00:41:12,466 --> 00:41:14,133
+quando EU tava falando da proteção
+
+495
+00:41:14,800 --> 00:41:17,800
+EU falei muito dos dispositivos de proteção
+
+496
+00:41:18,633 --> 00:41:20,466
+mas esqueci de falar
+
+497
+00:41:21,133 --> 00:41:23,333
+do e p c sim
+
+498
+00:41:23,533 --> 00:41:23,933
+o coletor parou
+
+499
+00:41:23,933 --> 00:41:26,400
+o ipc a proteção coletiva
+
+500
+00:41:27,133 --> 00:41:30,033
+que seria os painéis arcoresistentes
+
+501
+00:41:31,000 --> 00:41:32,933
+nós não falamos disso então
+
+502
+00:41:34,266 --> 00:41:37,600
+a maior parte dos painéis existentes às vezes não são
+
+503
+00:41:38,400 --> 00:41:40,200
+arco resistentes por isso que nós
+
+504
+00:41:40,400 --> 00:41:41,733
+focalizamos primeiro isso
+
+505
+00:41:42,500 --> 00:41:45,333
+mas todos os painéis novos hoje é são
+
+506
+00:41:46,233 --> 00:41:48,333
+são desejáveis que sejam
+
+507
+00:41:48,900 --> 00:41:50,633
+é arco resistentes
+
+508
+00:41:51,100 --> 00:41:53,733
+porque quando dá um arco ele contém o arco lá dentro
+
+509
+00:41:53,933 --> 00:41:56,233
+uhum e muitas perguntas surgem
+
+510
+00:41:56,333 --> 00:41:58,200
+mas aí eu preciso ter relé de arco
+
+511
+00:41:58,533 --> 00:42:00,800
+precisa pra não detonar o painel painel
+
+512
+00:42:01,233 --> 00:42:02,400
+tá certo então
+
+513
+00:42:03,233 --> 00:42:04,933
+painéis arco resistente
+
+514
+00:42:05,433 --> 00:42:08,333
+outra dica pra quem faz projeto especifica
+
+515
+00:42:09,100 --> 00:42:09,933
+ah é caro
+
+516
+00:42:11,066 --> 00:42:12,700
+é trinta por cento mais caro
+
+517
+00:42:13,700 --> 00:42:14,500
+mas
+
+518
+00:42:14,533 --> 00:42:17,733
+se você tiver o painel arco resistente com relé de arco
+
+519
+00:42:18,100 --> 00:42:19,933
+você pega hoje em dia tá na moda data
+
+520
+00:42:20,333 --> 00:42:21,733
+center por exemplo sim
+
+521
+00:42:22,866 --> 00:42:24,633
+o tempo e é
+
+522
+00:42:24,766 --> 00:42:27,266
+é que elimina a falta é tão rápida que não causa
+
+523
+00:42:27,266 --> 00:42:27,900
+não causa dano
+
+524
+00:42:28,433 --> 00:42:28,566
+dentro da corrente ocorria em função de um
+
+525
+00:42:28,566 --> 00:42:31,633
+do painel você religa o painel quase que imediatamente
+
+526
+00:42:32,066 --> 00:42:35,066
+se você não usar um painel arco resistente com arco
+
+527
+00:42:35,433 --> 00:42:38,233
+cê pode perder o painel e o teu processo
+
+528
+00:42:38,933 --> 00:42:40,333
+pode parar cê imagina
+
+529
+00:42:41,033 --> 00:42:44,700
+vinte e cinco de dezembro é é é o Amazon
+
+530
+00:42:45,400 --> 00:42:46,033
+parou parou
+
+531
+00:42:46,766 --> 00:42:49,533
+qual que é o prejuízo então então tá tá
+
+532
+00:42:50,333 --> 00:42:51,600
+não sei se entendeu sim
+
+533
+00:42:51,966 --> 00:42:52,933
+esquecido de falar
+
+534
+00:42:54,300 --> 00:42:55,466
+eu achei que era importante
+
+535
+00:42:55,933 --> 00:42:59,366
+dar essa dica também pra quem faz projeto tá desculpa
+
+536
+00:42:59,566 --> 00:43:02,500
+que isso para a contribuição é
+
+537
+00:43:03,100 --> 00:43:04,133
+reconectando com isso a
+
+538
+00:43:04,200 --> 00:43:07,966
+n r dez trouxe que intervenções em painéis iac né
+
+539
+00:43:08,300 --> 00:43:09,766
+é dispensa o EPI
+
+540
+00:43:10,066 --> 00:43:12,200
+né deixa que esteja com as portas fechadas né
+
+541
+00:43:43,400 --> 00:43:43,800
+bom quando a gente vai
+
+542
+00:43:43,933 --> 00:43:45,966
+para norma quinze oitenta e quatro de dois mil e dois
+
+543
+00:43:46,900 --> 00:43:48,566
+ela trazia uma pequena diferença
+
+544
+00:43:48,766 --> 00:43:49,933
+próximo de vinte por cento
+
+545
+00:43:50,300 --> 00:43:52,000
+entre os níveis de energia incidente
+
+546
+00:43:52,166 --> 00:43:53,933
+calculados o mesmo sistema né
+
+547
+00:43:54,500 --> 00:43:56,233
+é solidamente aterrado
+
+548
+00:43:56,900 --> 00:43:57,833
+né ou o sistema
+
+549
+00:43:57,966 --> 00:44:01,033
+aterrado por resistor de alto valor ou isolado então
+
+550
+00:44:01,166 --> 00:44:04,300
+o sistema em baixa tensão o sistema em baixa tensão é
+
+551
+00:44:04,400 --> 00:44:06,400
+com neutro aterrado por resistor de alto valor
+
+552
+00:44:06,533 --> 00:44:08,800
+ou isolado dava uma energia incidente vinte por cento
+
+553
+00:44:09,000 --> 00:44:10,433
+próximo de vinte por cento maior
+
+554
+00:44:11,333 --> 00:44:12,900
+isso podia induzir né
+
+555
+00:44:13,233 --> 00:44:15,533
+as pessoas a pensarem que o solidamente aterrado
+
+556
+00:44:15,700 --> 00:44:17,166
+era melhor sobre o aspecto
+
+557
+00:44:17,766 --> 00:44:20,900
+é do aterramento do Nilton mas é exatamente o contrário
+
+558
+00:44:21,433 --> 00:44:22,233
+né porque
+
+559
+00:44:22,233 --> 00:44:24,966
+porque o restante de aterramento na baixa atenção
+
+560
+00:44:25,333 --> 00:44:26,900
+e aí a gente tá falando de três cinco dez
+
+561
+00:44:27,033 --> 00:44:29,400
+amperes né os valores táricos de corrente pra
+
+562
+00:44:29,633 --> 00:44:30,933
+pra esse pra esse resistor
+
+563
+00:44:31,400 --> 00:44:33,033
+eles limitam tanto a falta
+
+564
+00:44:33,566 --> 00:44:36,033
+a terra a o curto circuito monofásico
+
+565
+00:44:36,400 --> 00:44:38,300
+né que é o arco não tem energia
+
+566
+00:44:39,000 --> 00:44:40,400
+pra se auto sustentar
+
+567
+00:44:40,933 --> 00:44:41,833
+tá menos ainda
+
+568
+00:44:42,300 --> 00:44:44,700
+pra levar uma escalada da corrente arco que seria
+
+569
+00:44:45,133 --> 00:44:48,133
+o curto monofásico evoluir pra bifásico e trifásico
+
+570
+00:44:48,500 --> 00:44:50,533
+a gente sabe que a grande maioria das faltas
+
+571
+00:44:50,700 --> 00:44:51,500
+dos cursos e
+
+572
+00:44:51,500 --> 00:44:52,300
+cursos começam
+
+573
+00:44:52,300 --> 00:44:54,833
+em uma fase evoluem pras outras fases né sim
+
+574
+00:44:55,133 --> 00:44:56,200
+então você eliminando
+
+575
+00:44:56,733 --> 00:44:58,433
+né é o arco elétrico
+
+576
+00:44:58,800 --> 00:45:00,400
+para faltas monofásicas
+
+577
+00:45:00,733 --> 00:45:02,333
+você reduz muito a probabilidade
+
+578
+00:45:02,700 --> 00:45:03,433
+do arco
+
+579
+00:45:03,433 --> 00:45:04,966
+evoluir patrifásico é onde cê
+
+580
+00:45:05,166 --> 00:45:06,400
+teria uma entrega relevante
+
+581
+00:45:06,600 --> 00:45:09,566
+de energia térmica num evento né tá é então
+
+582
+00:45:10,166 --> 00:45:10,700
+concluindo
+
+583
+00:45:10,700 --> 00:45:12,633
+né o restante de aterramento ele não vai modificar
+
+584
+00:45:12,766 --> 00:45:15,166
+a a três aqui em dois mil e dezoito corrigiu isso
+
+585
+00:45:15,733 --> 00:45:16,733
+não modifica o valor da
+
+586
+00:45:16,800 --> 00:45:17,533
+energia existente
+
+587
+00:45:17,533 --> 00:45:18,833
+é o mesmo se você fizer o cálculo
+
+588
+00:45:18,933 --> 00:45:20,233
+em dois mil e dezoito foi corrigido
+
+589
+00:45:20,400 --> 00:45:22,533
+foi corrigido tá corrigido eles viram que isso
+
+590
+00:45:24,266 --> 00:45:26,500
+desequilíbrio nos dois primeiros ciclos do ensaio
+
+591
+00:45:26,633 --> 00:45:27,633
+em função do fio
+
+592
+00:45:27,700 --> 00:45:28,100
+fusível
+
+593
+00:45:28,100 --> 00:45:28,400
+que era
+
+594
+00:45:28,400 --> 00:45:30,833
+utilizado pra ignitar o ar ah tá aquele desequilíbrio
+
+595
+00:45:30,900 --> 00:45:31,700
+ali provocado
+
+596
+00:45:32,066 --> 00:45:34,466
+nos primeiros ciclos gerava provavelmente uma corrente
+
+597
+00:45:34,900 --> 00:45:36,866
+retorno né que modificava um pouquinho a
+
+598
+00:45:37,266 --> 00:45:38,633
+energia a energia do passado
+
+599
+00:45:38,866 --> 00:45:39,233
+você tem que pensar
+
+600
+00:45:39,666 --> 00:45:40,466
+esses 2/1
+
+601
+00:45:40,733 --> 00:45:42,466
+primeiros ciclos e aí os valores
+
+602
+00:45:42,766 --> 00:45:43,300
+bateram
+
+603
+00:45:43,300 --> 00:45:44,266
+né ficaram praticamente iguais
+
+604
+00:45:44,333 --> 00:45:45,966
+porque nós temos solidamente aterrado
+
+605
+00:45:46,300 --> 00:45:48,566
+OU aterrado por resistor OU isolado
+
+606
+00:46:41,100 --> 00:46:43,100
+você comentou em relação às variáveis né
+
+607
+00:46:43,466 --> 00:46:45,433
+uhum e quando a gente vai pro mundo real
+
+608
+00:46:45,966 --> 00:46:47,833
+né tem que fazer um estudo de energia incidente
+
+609
+00:46:47,966 --> 00:46:48,900
+chegamos na na planta
+
+610
+00:46:49,033 --> 00:46:49,766
+vamo levantar os
+
+611
+00:46:49,766 --> 00:46:51,600
+a fase de projeto é muito bom né sim
+
+612
+00:46:51,666 --> 00:46:52,866
+fase de projeto cê tem caderno
+
+613
+00:46:53,000 --> 00:46:54,033
+cê tem desenho cê tem dado
+
+614
+00:46:54,200 --> 00:46:55,066
+atualizado né menos
+
+615
+00:46:55,433 --> 00:46:56,433
+instalação dos cabos
+
+616
+00:46:56,700 --> 00:46:59,833
+cê tem tudo ali pra fazer uma uma modelagem muito boa
+
+617
+00:47:01,000 --> 00:47:02,400
+mas no mundo real você
+
+618
+00:47:02,966 --> 00:47:05,400
+é muitas vezes não tem os dados no
+
+619
+00:47:05,633 --> 00:47:06,466
+na totalidade
+
+620
+00:47:06,633 --> 00:47:08,766
+tem um tempo pra fazer o levantamento na empresa
+
+621
+00:47:09,366 --> 00:47:10,566
+tem um mês aqui cê tem
+
+622
+00:47:10,866 --> 00:47:13,566
+né uma duas semanas pra levantar os dados e você tem
+
+623
+00:47:14,666 --> 00:47:17,266
+é você tem que fazer né tem que elaborar
+
+624
+00:47:18,100 --> 00:47:19,166
+é dados que
+
+625
+00:47:19,666 --> 00:47:20,500
+que EU considero
+
+626
+00:47:20,766 --> 00:47:22,066
+indispensáveis pra fazer
+
+627
+00:47:22,266 --> 00:47:23,466
+pra você fazer 1 bom estudo
+
+628
+00:47:23,633 --> 00:47:25,366
+de energia incidente impedância
+
+629
+00:47:25,466 --> 00:47:26,266
+do transformador
+
+630
+00:47:26,366 --> 00:47:28,466
+né sim 1 dado muito relevante que vai ter
+
+631
+00:47:28,800 --> 00:47:31,000
+outro circuito né e comprimento
+
+632
+00:47:31,566 --> 00:47:33,566
+e sessão dos cabos de baixa tensão
+
+633
+00:47:34,300 --> 00:47:36,200
+é vai ser uma dificuldade muito grande
+
+634
+00:47:36,700 --> 00:47:38,033
+aplicar a n r dez
+
+635
+00:47:38,233 --> 00:47:40,766
+eu tô buscando alguém que com ainda não achei
+
+636
+00:47:41,433 --> 00:47:44,566
+consegue navegar naquelas tabelas que vieram da n f p a
+
+637
+00:47:45,266 --> 00:47:46,066
+porque quando você
+
+638
+00:47:46,066 --> 00:47:48,300
+traz dado correndo de curto e duração
+
+639
+00:47:49,200 --> 00:47:50,666
+cê fala pô mas é
+
+640
+00:47:51,300 --> 00:47:52,500
+como é que eu vou conhecer o curto
+
+641
+00:47:52,600 --> 00:47:53,400
+se eu tô a um metro
+
+642
+00:47:53,400 --> 00:47:55,400
+de um transformador o curto circuito é um
+
+643
+00:47:55,500 --> 00:47:56,300
+sim se eu tô a cem
+
+644
+00:47:56,300 --> 00:47:57,666
+metros aquele curto circuito pode cair pra
+
+645
+00:47:57,800 --> 00:47:58,600
+mensa metade
+
+646
+00:47:58,666 --> 00:48:00,366
+sim né e é corrente de arco
+
+647
+00:48:01,100 --> 00:48:01,900
+é menor ainda
+
+648
+00:48:02,000 --> 00:48:02,433
+quarenta
+
+649
+00:48:02,433 --> 00:48:02,966
+e cinquenta
+
+650
+00:48:02,966 --> 00:48:04,833
+sessenta por cento da corrente de curto Franco
+
+651
+00:48:05,000 --> 00:48:06,666
+a tabela não me dá corrente de arco
+
+652
+00:48:06,900 --> 00:48:08,166
+então bom se eu não conheço
+
+653
+00:48:08,233 --> 00:48:10,500
+corrente de arco como é que eu vou checar o
+
+654
+00:48:11,000 --> 00:48:12,833
+determinar a duração do arco elétrico
+
+655
+00:48:12,966 --> 00:48:14,400
+se eu tô com tempo de atuação
+
+656
+00:48:15,033 --> 00:48:16,766
+se eu tô com um dispositivo de atuação a tempo
+
+657
+00:48:16,866 --> 00:48:18,400
+inverso por exemplo né uhum
+
+658
+00:48:18,800 --> 00:48:20,466
+é ou é muito difícil
+
+659
+00:48:20,866 --> 00:48:23,400
+né sim então esses dados eles é poderia
+
+660
+00:48:23,700 --> 00:48:24,500
+estar outros também né
+
+661
+00:48:24,866 --> 00:48:26,433
+mas pra estar dois basta
+
+662
+00:48:26,566 --> 00:48:28,600
+bem importantes aqui os dados que são fundamentais
+
+663
+00:48:28,900 --> 00:48:31,000
+pra encontrar corrente de curso de circuito
+
+664
+00:48:31,200 --> 00:48:32,366
+com um pouco mais de precisão
+
+665
+00:48:33,033 --> 00:48:34,400
+eles são fundamentais pra
+
+666
+00:48:35,000 --> 00:48:36,033
+pra você fazer 1
+
+667
+00:48:36,566 --> 00:48:37,366
+bom estudo
+
+668
+00:48:51,666 --> 00:48:52,933
+a norma n r dez
+
+669
+00:48:53,733 --> 00:48:55,266
+ele está evidenciando
+
+670
+00:48:55,966 --> 00:48:59,133
+uma tabela da n f p a setenta e que foi traduzida
+
+671
+00:48:59,900 --> 00:49:03,033
+e nós aqui que somos estudiosos de arco a
+
+672
+00:49:03,833 --> 00:49:04,900
+um zilhão de tempo
+
+673
+00:49:05,933 --> 00:49:06,366
+né
+
+674
+00:49:06,733 --> 00:49:09,766
+quase junto com o Raul fili é quase
+
+675
+00:49:09,766 --> 00:49:12,466
+junto meu primeiro artigo de arco foi planejando sobre
+
+676
+00:49:13,033 --> 00:49:13,800
+foi na revista
+
+677
+00:49:13,800 --> 00:49:15,766
+mundo elétrico em mil novecentos e oitenta e seis
+
+678
+00:49:16,566 --> 00:49:18,200
+ó o Felipe publicou oitenta e dois
+
+679
+00:49:18,233 --> 00:49:19,533
+oitenta e dois então
+
+680
+00:49:19,533 --> 00:49:20,933
+é quase lá quase lá
+
+681
+00:49:23,333 --> 00:49:24,733
+o que que a gente observou
+
+682
+00:49:25,133 --> 00:49:26,866
+é importante a gente falar isso porque
+
+683
+00:49:27,533 --> 00:49:29,933
+muita gente vai querer seguir a tabela
+
+684
+00:49:30,766 --> 00:49:32,100
+da n r dez
+
+685
+00:49:33,133 --> 00:49:34,233
+não façam isso
+
+686
+00:49:35,300 --> 00:49:36,633
+né nós
+
+687
+00:49:37,366 --> 00:49:38,933
+nós que eu falo aqui é ele
+
+688
+00:49:39,933 --> 00:49:41,433
+fez as contas aí
+
+689
+00:49:42,100 --> 00:49:43,466
+e verificamos que
+
+690
+00:49:43,733 --> 00:49:45,333
+quando cê usa aquela tabela
+
+691
+00:49:45,533 --> 00:49:47,233
+ou você vai prover uma roupa
+
+692
+00:49:47,900 --> 00:49:50,466
+que o cara não tem condições de realizar
+
+693
+00:49:51,100 --> 00:49:54,033
+os trabalhos porque é uma roupa de astronauta
+
+694
+00:49:55,066 --> 00:49:58,866
+ou ele fica desprotegido então é
+
+695
+00:49:59,900 --> 00:50:02,433
+esse é um ponto importante pra gente falar aqui
+
+696
+00:50:03,100 --> 00:50:04,533
+que a n r dez
+
+697
+00:50:05,500 --> 00:50:07,433
+embora tenha citado
+
+698
+00:50:07,566 --> 00:50:10,366
+foi uma grande evolução aí parabéns pra quem fez
+
+699
+00:50:10,700 --> 00:50:12,300
+não é porque a tabela tá lá
+
+700
+00:50:12,866 --> 00:50:16,533
+e e ela não foi copiada então quem copiou
+
+701
+00:50:17,100 --> 00:50:18,566
+não tinha o conhecimento
+
+702
+00:50:19,633 --> 00:50:22,033
+é de energia incidente que a gente
+
+703
+00:50:22,533 --> 00:50:25,533
+afundou foi até lá e pesquisou
+
+704
+00:50:26,733 --> 00:50:29,333
+então precisamos mudar essa tabela
+
+705
+00:50:29,733 --> 00:50:31,833
+essa tabela não usem a tabela
+
+706
+00:50:32,300 --> 00:50:33,900
+use o método calculado
+
+707
+00:50:35,533 --> 00:50:37,133
+deu um pequeno retrocesso
+
+708
+00:50:37,300 --> 00:50:39,466
+porque nós fomos no caminho da energia que
+
+709
+00:50:39,966 --> 00:50:40,833
+o mundo tá indo
+
+710
+00:50:41,533 --> 00:50:44,033
+e a tabela voltou pra categoria
+
+711
+00:50:44,433 --> 00:50:45,666
+não existe mais categoria
+
+712
+00:50:46,233 --> 00:50:47,833
+no resto do mundo é energia
+
+713
+00:51:25,033 --> 00:51:27,500
+acho que até num curso de hoje de n r dez
+
+714
+00:51:27,933 --> 00:51:29,533
+tem que ensinar pelo menos eles
+
+715
+00:51:29,666 --> 00:51:31,066
+interpretarem aquela tabela
+
+716
+00:51:31,133 --> 00:51:33,333
+que tem gente que não sabe nem interpretar a tabela
+
+717
+00:51:33,900 --> 00:51:34,900
+é quando ele falou
+
+718
+00:51:35,466 --> 00:51:37,000
+a gente tá falando aqui das etiquetas
+
+719
+00:51:37,700 --> 00:51:39,600
+nós temos que criar as evidências
+
+720
+00:51:40,433 --> 00:51:43,500
+do cara está treinado para entender as etiquetas então
+
+721
+00:51:43,933 --> 00:51:44,566
+exatamente
+
+722
+00:51:44,633 --> 00:51:45,300
+o estudo
+
+723
+00:51:45,300 --> 00:51:46,833
+vai lá e prega prega e
+
+724
+00:51:46,933 --> 00:51:48,166
+boa até que morreu
+
+725
+00:51:48,266 --> 00:51:49,900
+aí os que nem se citou
+
+726
+00:51:50,100 --> 00:51:52,200
+quando cê falou também veio isso na minha mente
+
+727
+00:51:52,900 --> 00:51:55,100
+a gente fala isso tanto nos nossos treinamentos
+
+728
+00:51:55,800 --> 00:51:57,600
+que as pessoas tem que
+
+729
+00:51:58,100 --> 00:51:59,066
+ser treinadas
+
+730
+00:51:59,266 --> 00:52:01,900
+pra saber o que que significa o que tá escrito nas
+
+731
+00:52:02,500 --> 00:52:03,400
+etiquetas tem que ser
+
+732
+00:52:04,500 --> 00:52:06,000
+a evidência
+
+733
+00:52:06,600 --> 00:52:07,400
+tá certo
+
+734
+00:52:07,766 --> 00:52:08,566
+quem participou
+
+735
+00:52:09,266 --> 00:52:10,066
+entendeu tudo
+
+736
+00:52:10,400 --> 00:52:13,366
+aí pede pro cara explicar na frente de todo mundo
+
+737
+00:52:13,766 --> 00:52:14,700
+cria a evidência
+
+738
+00:52:15,100 --> 00:52:17,800
+pra mostrar que o cara sabe o que ele leu
+
+739
+00:52:18,466 --> 00:52:19,400
+sabe o que ele tá fazendo
+
+740
+00:52:20,666 --> 00:52:22,666
+e sabe o que acontece se ele não
+
+741
+00:52:22,766 --> 00:52:24,133
+fizer o que tá escrito lá
+
+742
+00:52:25,200 --> 00:52:26,000
+verdade
+
+743
+00:52:26,600 --> 00:52:28,900
+foi uma uma situação que eu peguei exatamente já
+
+744
+00:52:28,966 --> 00:52:31,433
+tava em inglês né então aí que o cara não sabia nada
+
+745
+00:52:32,000 --> 00:52:33,266
+e quando eu traduzi
+
+746
+00:52:33,500 --> 00:52:34,766
+falei olha isso aqui é isso
+
+747
+00:52:34,966 --> 00:52:36,900
+não agora ficou pior porque agora a gente não sabe
+
+748
+00:52:37,100 --> 00:52:37,900
+que que
+
+749
+00:52:37,900 --> 00:52:39,266
+que que essas distância
+
+750
+00:52:39,766 --> 00:52:41,433
+como é que eu fico entendeu
+
+751
+00:52:42,400 --> 00:52:43,200
+é ele
+
+752
+00:52:43,300 --> 00:52:45,866
+não sabia nem a questão do choque que na etiqueta vem
+
+753
+00:52:46,166 --> 00:52:47,600
+qual exposição ao choque
+
+754
+00:52:48,033 --> 00:52:49,300
+aí ele falou assim não mas aí
+
+755
+00:52:49,400 --> 00:52:50,966
+só tá falando que a tensão do painel
+
+756
+00:52:51,033 --> 00:52:52,100
+é trezentos e oitenta se eu precisar
+
+757
+00:52:52,400 --> 00:52:53,700
+se eu precisar ligar um circuito
+
+758
+00:52:53,800 --> 00:52:55,033
+eu já sei que é trezentos e oitenta
+
+759
+00:52:55,166 --> 00:52:55,966
+não tá falando
+
+760
+00:52:56,000 --> 00:53:00,633
+do seu risco de choque né então e e muitos
+
+761
+00:53:00,700 --> 00:53:01,066
+falaram assim
+
+762
+00:53:01,066 --> 00:53:03,433
+é nem sabe pô porque todos os painéis tem lá e tal
+
+763
+00:53:03,600 --> 00:53:04,133
+não e tanto
+
+764
+00:53:04,166 --> 00:53:06,533
+inglês ainda pode ser que esteja de acordo
+
+765
+00:53:06,966 --> 00:53:09,766
+com a nfpa e não de acordo com a n r dez
+
+766
+00:53:09,933 --> 00:53:11,133
+não de acordo com as distâncias
+
+767
+00:53:11,433 --> 00:53:13,500
+tem isso também é tá empolgada
+
+768
+00:53:13,866 --> 00:53:14,466
+pode tá empolgada
+
+769
+00:53:14,466 --> 00:53:15,533
+cara ele não tem ideia
+
+770
+00:53:15,633 --> 00:53:17,366
+quanto que a polegada é
+
+771
+00:53:17,633 --> 00:53:18,366
+então tem
+
+772
+00:53:18,366 --> 00:53:21,366
+a gente não é comum tem que tomar cuidado sim né
+
+773
+00:53:21,933 --> 00:53:22,833
+temos que treinar
+
+774
+00:53:23,500 --> 00:53:26,200
+treinar as pessoas é só tem um jeito de mudar o mundo
+
+775
+00:53:26,933 --> 00:53:27,966
+é pela educação
+
+776
+00:55:18,400 --> 00:55:19,200
+basicamente
+
+777
+00:55:19,666 --> 00:55:23,366
+falaram da hierarquia da proteção né é onde você tem
+
+778
+00:55:23,966 --> 00:55:24,966
+o estudo né
+
+779
+00:55:25,533 --> 00:55:27,933
+o objetivo principal como o Felipe colocou seria
+
+780
+00:55:28,166 --> 00:55:29,266
+você não expor
+
+781
+00:55:29,733 --> 00:55:32,066
+né que é eliminar o perigo tá
+
+782
+00:55:32,700 --> 00:55:33,966
+e as etapas
+
+783
+00:55:34,466 --> 00:55:37,466
+até o e p c como o Cláudio colocou e por último vem
+
+784
+00:55:37,866 --> 00:55:39,066
+a escolha do e p i
+
+785
+00:55:39,333 --> 00:55:40,200
+a escolha do e p i
+
+786
+00:55:40,400 --> 00:55:41,200
+apesar de hoje
+
+787
+00:55:41,333 --> 00:55:43,800
+é eu ouvi bastante isso na segunda feira
+
+788
+00:55:43,966 --> 00:55:44,966
+olha agora está escrito
+
+789
+00:55:45,100 --> 00:55:47,766
+na n r dez que você tem que documentar a escolha
+
+790
+00:55:47,933 --> 00:55:50,733
+isso já estava escrito na n r seis né
+
+791
+00:55:51,000 --> 00:55:53,000
+mas agora foi bom porque a n r dez colocou
+
+792
+00:55:53,100 --> 00:55:56,200
+explicitamente né no dez quinze dela sim que aquela
+
+793
+00:55:56,333 --> 00:55:59,533
+decisão sua de escolha de qualquer IPI não só pra arco
+
+794
+00:55:59,733 --> 00:56:00,533
+como qualquer IPI
+
+795
+00:56:01,000 --> 00:56:02,933
+ela deve tá documentada e você tá assumindo
+
+796
+00:56:03,000 --> 00:56:04,166
+então uma responsabilidade legal
+
+797
+00:56:04,366 --> 00:56:05,700
+por isso então esse é um
+
+798
+00:56:06,400 --> 00:56:07,466
+é assim firmando
+
+799
+00:56:07,966 --> 00:56:08,966
+esse comprometimento
+
+800
+00:56:10,066 --> 00:56:10,600
+é
+
+801
+00:56:10,600 --> 00:56:13,333
+depois gostaria também de falar um pouco da tabela mas
+
+802
+00:56:13,900 --> 00:56:15,900
+vamo voltar aqui quando a gente trabalhou na
+
+803
+00:56:16,000 --> 00:56:18,300
+dezessete dois dois sete qual que era o intuito
+
+804
+00:56:19,166 --> 00:56:21,166
+colocar todas essas etapas do processo
+
+805
+00:56:21,966 --> 00:56:22,866
+como é o modelo
+
+806
+00:56:22,966 --> 00:56:26,200
+internacional né da nfpa setenta e que é a norma mãe
+
+807
+00:56:26,533 --> 00:56:27,866
+aí seguida pelo mundo todo
+
+808
+00:56:28,500 --> 00:56:31,066
+mesmo as normas internacionais europeias
+
+809
+00:56:31,533 --> 00:56:33,966
+usam muito do que vem de conteúdo da setenta e
+
+810
+00:56:34,933 --> 00:56:37,666
+é então o objetivo na dezessete dois dois sete
+
+811
+00:56:38,366 --> 00:56:39,766
+foi incluir um capítulo
+
+812
+00:56:39,966 --> 00:56:43,000
+também de seleção de DPI tá e lá nós colocamos
+
+813
+00:56:43,766 --> 00:56:45,800
+algumas formas de você fazer essa seleção
+
+814
+00:56:46,400 --> 00:56:48,933
+sempre baseada no estudo de energia incidente
+
+815
+00:56:49,333 --> 00:56:51,800
+né sim sempre baseado no estudo de energia incidente
+
+816
+00:56:52,500 --> 00:56:54,500
+então esse é o processo não adianta
+
+817
+00:56:54,566 --> 00:56:56,700
+só fazer o cálculo e selecionar um EPI
+
+818
+00:56:56,900 --> 00:56:58,866
+então esse é um primeiro erro que a gente vê
+
+819
+00:56:59,266 --> 00:57:01,866
+faça um cálculo lá de oitenta calorias ah coloca
+
+820
+00:57:02,533 --> 00:57:04,933
+uma roupa de astronauta como o Cláudio falou pro cara
+
+821
+00:57:05,166 --> 00:57:05,966
+ele não vai conseguir
+
+822
+00:57:06,133 --> 00:57:07,000
+realizar atividade
+
+823
+00:57:07,300 --> 00:57:09,366
+ele vai negligenciar o EPI né
+
+824
+00:57:09,533 --> 00:57:11,133
+existe um estudo de dois mil e dezoito
+
+825
+00:57:11,300 --> 00:57:12,733
+publicado nos Estados Unidos de uma
+
+826
+00:57:13,300 --> 00:57:15,900
+de um de um uma evidência de negligência
+
+827
+00:57:16,500 --> 00:57:17,133
+numa parte
+
+828
+00:57:17,133 --> 00:57:18,366
+dos Estados Unidos na indústria
+
+829
+00:57:18,566 --> 00:57:20,400
+de oitenta por cento de uso do EPI
+
+830
+00:57:20,733 --> 00:57:21,866
+porque desconforto
+
+831
+01:05:01,700 --> 01:05:04,733
+você já viu uma investida marcado ebt não
+
+832
+01:05:05,133 --> 01:05:07,400
+é um parâmetro que o atpv
+
+833
+01:05:07,566 --> 01:05:09,600
+ele é baseado em transmissão de calor
+
+834
+01:05:09,733 --> 01:05:11,200
+por um material então a
+
+835
+01:05:11,333 --> 01:05:12,166
+quantidade de calor
+
+836
+01:05:12,266 --> 01:05:13,866
+que passa por exemplo por um tecido
+
+837
+01:05:14,266 --> 01:05:15,166
+proteção térmica
+
+838
+01:05:15,766 --> 01:05:17,500
+o ebt são materiais
+
+839
+01:05:18,166 --> 01:05:21,766
+que mecanicamente eles não são tão estruturados como
+
+840
+01:05:22,300 --> 01:05:24,133
+o material que recebe uma tpv
+
+841
+01:05:24,466 --> 01:05:26,400
+e que é um dado momento ele rompe
+
+842
+01:05:27,166 --> 01:05:30,000
+então você não consegue levantar o ATP daquele material
+
+843
+01:05:30,766 --> 01:05:31,666
+então você trabalha com
+
+844
+01:05:31,766 --> 01:05:34,300
+rompimentos o laboratório trabalha com rompimentos
+
+845
+01:05:35,000 --> 01:05:38,133
+e ele levanta o ebt do material ou seja esse material
+
+846
+01:05:38,900 --> 01:05:41,000
+numa determinada energia ele pode romper
+
+847
+01:05:42,566 --> 01:05:44,766
+e aí quando você faz seleção
+
+848
+01:05:46,166 --> 01:05:47,133
+existem materiais
+
+849
+01:05:47,700 --> 01:05:48,266
+que tem
+
+850
+01:05:48,266 --> 01:05:49,900
+e isso tá parecendo mais no mercado
+
+851
+01:05:49,966 --> 01:05:50,800
+eu não sei se é por conta
+
+852
+01:05:50,933 --> 01:05:52,133
+dessas mesclas que estão
+
+853
+01:05:53,000 --> 01:05:55,566
+sendo utilizadas e de uma forma não muito técnica
+
+854
+01:05:56,133 --> 01:05:57,700
+isso eu tô dizendo quando o cara vai criar o
+
+855
+01:05:57,766 --> 01:05:58,733
+tecido mesmo né
+
+856
+01:05:59,133 --> 01:06:00,733
+e a gente está vendo materiais que tem esse
+
+857
+01:06:00,900 --> 01:06:02,300
+ATP e o ept
+
+858
+01:06:02,666 --> 01:06:03,466
+muito próximos
+
+859
+01:06:04,066 --> 01:06:06,466
+né o que que a dos normas internacionais fala
+
+860
+01:06:06,600 --> 01:06:08,200
+não você tem que declarar pelo menor
+
+861
+01:06:08,733 --> 01:06:10,866
+é nós tivemos um depoimento né do
+
+862
+01:06:11,000 --> 01:06:12,966
+colega durante o evento da n r dez
+
+863
+01:06:13,300 --> 01:06:16,666
+que recebeu um material que lá indicava doze
+
+864
+01:06:17,366 --> 01:06:19,133
+foi consultar o c a do material
+
+865
+01:06:19,466 --> 01:06:20,566
+foi atrás do relatório
+
+866
+01:06:20,700 --> 01:06:23,266
+descobriu que o relatório a t p v dava sete
+
+867
+01:06:25,066 --> 01:06:26,100
+e o cara tava marcado
+
+868
+01:06:26,200 --> 01:06:26,933
+doze no bordado e ele viu que o doze
+
+869
+01:06:28,200 --> 01:06:30,300
+era do ebt do material e não do ATP
+
+870
+01:06:30,400 --> 01:06:31,633
+o cara usou esse caminho
+
+871
+01:06:31,633 --> 01:06:32,833
+sobre ler isso
+
+872
+01:06:33,533 --> 01:06:34,600
+só que o que que acontece
+
+873
+01:06:34,866 --> 01:06:35,666
+nesta condição
+
+874
+01:06:35,800 --> 01:06:36,733
+de rompimento
+
+875
+01:06:36,900 --> 01:06:37,700
+a oucha
+
+876
+01:06:37,866 --> 01:06:38,666
+e aí a gente na
+
+877
+01:06:38,700 --> 01:06:41,300
+legislação americana a gente vai lá para cima da nfpa
+
+878
+01:06:42,166 --> 01:06:44,266
+ela fala que quando o material
+
+879
+01:06:45,066 --> 01:06:46,866
+está susceptível a ruptura
+
+880
+01:06:47,666 --> 01:06:50,100
+você não pode usar nada por baixo desse pi
+
+881
+01:06:50,933 --> 01:06:51,933
+nem algodão
+
+882
+01:06:52,766 --> 01:06:54,600
+por que porque no rompimento
+
+883
+01:06:55,766 --> 01:06:57,800
+a quantidade de energia que pode passar
+
+884
+01:06:58,933 --> 01:07:02,066
+deixa de ser previsível como no caso do atpv né
+
+885
+01:07:03,000 --> 01:07:03,966
+é e mesmo no
+
+886
+01:07:04,100 --> 01:07:06,133
+atpv muitas vezes também não é aconselhável usar
+
+887
+01:07:06,266 --> 01:07:07,066
+nada por baixo
+
+888
+01:07:07,100 --> 01:07:09,733
+mas nesse caso específico a uxa faz a sua observação
+
+889
+01:07:10,100 --> 01:07:12,066
+e a gente fica tentando analisar o porquê
+
+890
+01:07:12,200 --> 01:07:13,200
+porque provavelmente
+
+891
+01:07:14,000 --> 01:07:15,966
+esse material vai entrar em ignição
+
+892
+01:07:25,866 --> 01:07:27,366
+então pra você fazer essa seleção
+
+893
+01:07:27,733 --> 01:07:29,733
+como eu voltando lá no que eu disse no começo
+
+894
+01:07:29,900 --> 01:07:32,600
+e que o Cláudio colocou agora como relação a educação
+
+895
+01:07:33,666 --> 01:07:37,066
+você tem que ter um conhecimento um pouco maior
+
+896
+01:07:37,266 --> 01:07:37,966
+porque se você vai
+
+897
+01:07:37,966 --> 01:07:40,100
+assinar embaixo que essa seleção foi com base
+
+898
+01:07:40,466 --> 01:07:41,666
+simplesmente no c a
+
+899
+01:07:42,200 --> 01:07:45,333
+uhum né hoje você tira o c a com um ensaio
+
+900
+01:07:46,933 --> 01:07:47,766
+só que nós temos
+
+901
+01:07:47,866 --> 01:07:48,333
+estudos
+
+902
+01:07:48,333 --> 01:07:48,966
+internacionais
+
+903
+01:07:48,966 --> 01:07:51,166
+mostrando que o atpv por exemplo pode variar
+
+904
+01:07:51,300 --> 01:07:52,100
+quarenta por cento
+
+905
+01:07:52,966 --> 01:07:53,866
+poxa muito
+
+906
+01:07:54,500 --> 01:07:55,700
+então as empresas que
+
+907
+01:07:56,000 --> 01:07:58,533
+o que nós estamos aconselhando do ponto de vista
+
+908
+01:07:58,900 --> 01:07:59,733
+de prevenção
+
+909
+01:08:00,500 --> 01:08:01,600
+e de laboratório
+
+910
+01:08:02,100 --> 01:08:04,666
+é que se peça histórico desses materiais
+
+911
+01:08:05,166 --> 01:08:08,866
+tá porque você certificar o produto com um único valor
+
+912
+01:08:09,266 --> 01:08:11,600
+de um parâmetro de caracterização
+
+913
+01:08:12,500 --> 01:08:13,966
+é algo muito superficial
+
+914
+01:08:14,266 --> 01:08:15,966
+a gente tá tentando mudar isso né até
+
+915
+01:08:16,700 --> 01:08:17,400
+nessa minha
+
+916
+01:08:17,400 --> 01:08:18,466
+atuação na esse
+
+917
+01:08:18,566 --> 01:08:19,900
+a gente tá tentando mudar isso nas normas
+
+918
+01:08:19,966 --> 01:08:20,766
+internacionais
+
+919
+01:08:20,966 --> 01:08:22,733
+quer dizer você tem que trabalhar com dados
+
+920
+01:08:23,200 --> 01:08:24,000
+mais concretos
+
+921
+01:08:24,166 --> 01:08:26,166
+periodicidade isso ensaio
+
+922
+01:08:26,300 --> 01:08:28,300
+e aí o que que acontece com os fabricantes
+
+923
+01:08:28,400 --> 01:08:30,333
+hoje então por exemplo lá ah o doze
+
+924
+01:08:30,500 --> 01:08:31,733
+o oito virou o padrão
+
+925
+01:08:31,866 --> 01:08:33,900
+por que porque o oito é a história da categoria
+
+926
+01:08:34,300 --> 01:08:35,133
+né então acabaram
+
+927
+01:08:35,500 --> 01:08:36,700
+trazendo isso pra realidade
+
+928
+01:08:36,800 --> 01:08:39,566
+do trabalho é uma vestimenta que ali é resolutamente
+
+929
+01:08:39,733 --> 01:08:41,466
+leve você consegue trabalhar o doze
+
+930
+01:08:41,566 --> 01:08:43,300
+vem de uma outra tabela da nfpa
+
+931
+01:08:43,366 --> 01:08:44,400
+que é de energia incidente
+
+932
+01:08:44,766 --> 01:08:46,700
+pessoal ah não agora é doze então é
+
+933
+01:08:47,600 --> 01:08:50,800
+na verdade assim faz o estudo tentar baixar o máximo
+
+934
+01:08:51,200 --> 01:08:53,966
+e oferecer uma vestimenta confortável e adequada
+
+935
+01:08:54,400 --> 01:08:56,566
+ao risco tá esse é o princípio
+
+936
+01:08:57,133 --> 01:08:58,666
+a tecnologia da vestimenta
+
+937
+01:08:58,866 --> 01:08:59,666
+cada tecnologia
+
+938
+01:08:59,766 --> 01:09:02,200
+seja ela o que chama o mercado como inerente
+
+939
+01:09:02,666 --> 01:09:04,166
+o algodão tratado
+
+940
+01:09:04,900 --> 01:09:07,933
+o famoso oitenta e oito doze né que são as mesclas
+
+941
+01:09:08,600 --> 01:09:10,533
+cada uma tem vantagens e desvantagens
+
+942
+01:09:10,666 --> 01:09:12,400
+não vou nem entrar nesse aspecto sim
+
+943
+01:09:13,100 --> 01:09:15,000
+obviamente existem empresas que usam
+
+944
+01:09:15,166 --> 01:09:16,333
+mesclas de uma qualidade
+
+945
+01:09:16,500 --> 01:09:18,466
+e outras que usam mesclas de outra qualidade
+
+946
+01:09:19,100 --> 01:09:22,400
+e isso a gente vê nas auditorias de de empresas
+
+947
+01:09:23,300 --> 01:09:24,666
+a resposta no produto final
+
+948
+01:09:54,466 --> 01:09:54,866
+em dezembro
+
+949
+01:09:54,866 --> 01:09:55,466
+de dois mil e vinte e
+
+950
+01:09:55,466 --> 01:09:56,766
+três o sistema de certificação das
+
+951
+01:09:56,866 --> 01:09:58,033
+vestimentas ele mudou
+
+952
+01:09:58,633 --> 01:10:00,866
+ele passou de 1 processo de relatório
+
+953
+01:10:01,066 --> 01:10:03,033
+de análise do ministério do trabalho
+
+954
+01:10:03,266 --> 01:10:05,266
+pra 1 processo de certificação pra ganhar
+
+955
+01:10:06,066 --> 01:10:06,866
+qualidade
+
+956
+01:10:06,933 --> 01:10:10,933
+uhum porém no Brasil nós temos 1 falha aí na na
+
+957
+01:10:11,266 --> 01:10:12,933
+do processo que o
+
+958
+01:10:13,133 --> 01:10:14,333
+ente que faz esta
+
+959
+01:10:14,466 --> 01:10:16,900
+certificação que é o organismo certificador de produto
+
+960
+01:10:17,066 --> 01:10:17,866
+brasileiro
+
+961
+01:10:18,933 --> 01:10:19,766
+ele não conhece
+
+962
+01:10:21,033 --> 01:10:21,833
+o campo
+
+963
+01:10:22,166 --> 01:10:22,966
+dessa área
+
+964
+01:10:23,066 --> 01:10:24,433
+então ele não conhece a realidade
+
+965
+01:10:24,533 --> 01:10:26,466
+da empresa da indústria da concessionária
+
+966
+01:10:26,633 --> 01:10:27,733
+não tem nem ideia disso
+
+967
+01:10:28,066 --> 01:10:29,833
+eu participei de uma reunião recente
+
+968
+01:10:29,933 --> 01:10:32,233
+agora né na Europa e tive
+
+969
+01:10:32,733 --> 01:10:35,900
+uma apresentação de um organismo certificador alemão
+
+970
+01:10:38,300 --> 01:10:40,366
+a metodologia de certificação deles lá
+
+971
+01:10:40,800 --> 01:10:41,866
+e o cara tem o mais
+
+972
+01:10:42,066 --> 01:10:42,099
+alto na situação você chega a aumentar
+
+973
+01:10:44,033 --> 01:10:44,900
+experiência industrial
+
+974
+01:10:45,066 --> 01:10:46,166
+experiência laboratorial
+
+975
+01:10:46,766 --> 01:10:48,300
+e experiência em certificação
+
+976
+01:10:49,433 --> 01:10:51,900
+então então hoje a gente tá assim num
+
+977
+01:10:52,100 --> 01:10:53,833
+num limbo eu tenho trabalhado
+
+978
+01:10:54,066 --> 01:10:56,333
+conversado com os colegas da animação e inclusive
+
+979
+01:10:56,766 --> 01:10:59,333
+pra gente tentar trabalhar pra melhorar esse nível
+
+980
+01:10:59,700 --> 01:11:02,633
+né levar essa educação né é
+
+981
+01:11:03,233 --> 01:11:04,033
+e também
+
+982
+01:11:04,133 --> 01:11:04,933
+fazer um um
+
+983
+01:11:04,966 --> 01:11:07,333
+um trabalho aí junto com o Inmetro por um Inmetro
+
+984
+01:11:07,633 --> 01:11:08,933
+subir um pouco essa régua né
+
+985
+01:11:09,133 --> 01:11:11,300
+uhum porque senão o usuário final
+
+986
+01:11:11,900 --> 01:11:13,066
+é que fica assim
+
+987
+01:11:13,233 --> 01:11:15,100
+com o problema e com o dano né
+
+988
+01:11:15,133 --> 01:11:15,866
+exatamente
+
+989
+01:11:15,866 --> 01:11:16,633
+e ele que vai
+
+990
+01:11:16,633 --> 01:11:18,433
+assinar embaixo a seleção que ele tá fazendo
+
+991
+01:11:18,533 --> 01:11:20,333
+então e no caso de um acidente como é que fica
+
+992
+01:11:20,666 --> 01:11:22,233
+é ah mas ele tinha c a
+
+993
+01:11:23,100 --> 01:11:24,100
+tinha etiqueta
+
+994
+01:11:24,700 --> 01:11:25,700
+mas a roupa não
+
+995
+01:11:25,900 --> 01:11:28,300
+isso então cê não olhou a etiqueta certa lá
+
+996
+01:11:28,666 --> 01:11:29,400
+c a não basta
+
+997
+01:11:29,766 --> 01:11:33,233
+é então esse é um ponto c a não basta não basta eu hoje
+
+998
+01:11:33,833 --> 01:11:35,866
+estou convencido que o c a não basta eu já vi
+
+999
+01:11:35,866 --> 01:11:37,433
+e caso de de arco
+
+1000
+01:11:37,666 --> 01:11:40,333
+que a faixinha aquela faixinha pegou fogo isso
+
+1001
+01:11:40,500 --> 01:11:40,966
+a roupa
+
+1002
+01:11:40,966 --> 01:11:41,666
+segurou mas
+
+1003
+01:11:41,666 --> 01:11:43,866
+a faixinha pegou fogo eu falei acho que alguém aí
+
+1004
+01:11:44,266 --> 01:11:46,700
+acho que isso não tava dentro do do esperado
+
+1005
+01:11:47,133 --> 01:11:48,366
+e dentro do especificado
+
+1006
+01:11:48,566 --> 01:11:49,833
+porque ela também tem que suportar
+
+1007
+01:11:50,700 --> 01:11:52,466
+exato até falo poxa
+
+1008
+01:11:52,533 --> 01:11:53,133
+mas às vezes
+
+1009
+01:11:53,133 --> 01:11:54,633
+o camarada trabalha em área
+
+1010
+01:11:54,700 --> 01:11:56,133
+que não precisa ter aquela faixa porque
+
+1011
+01:11:56,300 --> 01:11:57,100
+não tá na rua
+
+1012
+01:11:57,266 --> 01:11:58,033
+entendeu
+
+1013
+01:11:58,033 --> 01:11:58,833
+aí compra
+
+1014
+01:11:58,900 --> 01:12:01,100
+que a roupa do eletricista tem que ter a faixinha né
+
+1015
+01:12:01,233 --> 01:12:03,300
+então mas eles acham normalmente
+
+1016
+01:12:03,300 --> 01:12:05,766
+seu retrorefletivo é obrigatório nos vestimentos
+
+1017
+01:12:06,166 --> 01:12:07,733
+e muitos falham isso é verdade
+
+1018
+01:17:20,300 --> 01:17:21,033
+eu fiz um estudo
+
+1019
+01:17:21,233 --> 01:17:23,466
+deu oitenta calorias deu cem e noventa
+
+1020
+01:17:23,666 --> 01:17:27,033
+e coloca p i o p i vai suportar e tal vai
+
+1021
+01:17:27,500 --> 01:17:30,033
+né mas e os outros efeitos né
+
+1022
+01:17:30,900 --> 01:17:32,066
+existem relatos né
+
+1023
+01:17:32,166 --> 01:17:35,433
+e fazendo a revisão bibliográfica a gente viu é
+
+1024
+01:17:35,766 --> 01:17:38,266
+do da sensação do gosto de cobre na Boca
+
+1025
+01:17:38,633 --> 01:17:40,466
+por mais de 2 semanas quase 1 mês
+
+1026
+01:17:40,900 --> 01:17:43,533
+de quem passou por 1 acidente de arco elétrico tá
+
+1027
+01:17:44,233 --> 01:17:46,933
+perda auditiva permanente OU temporária
+
+1028
+01:17:47,733 --> 01:17:50,233
+peda de visão temporária ou permanente
+
+1029
+01:17:50,633 --> 01:17:52,933
+e tem um caso bastante interessante na literatura
+
+1030
+01:17:53,166 --> 01:17:54,666
+onde a pessoa perdeu a visão
+
+1031
+01:17:54,966 --> 01:17:56,666
+assim um percentual alto da visão
+
+1032
+01:17:57,766 --> 01:17:58,900
+e não foi por conta
+
+1033
+01:17:59,133 --> 01:18:01,033
+de calor porque ela estava protegida
+
+1034
+01:18:01,533 --> 01:18:03,433
+mas foi por conta de luz simplesmente
+
+1035
+01:18:04,066 --> 01:18:07,433
+criou lá 1 buraco lá na na na 1 mácula
+
+1036
+01:18:08,033 --> 01:18:10,133
+na na no Globo ocular
+
+1037
+01:18:10,500 --> 01:18:11,166
+e a pessoa
+
+1038
+01:18:11,166 --> 01:18:13,733
+não sei os termos médicos exatos que estão lá nesse
+
+1039
+01:18:13,966 --> 01:18:14,933
+nesse trabalho sim
+
+1040
+01:18:15,533 --> 01:18:16,466
+e a pessoa ficou
+
+1041
+01:18:16,766 --> 01:18:19,933
+com esse déficit de visão é feito aí falar também
+
+1042
+01:18:20,866 --> 01:18:21,766
+da associação
+
+1043
+01:18:22,300 --> 01:18:23,933
+americana de queimados ah sim
+
+1044
+01:18:24,133 --> 01:18:25,333
+se o cara inalar
+
+1045
+01:18:25,533 --> 01:18:27,566
+exato como é que fica a probabilidade de
+
+1046
+01:18:28,033 --> 01:18:28,733
+sobrevivência
+
+1047
+01:18:28,733 --> 01:18:31,166
+é existem os os reportes né da associação
+
+1048
+01:18:31,566 --> 01:18:32,666
+norte americana né de
+
+1049
+01:18:33,066 --> 01:18:33,866
+de queimados
+
+1050
+01:18:33,966 --> 01:18:35,133
+o Brasil tem também aqui
+
+1051
+01:18:35,266 --> 01:18:36,566
+a associação brasileira
+
+1052
+01:18:36,700 --> 01:18:38,633
+dos queimados mas eles não tem um reporte
+
+1053
+01:18:39,700 --> 01:18:40,500
+é
+
+1054
+01:18:41,266 --> 01:18:42,166
+no no nível
+
+1055
+01:18:42,233 --> 01:18:42,966
+de detalhamento
+
+1056
+01:18:42,966 --> 01:18:43,433
+que tem esse
+
+1057
+01:18:43,433 --> 01:18:44,933
+norte americano que é bastante interessante
+
+1058
+01:18:45,500 --> 01:18:46,700
+e ele trata não só
+
+1059
+01:18:47,533 --> 01:18:48,433
+ele ele não trata
+
+1060
+01:18:48,733 --> 01:18:52,233
+acidentes elétricos ele vai tratar queimaduras de todo
+
+1061
+01:18:52,866 --> 01:18:53,900
+de de toda fonte
+
+1062
+01:18:55,100 --> 01:18:55,900
+e
+
+1063
+01:18:56,333 --> 01:18:57,500
+a depender da idade
+
+1064
+01:18:57,666 --> 01:19:00,500
+né isso é um estudo que que já existe né você tá
+
+1065
+01:19:00,933 --> 01:19:03,166
+muito mais sujeito a fatalidade
+
+1066
+01:19:03,733 --> 01:19:04,533
+né então quanto
+
+1067
+01:19:04,566 --> 01:19:06,233
+mais velho e hoje a gente tem um pessoal
+
+1068
+01:19:06,866 --> 01:19:09,566
+mais velho aí idade laboratuando em elétrica
+
+1069
+01:19:10,533 --> 01:19:11,366
+você começa a subir
+
+1070
+01:19:11,566 --> 01:19:14,066
+o percentual de de mortalidade de de dez
+
+1071
+01:19:14,233 --> 01:19:15,500
+passa pra vinte trinta
+
+1072
+01:19:15,700 --> 01:19:16,500
+quarenta
+
+1073
+01:19:16,733 --> 01:19:19,266
+e sobe isso escala muito rápido e na
+
+1074
+01:19:21,400 --> 01:19:21,933
+essa chance
+
+1075
+01:19:21,933 --> 01:19:22,566
+de morte
+
+1076
+01:19:22,566 --> 01:19:23,600
+a quase três vezes
+
+1077
+01:19:23,766 --> 01:19:25,766
+são dois ponto sessenta e sete se eu não me engano
+
+1078
+01:19:26,033 --> 01:19:28,300
+são detalhes importantes que a gente
+
+1079
+01:19:28,900 --> 01:19:30,833
+é no nosso livro e nos nossos
+
+1080
+01:19:30,833 --> 01:19:31,900
+os treinamentos a gente
+
+1081
+01:19:32,533 --> 01:19:34,333
+procura falar né uhum
+
+1082
+01:19:34,700 --> 01:19:35,666
+e é importante
+
+1083
+01:19:36,033 --> 01:19:36,933
+isso né e as
+
+1084
+01:19:37,266 --> 01:19:38,300
+a maior parte das pessoas
+
+1085
+01:19:38,466 --> 01:19:40,066
+não sabem disso sem noção então
+
+1086
+01:19:40,600 --> 01:19:40,933
+você
+
+1087
+01:19:40,933 --> 01:19:42,400
+vocês aí que são supervisores
+
+1088
+01:19:43,000 --> 01:19:44,500
+coloca os meninos mais novos
+
+1089
+01:19:44,600 --> 01:19:47,000
+pra intervir nos painéis deixa os velhinho
+
+1090
+01:19:47,166 --> 01:19:49,766
+porque eles não vão aguentar o trampo não aguenta mais
+
+1091
+01:19:50,400 --> 01:19:51,533
+brincadeiras a parte mas
+
+1092
+01:19:51,600 --> 01:19:53,266
+é 1 realidade sim tá
+
+1093
+01:24:11,466 --> 01:24:13,933
+já tive conversa com pessoas de outras empresas
+
+1094
+01:24:14,200 --> 01:24:15,900
+que fazem a proteção facial
+
+1095
+01:24:16,300 --> 01:24:17,600
+só com Face shield
+
+1096
+01:24:18,133 --> 01:24:19,500
+ali né não usam
+
+1097
+01:24:19,966 --> 01:24:21,100
+a bala Clara
+
+1098
+01:24:21,366 --> 01:24:23,000
+entende que ali o atpv
+
+1099
+01:24:23,166 --> 01:24:25,600
+é superior né o valor do painel que
+
+1100
+01:24:25,900 --> 01:24:26,700
+tá protegido
+
+1101
+01:24:27,066 --> 01:24:27,866
+e aí tem
+
+1102
+01:24:28,133 --> 01:24:30,066
+algumas considerações importantes né
+
+1103
+01:24:30,933 --> 01:24:33,933
+é a primeira em relação a inalação da da fumaça
+
+1104
+01:24:34,600 --> 01:24:35,466
+né é que o
+
+1105
+01:24:35,533 --> 01:24:37,366
+face shield não vai te proteger muito a bala
+
+1106
+01:24:37,466 --> 01:24:38,266
+clava consegue
+
+1107
+01:24:38,300 --> 01:24:39,466
+atenuar um pouco isso
+
+1108
+01:24:39,600 --> 01:24:41,400
+uhum e a nfpa ela
+
+1109
+01:24:41,966 --> 01:24:44,333
+toma esse cuidado né ela pede a bala clava com
+
+1110
+01:24:44,500 --> 01:24:46,666
+protetor facial e o óculos também por
+
+1111
+01:24:46,966 --> 01:24:49,766
+baixo por baixo do do Face shield né tá
+
+1112
+01:24:50,200 --> 01:24:51,600
+é e por que que isso é importante
+
+1113
+01:24:52,200 --> 01:24:53,500
+porque a referência de um vírgula dois
+
+1114
+01:24:53,566 --> 01:24:55,666
+calorias pro sentimento quadrado é pra pele
+
+1115
+01:24:55,900 --> 01:24:58,366
+né o olho e as mucosas né seguramente
+
+1116
+01:24:58,700 --> 01:24:59,500
+tem uma
+
+1117
+01:24:59,566 --> 01:25:01,600
+uma tolerância uma tolerância menor
+
+1118
+01:25:02,200 --> 01:25:04,800
+é e outro outro ponto é
+
+1119
+01:25:04,966 --> 01:25:05,600
+você pode ter
+
+1120
+01:25:05,600 --> 01:25:06,900
+instalações com energia estante
+
+1121
+01:25:06,966 --> 01:25:08,100
+inferior a uma vírgula duas
+
+1122
+01:25:08,200 --> 01:25:09,533
+calorias por sentimento quadrado
+
+1123
+01:25:10,133 --> 01:25:12,166
+mas que podem produzir um ruído
+
+1124
+01:25:12,533 --> 01:25:14,500
+que pode danificar o mesmo romper o seu
+
+1125
+01:25:14,666 --> 01:25:15,566
+seu tímpano sim
+
+1126
+01:25:15,700 --> 01:25:16,500
+então a proteção
+
+1127
+01:25:16,566 --> 01:25:17,966
+auditiva é algo que a gente vai ter que
+
+1128
+01:25:18,100 --> 01:25:18,900
+amadurecer
+
+1129
+01:25:19,266 --> 01:25:20,066
+mais ainda né
+
+1130
+01:25:20,533 --> 01:25:21,900
+mas uma recomendação prática
+
+1131
+01:25:22,400 --> 01:25:24,400
+é é você usar a proteção
+
+1132
+01:25:25,300 --> 01:25:26,166
+é auditiva
+
+1133
+01:25:26,466 --> 01:25:29,200
+preferencialmente a de concha né mas aí ela não tem
+
+1134
+01:25:29,900 --> 01:25:31,900
+ela proteção térmica não tem proteção térmica
+
+1135
+01:25:32,066 --> 01:25:35,100
+né e aí você pode utilizar o capuz carrasco sim
+
+1136
+01:25:35,333 --> 01:25:36,933
+no lugar da bala clava
+
+1137
+01:25:37,333 --> 01:25:40,666
+com o face shield mesmo pra valores inferiores a doze
+
+1138
+01:25:41,000 --> 01:25:42,066
+uma consideração prática
+
+1139
+01:25:42,200 --> 01:25:45,366
+porque a nfpa vai pedir capuz carrasco acima de doze
+
+1140
+01:25:45,733 --> 01:25:48,066
+mas não é proibido você usar abaixo de doze
+
+1141
+01:25:48,600 --> 01:25:50,866
+e você acaba resolvendo outros problemas né você sim
+
+1142
+01:25:51,100 --> 01:25:53,566
+mais protegido contra fumaça tóxica sim também
+
+1143
+01:25:54,000 --> 01:25:54,866
+contra radiação
+
+1144
+01:25:55,366 --> 01:25:57,200
+e você consegue incorporar proteção
+
+1145
+01:25:57,666 --> 01:26:00,700
+auditiva é é basicamente é é calor
+
+1146
+01:26:01,166 --> 01:26:02,466
+é luz e é som
+
+1147
+01:26:03,366 --> 01:26:04,300
+então às vezes a pessoa
+
+1148
+01:26:04,366 --> 01:26:06,266
+fica só no calor não queimou tá tudo bem
+
+1149
+01:26:06,566 --> 01:26:07,666
+o cara ficou cego
+
+1150
+01:26:09,466 --> 01:26:09,966
+e
+
+1151
+01:26:09,966 --> 01:26:11,866
+projeção de estilhaço de estilhaço
+
+1152
+01:26:12,366 --> 01:26:13,100
+eles caminham
+
+1153
+01:26:13,100 --> 01:26:14,566
+1.200km/h
+
+1154
+01:26:15,300 --> 01:26:16,266
+é é 1 projeto
+
+1155
+01:10:42,066 --> 01:10:43,900
+alto gabarito de conhecimento técnico
+
